@@ -1,0 +1,157 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%  New template code for TAMU Theses and Dissertations starting Fall 2012.  
+%  For more info about this template or the 
+%  TAMU LaTeX User's Group, see http://www.howdy.me/.
+%
+%  Author: Wendy Lynn Turner 
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%  New template code for TAMU Theses and Dissertations starting Fall 2016.  
+%
+%
+%  Author: Sean Zachary Roberson
+%  Version 3.17.01
+%  Last Updated: 1/10/2017
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[12pt]{report}
+\usepackage{times}
+\usepackage[T1]{fontenc}
+\usepackage[letterpaper]{geometry}
+\geometry{verbose,tmargin=1.25in,bmargin=1.25in,lmargin=1.4in,rmargin=1.15in}
+\usepackage[doublespacing]{setspace}
+\usepackage{tocloft}
+\usepackage[rm, tiny, center, compact]{titlesec}
+\usepackage{indentfirst}
+\usepackage{etoolbox}
+\usepackage{tocvsec2}
+\usepackage[titletoc]{appendix}
+\usepackage{appendix}
+\usepackage{style/tamuconfig}
+\usepackage{rotating}
+\usepackage{mathtools} %mathtools loads amsmath
+\usepackage{graphicx}
+\DeclareGraphicsExtensions{.png,.pdf}
+\graphicspath{{./figures/}}
+%% \usepackage{afterpage}
+\usepackage{footnote}
+\usepackage{longtable}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Begin student defined packages.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{tabu}
+\usepackage{caption}
+\usepackage{cite}
+\usepackage{url}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage[normalem]{ulem}
+\usepackage{xcolor}
+\usepackage{caption}
+\captionsetup[table]{aboveskip=0pt}
+\usetikzlibrary{arrows,positioning,decorations.pathmorphing,decorations.markings}
+\tikzstyle{vecArrow} = [thick, decoration={markings,mark=at position 1 with {\arrow[semithick]{open triangle 60}}}, double distance=1.4pt, shorten >= 5.5pt, preaction = {decorate}, postaction = {draw,line width=1.4pt,white,shorten >= 4.5pt}]
+\tikzstyle{innerWhite} = [semithick,white,line width=1.4pt,shorten >= 4.5pt]
+\pgfplotsset{compat=1.13,
+  /pgfplots/xbar legend/.style={
+  /pgfplots/legend image code/.code={
+    \draw[##1,/tikz/.cd,xshift=-0.5em]
+    (0cm,0cm) rectangle (0.8em,5pt);},
+  },
+}
+\setlist{nolistsep}
+\definecolor{raceGreen}{rgb}{0,225,150}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%End student defined packages.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Added to fix issues with pdf searching in some versions of LaTeX
+%\usepackage[T1]{fontenc}\usepackage{lmodern}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Hyperref setup below.  You should be able to get away with using uncommenting just the first line.
+%\usepackage[hidelinks]{style/hyperref}
+
+% if \usepackage[hidelinks]{style/hyperref} doesn't work try this.
+% \usepackage{style/hyperref}  % Hidelinks is an option that removes link visiability.  TAMU Thesis Offices prefers to not see the links. But often doesn't work.  
+% 
+% \hypersetup{
+%     colorlinks=true,
+%     linkcolor=black,
+%     citecolor=black,
+%     filecolor=black,
+%     urlcolor=black,
+% }
+%%%%%%%  End of hyperref setup.  One of these two options should work, but my motto with hyperref is when in doubt, comment it out!
+%%%%%%%%%  This hopefully fixes the problem with vertical spacing of section headings at the top of the page..  Commented out in 1.0.7
+% \preto\section{%
+% \ifnum\value{section}>0\addtocontents{toc}{\vskip-6pt}\fi
+% }
+% \preto\subsection{%
+% \ifnum\value{subsection}=0\addtocontents{toc}{\vskip-6pt}\fi
+% \ifnum\value{subsection}>0\addtocontents{toc}{\vskip-6pt}\fi
+% } 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\renewcommand{\tamumanuscripttitle}{Understanding the imprinting mechanism of \textit{Ube3a} for therapeutic intervention}
+\renewcommand{\tamupapertype}{Dissertation}
+\renewcommand{\tamufullname}{Jade M Benjamin}
+\renewcommand{\tamudegree}{Doctor of Philosophy}
+\renewcommand{\tamuchairone}{Scott V Dindot}
+% Uncomment out the next line if you have co-chairs.  You will also need to edit the titlepage.tex file.
+%\newcommand{\tamuchairtwo}{Additional Chair Name}
+\renewcommand{\tamumemberone}{Kevin Burgess}
+\renewcommand{\tamumembertwo}{David J Segal}
+\renewcommand{\tamumemberthree}{David Threadgill}
+\renewcommand{\tamudepthead}{Dorothy Shippen}
+\renewcommand{\tamugradmonth}{August}
+\renewcommand{\tamugradyear}{2017}
+\renewcommand{\tamudepartment}{Genetics}
+
+
+\include{data/titlepage} % This is simply a file that formats and adds your titlepage, please do not edit this unless you have a specific need. .
+
+\include{data/abstract}
+\include{data/dedication}
+\include{data/acknowledgements}
+\include{data/contributors}
+\include{data/nomenclature}
+
+\include{data/lists}  % This is simply a file that formats and adds your toc, lof, and lot, please do not edit this unless you have a specific need. .
+
+\include{data/section1}
+\include{data/section2}
+\include{data/section3}
+\include{data/section4}
+\include{data/section5}
+\include{data/section6}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\let\oldbibitem\bibitem
+\renewcommand{\bibitem}{\setlength{\itemsep}{0pt}\oldbibitem}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\bibliographystyle{style/plos2015}
+
+\phantomsection
+\addcontentsline{toc}{chapter}{REFERENCES}
+
+\renewcommand{\bibname}{{\normalsize\rm REFERENCES}}
+
+%This file is a .bib database that contains the sources.
+%This removes the dependency on the previous file
+%bibliography.tex.
+\bibliography{data/myReferences}
+
+\include{data/appendices}
+
+\end{document}

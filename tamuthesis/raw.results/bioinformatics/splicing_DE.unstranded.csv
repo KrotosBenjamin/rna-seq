@@ -1,0 +1,5 @@
+GeneID	Chr	Strand	NExons	P.Value	FDR	Species
+MSTRG.2448	chr7	-	351	2.10264E-05	0.0001295077	Mus
+MSTRG.2451	chr7	+	101	5.245605E-14	1.073806E-12	Mus
+						Homo
+						Homo

@@ -1,0 +1,128 @@
+% Encoding: UTF-8
+
+@Article{Yang1998,
+  author =    {Yang, Tao and Adamson, Todd E. and Resnick, James L. and Leff, Stuart and Wevrick, Rachel and Francke, Uta and Jenkins, Nancy A. and Copeland, Neal G. and Brannan, Camilynn I.},
+  title =     {A mouse model for Prader-Willi syndrome imprinting-centre mutations},
+  journal =   {Nat. Genet.},
+  year =      {1998},
+  volume =    {19},
+  number =    {1},
+  pages =     {25--31},
+  month =     may,
+  doi =       {10.1038/ng0598-25},
+  url =       {http://dx.doi.org/10.1038/ng0598-25}
+}
+
+@Article{Scheffner1993,
+  author =    {Scheffner, Martin and Huibregtse, Jon M. and Vierstra, Richard D. and Howley, Peter M.},
+  title =     {The HPV-16 E6 and E6-AP complex functions as a ubiquitin-protein ligase in the ubiquitination of p53},
+  journal =   {Cell},
+  year =      {1993},
+  volume =    {75},
+  number =    {3},
+  pages =     {495--505},
+  abstract =  {The ubiquitin-dependent proteolytic pathway plays a major role in selective protein degradation. Ubiquitination of proteins requires the sequential action of the ubiquitin-activating enzyme (E1), ubiquitin-conjugating enzymes (E2), and in some cases ubiquitin-protein ligases (E3s). The oncogenic human papillomavirus (HPV) types 16 and 18 utilize this cellular proteolytic system to target the tumor suppressor protein p53. The HPV E6 oncoprotein binds to a cellular protein of 100 kd, termed E6-associated protein (E6-AP). The E6-E6-AP complex specifically interacts with p53, resulting in the rapid ubiquitin-dependent degradation of p53. Here we report the purification and identification of the factors necessary for the E6-E6-AP-mediated ubiquitination of p53. The ubiquitination of p53 requires the E1 enzyme and a novel E2 in mammalian cells, while E3 activity is conferred by the E6-E6-AP complex. Furthermore, E6-AP appears to have ubiquitin-protein ligase activity in the absence of E6.},
+  doi =       {10.1016/0092-8674(93)90384-3},
+  issn =      {0092-8674},
+  publisher = {Elsevier},
+  url =       {http://dx.doi.org/10.1016/0092-8674(93)90384-3}
+}
+
+@Article{Kavalali1999,
+  author =    {Kavalali, Ege T. and Klingauf, Jürgen and Tsien, Richard W.},
+  title =     {Activity-dependent regulation of synaptic clustering in a hippocampal culture system},
+  journal =   {Proceedings of the National Academy of Sciences},
+  year =      {1999},
+  volume =    {96},
+  number =    {22},
+  pages =     {12893--12900},
+  abstract =  {Currently, there is a limited understanding of the factors that influence the localization and density of individual synapses in the central nervous system. Here we have studied the effects of activity on synapse formation between hippocampal dentate granule cells and CA3 pyramidal neurons in culture, taking advantage of FM1-43 as a fluorescent marker of synaptic boutons. We observed an early tendency for synapses to group together, quickly followed by the appearance of synaptic clusters on dendritic processes. These events were strongly influenced by N-methyl-d-aspartic acid receptor- and cyclic AMP-dependent signaling. The microstructure and localization of the synaptic clusters resembled that found in hippocampus, at mossy fiber synapses of stratum lucidum. Activity-dependent clustering of synapses represents a means for synaptic targeting that might contribute to synaptic organization in the brain.},
+  month =     oct,
+  doi =       {10.1073/pnas.96.22.12893},
+  url =       {http://www.pnas.org/content/96/22/12893.}
+}
+
+@Article{Nawaz1999,
+  author =   {Nawaz, Zafar and Lonard, David M. and Smith, Carolyn L. and Lev-Lehman, Efrat and Tsai, Sophia Y. and Tsai, Ming-Jer and O’Malley, Bert W.},
+  title =    {The Angelman Syndrome-Associated Protein, E6-AP, Is a Coactivator for the Nuclear Hormone Receptor Superfamily},
+  journal =  {Mol. Cell. Biol.},
+  year =     {1999},
+  volume =   {19},
+  number =   {2},
+  pages =    {1182--1189},
+  abstract = {In this study, we found that the E6-associated protein (E6-AP/UBE3A) directly interacts with and coactivates the transcriptional activity of the human progesterone receptor (PR) in a hormone-dependent manner. E6-AP also coactivates the hormone-dependent transcriptional activities of the other members of the nuclear hormone receptor superfamily. Previously, it was shown that E6-AP serves the role of a ubiquitin-protein ligase (E3) in the presence of the E6 protein from human papillomavirus types 16 and 18. Our data show that the ubiquitin-protein ligase function of E6-AP is dispensable for its ability to coactivate nuclear hormone receptors, showing that E6-AP possesses two separable independent functions, as both a coactivator and a ubiquitin-protein ligase. Disruption of the maternal copy of E6-AP is correlated with Angelman syndrome (AS), a genetic neurological disorder characterized by severe mental retardation, seizures, speech impairment, and other symptoms. However, the exact mechanism by which the defective E6-AP gene causes AS remains unknown. To correlate the E6-AP coactivator function and ubiquitin-protein ligase functions with the AS phenotype, we expressed mutant forms of E6-AP isolated from AS patients and assessed the ability of each of these mutant proteins to coactivate PR or provide ubiquitin-protein ligase activity. This analysis revealed that in the majority of the AS patients examined, the ubiquitin-protein ligase function of E6-AP was defective whereas the coactivator function was intact. This finding suggests that the AS phenotype results from a defect in the ubiquitin-proteosome protein degradation pathway.}
+  month =    feb,
+  doi =      {10.1128/MCB.19.2.1182},
+  url =      {http://mcb.asm.org/content/19/2/1182.}
+}
+
+@Article{Kaneko-Ishino2003,
+  author =   {Kaneko-Ishino, Tomoko and Kohda, Takashi and Ishino, Fumitoshi},
+  title =    {The Regulation and Biological Significance of Genomic Imprinting in Mammals},
+  journal =  {J. Biochem. (Tokyo)},
+  year =     {2003},
+  volume =   {133},
+  number =   {6},
+  pages =    {699--711},
+  abstract = {Genomic imprinting is a system of non-Mendelian inheritance that is unique to mammals. Two types of imprinted genes show parent-of-origin-specific expression patterns: the paternally expressed genes (Pegs), and the maternally expressed genes (Megs). Parental genomic imprinting memory is maintained in the somatic cell lineage and regulates the expression of Pegs and Megs, while it is erased and re-established in the germ cell lineage according to the sex of the individual. The paternal and maternal imprinting mechanisms, which regulate different sets of Pegs and Megs, are essential for establishing the parental expression profiles of imprinted genes that are observed in sperms and eggs. Based on recent evidence, we outline the relationship between parental imprinting and the expression profiles of Pegs and Megs and discuss a novel view of the regulation of genomic imprinting. We also discuss the biological significance of genomic imprinting and propose hypotheses on the essential nature of genomic imprinting and the close relationship between genomic imprinting and the acquisition of placental tissues during mammalian evolution.}
+  month =    jun,
+  doi =      {10.1093/jb/mvg090},
+  url =      {http://jb.oxfordjournals.org/content/133/6/699.}
+}
+
+@Article{Umlauf2004,
+  author =    {Umlauf, David and Goto, Yuji and Cao, Ru and Cerqueira, Frederique and Wagschal, Alexandre and Zhang, Yi and Feil, Robert},
+  title =     {Imprinting along the Kcnq1 domain on mouse chromosome 7 involves repressive histone methylation and recruitment of Polycomb group complexes},
+  journal =   {Nat. Genet.},
+  year =      {2004},
+  volume =    {36},
+  number =    {12},
+  pages =     {1296--1300},
+  month =     dec,
+  doi =       {10.1038/ng1467},
+  issn =      {1061-4036},
+  url =       {http://dx.doi.org/10.1038/ng1467}
+}
+
+@Article{Kaneko-Ishino2006,
+  author =   {Kaneko-Ishino, T. and Kohda, T. and Ono, R. and Ishino, F.},
+  title =    {Complementation hypothesis: the necessity of a monoallelic gene expression mechanism in mammalian development},
+  journal =  {Cytogenet. Genome Res.},
+  year =     {2006},
+  volume =   {113},
+  number =   {1-4},
+  pages =    {24--30},
+  abstract = {Gene expression from both parental alleles (biallelic expression) is beneficial in minimizing the occurrence of recessive genetic disorders in diploid organisms. However, imprinted genes in mammals display parent of origin-specific monoallelic expression. As some imprinted genes play essential roles in mammalian development, the reason why mammals adopted the genomic imprinting mechanism has been a mystery since its discovery. In this review, based on the recent studies on imprinted gene regulation we discuss several advantageous features of a monoallelic expression mechanism and the necessity of genomic imprinting in the current mammalian developmental system. We further speculate how the present genomic imprinting system has been established during mammalian evolution by the mechanism of complementation between paternal and maternal genomes under evolutionary pressure predicted by the genetic conflict hypothesis.},
+  issn =     {1424-8581},
+  url =      {http://www.karger.com/DOI/10.1159/000090811}
+}
+
+@Article{Morrissy2011,
+  author =   {Morrissy, A. Sorana and Griffith, Malachi and Marra, Marco A.},
+  title =    {Extensive relationship between antisense transcription and alternative splicing in the human genome},
+  journal =  {Genome Res.},
+  year =     {2011},
+  volume =   {21},
+  number =   {8},
+  pages =    {1203--1212},
+  abstract = {To analyze the relationship between antisense transcription and alternative splicing, we developed a computational approach for the detection of antisense-correlated exon splicing events using Affymetrix exon array data. Our analysis of expression data from 176 lymphoblastoid cell lines revealed that the majority of expressed sense-antisense genes exhibited alternative splicing events that were correlated to the expression of the antisense gene. Most of these events occurred in areas of sense-antisense (SAS) gene overlap, which were significantly enriched in both exons and nucleosome occupancy levels relative to nonoverlapping regions of the same genes. Nucleosome occupancy was highly correlated with Pol II abundance across overlapping regions and with concomitant increases in local alternative exon usage. These results are consistent with an antisense transcription-mediated mechanism of splicing regulation in normal human cells. A comparison of the prevalence of antisense-correlated splicing events between individuals of Mormon versus African descent revealed population-specific events that may indicate the continued evolution of new SAS loci. Furthermore, the presence of antisense transcription was correlated to alternative splicing across multiple metazoan species, suggesting that it may be a conserved mechanism contributing to splicing regulation.}
+  month =    aug,
+  doi =      {10.1101/gr.113431.110},
+  url =      {http://genome.cshlp.org/content/21/8/1203.}
+}
+
+@Article{MacIsaac2012,
+  author =   {MacIsaac, Julia L. and Bogutz, Aaron B. and Morrissy, A. Sorana and Lefebvre, Louis},
+  title =    {Tissue-specific alternative polyadenylation at the imprinted gene Mest regulates allelic usage at Copg2},
+  journal =  {Nucleic Acids Res.},
+  year =     {2012},
+  volume =   {40},
+  number =   {4},
+  pages =    {1523--1535},
+  abstract = {The gene Mest (also known as Peg1) is regulated by genomic imprinting in the mouse and only the paternal allele is active for transcription. MEST is similarly imprinted in humans, where it is a candidate for the growth retardation Silver-Russell syndrome. The MEST protein belongs to an ancient family of hydrolases but its function is still unknown. It is highly conserved in vertebrates although imprinted expression is only observed in marsupials and eutherians, thus a recent evolutionary event. Here we describe the identification of new imprinted RNA products at the Mest locus, longer variants of the RNA, called MestXL, transcribed >10 kb into the downstream antisense gene Copg2. During development MestXL is produced exclusively in the developing central nervous system (CNS) by alternative polyadenylation. Copg2 is biallelically expressed in the embryo except in MestXL-expressing tissues, where we observed preferential expression from the maternal allele. To analyze the function of the MestXL transcripts in Copg2 regulation, we studied the effects of a targeted allele at Mest introducing a truncation in the mRNA. We show that both the formation of the MestXL isoforms and the allelic bias at Copg2 are lost in the CNS of mutants embryos. Our results propose a new mechanism to regulate allelic usage in the mammalian genome, via tissue-specific alternative polyadenylation and transcriptional interference in sense-antisense pairs at imprinted loci.}
+  month =    feb,
+  doi =      {10.1093/nar/gkr871},
+  url =      {http://nar.oxfordjournals.org/content/40/4/1523.}
+}
+
+@comment{jabref-meta: databaseType:bibtex;}

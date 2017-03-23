@@ -1,0 +1,1573 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                           APPENDIX E
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{\uppercase {Protocols}}
+
+The following is a list of detailed protocols used in this thesis.
+
+\section{Genotyping}
+
+\subsection{DNA extraction}
+\subsubsection*{Two-day Genotyping}
+
+\begin{enumerate}
+\item Move tails (or ear punches) to 1.5 ml tube that does not leak if necessary.
+\item Add 400 Proteinase K mastermix to each tail.
+  \begin{enumerate}
+  \item 400 $\mu$l of NTES, \textbf{Table \ref{table:E-1}}
+  \item 1 $\mu$l of Proteinase K
+  \end{enumerate}
+\item Incubate overnight at 50$^{\circ}$C, constant agitation.
+\item Next day, spin down for 5 min at 14,000 rpm.
+\item Pour supernatant into new labeled tube.
+\item Add 650 $\mu$l of isopropanol that has been cooled in -20$^{\circ}$C for $>$ 1 h\footnotemark. \footnotetext{If precipitate does not form immediately, place in -20$^{\circ}$C for $>$ 2 h.}
+\item Shake by hand until a precipitate forms.
+\item Spin down for $>$ 1 min at 14,000 rpm.
+\item Pour supernatant off and set upside-down to dry briefly on a paper towel\footnotemark.\footnotetext{Care should be taken when pouring off supernatant so as not to loss DNA at bottom of tube.}  
+\item Add 1 ml of 70\% EtOH to the tubes.
+\item Gently free the pellet from the side of tube with a flick.
+\item Set the sample to rock for $>$ 30 min at room temperature\footnotemark. \footnotetext{The longer the wash, the cleaner the sample. Rock overnight for best results. For really dirty samples, 70\% EtOH can be changed out.}
+\item Spin down sample for 1 min at 14,000 rpm.
+\item Pour off 70\% EtOH and blot dry on paper towel.
+\item Set on heat-block with lid open for about 10 min (10 - 15 min) at 37$^{\circ}$C to 65$^{\circ}$C.
+\item Add purified water (or elution buffer) based on the amount of DNA in the tube and close lid for overnight incubation\footnotemark.\footnotetext{If uncertain about the amount of water to add, use low amounts like 50 $\mu$l and adjust after experience.}  
+\end{enumerate}
+
+\subsubsection*{KAPA Mouse Genotyping}
+
+\begin{enumerate}
+\item Setup mastermix for DNA extraction reactions.
+  \begin{enumerate}
+  \item 22 $\mu$l of PCR-grade water
+  \item 2.5 $\mu$l of 10X KAPA Express Extract Buffer
+  \item 0.5 $\mu$l of 1 U/$\mu$l KAPA Express Extract Enzyme
+  \end{enumerate}
+\item Add 25 $\mu$l/sample in PCR 120 $\mu$l tubes.
+\item Run lysis protocol on PCR machine\footnotemark.\footnotetext{KAPA Express Extract will not completely degrade the tissue like Proteinase K, so there will be intact tissue in the tube after lysis.}
+  \begin{enumerate}
+  \item Lysis step - 75$^{\circ}$C for 10 min
+  \item Enzyme inactivation - 95$^{\circ}$C for 5 min
+  \end{enumerate}
+\item Centrifuge samples briefly to pellet cellular debris.
+\item Dilute DNA extract 10-fold with 10 mM Tris-HCl (pH 8.0 - 8.5)\footnotemark.\footnotetext{This is necessary to dilute out the salts leftover by lysis.}
+\end{enumerate}
+
+\subsection{Ube3a$^{YFP}$ Genotyping}
+
+\subsubsection*{Standard}
+\begin{enumerate}
+\item Measure DNA with nanodrop before continuing\footnotemark.\footnotetext{For Ube3a$^{YFP}$ Genotyping, 100 ng/$\mu$l required.}
+\item For best results, dilute each sample to 50 ng/$\mu$l.
+\item Make up mastermix.
+  \begin{enumerate}
+  \item 11.4 $\mu$l of water
+  \item 5.0 $\mu$l of 5X Taq Buffer
+  \item 2.5 $\mu$l of MgCl$_2$
+  \item 1.0 $\mu$l of dNTP
+  \item 1.0 $\mu$l of forward primer
+  \item 0.15 $\mu$l of R$_1$ primer
+  \item 0.5 $\mu$l of R$_2$ primer
+  \item 1.25 $\mu$l of DMSO
+  \item 0.2 $\mu$l of Taq Polymerase
+  \end{enumerate}
+\item Add 23 $\mu$l of mastermix to each PCR tube.
+\item Add 2 $\mu$l of diluted DNA to each tube.
+\item Run PCR protocol.
+  \begin{enumerate}
+  \item 1 cycle of 95$^{\circ}$C for 5 min
+  \item 35 cycles of
+    \begin{itemize}
+    \item 95$^{\circ}$C for 40 s
+    \item 54$^{\circ}$C for 40 s
+    \item 72$^{\circ}$C for 60 s
+    \end{itemize}
+  \item 1 cycle of 72$^{\circ}$C for 7 min
+  \item Hold at 4$^{\circ}$C
+  \end{enumerate}
+\item Spin down and store at 4$^{\circ}$C.
+\end{enumerate}
+
+\subsubsection*{KAPA PCR Reaction}
+
+\begin{enumerate}
+\item Make up master mix.
+  \begin{enumerate}
+  \item 7 $\mu$l of PCR-grade water
+  \item 10 $\mu$l of 2X KAPA2G Fast Genotyping Mix with dye
+  \item 1.0 $\mu$l of forward primer
+  \item 0.5 $\mu$l of R$_1$ primer
+  \item 0.5 $\mu$l of R$_2$ primer
+  \end{enumerate}
+\item Add 19 $\mu$l of mastermix to each PCR tube.
+\item Add 1 $\mu$l of diluted DNA to each tube.
+\item Run PCR protocol.
+  \begin{enumerate}
+  \item 1 cycle of 95$^{\circ}$C for 3 min
+  \item 35 cycles of
+    \begin{itemize}
+    \item 95$^{\circ}$C for 15 s
+    \item 58$^{\circ}$C for 15 s
+    \item 72$^{\circ}$C for 30 s
+    \end{itemize}
+  \item 1 cycle of 72$^{\circ}$C for 2 min
+  \item Hold at 4$^{\circ}$C
+  \end{enumerate}
+\item Spin down and store at 4$^{\circ}$C.
+\end{enumerate}
+
+\subsection{Gel Electrophoresis}
+
+\begin{enumerate}
+\item Make 1 to 1.5\% agarose gel.
+  \begin{enumerate}
+  \item Measure out $\sim$1 to 1.5 g of agarose
+  \item Pour agarose powder into glass flask
+  \item Add 100 ml of 1xTAE buffer to glass flask, \textbf{Table \ref{table:E-1}}
+  \item Microwave until agarose completely dissolves\footnotemark \footnotetext{Be careful that it does not boil over. It is a good idea to microwave for 30 s and stop and swirl, then continue to boil.}
+  \item Let agarose solution cool down for 10 min\footnotemark \footnotetext{Use running water to speed the process up if desired.}
+  \item Add 5 $\mu$l of ethidium bromide (EtBr) or other DNA imaging solution\footnotemark. \footnotetext{EtBr is a known mutagen, so use with caution (i.e. always wear nitrile gloves when working with it).}
+  \end{enumerate}
+\item Setup gel tray if needed.
+\item Pour the agarose solution into a gel tray with desired well comb in place and let solidify for 10 to 15 min.
+\item Place gel into gel electrophoresis unit with 1xTAE until gel is completely covered.
+\item Load DNA molecular weight ladder into first lane of the gel and PCR samples after it.
+\item Run at 100V for $>$ 1 h.
+\item Use UV light to visualize DNA fragments.
+\end{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}[!ht]
+  \centering
+  \resizebox{\linewidth}{!}{
+    \includegraphics[scale=1.22]{figures/Ube3aYFP_ES_Genotyping.pdf}
+  }
+  \caption{Example of standard Ube3a$^{YFP}$ Genotyping using Ube3a$^{+/YFP}$ ES cells gel image.}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagebreak
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{longtabu} to \textwidth {X[1.2,c]X[1.2,l]X[2,l]}
+  \caption{Media composition}\\
+  \label{table:E-1}\\
+  \toprule
+    \textbf{Media} & \textbf{Components} & \textbf{Amount}\\
+    \midrule
+    \endhead
+    NTES Buffer & Sterile H$_2$O & 315 ml\\
+    & SDS & 1\% (50 ml of 10\%)\\
+    & NaCl & 0.1 M (10 ml of 5 M)\\
+    & EDTA & 0.1 M (100 ml of 0.5 M)\\
+    & Tris & 0.05 M, pH 8 (25 ml of 0.5 M)\\
+    \midrule
+    50X stock TAE & Tris-base & 242.2 g\\
+    & Glacial acetic acid & 57.1 ml\\
+    & EDTA & 0.5 M, pH 8, 100 ml\\
+    & Sterile H$_2$O & up to 1 L\\
+    \bottomrule
+\end{longtabu}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagebreak
+
+\section{High-throughput Image Analysis}
+
+\subsection{Image Processing}
+
+\subsubsection*{GFP only}
+
+\begin{enumerate}
+\item Launch Developer Toolbox
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[!ht]
+    \centering
+    \resizebox{\linewidth}{!}{
+      \includegraphics{figures/HTS01.pdf}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\item Enter Protocol Explorer
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[!ht]
+    \centering
+    \resizebox{\linewidth}{!}{
+      \includegraphics{figures/HTS02.pdf}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \pagebreak
+\item Open protocol
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[!ht]
+    \centering
+    \resizebox{\linewidth}{!}{
+      \includegraphics{figures/HTS03.pdf}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\item Select protocol: GFP only uses \textit{YFP Only v1}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[!ht]
+    \centering
+    \resizebox{\linewidth}{!}{
+      \includegraphics{figures/HTS04.pdf}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[!ht]
+    \centering
+    \resizebox{\linewidth}{!}{
+      \includegraphics{figures/HTS05.pdf}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\item Within the protocol, targets are pre-processed using Denoising (gradient) at kernel size = 3.
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[!ht]
+    \centering
+    \resizebox{!}{4in}{
+      \includegraphics[scale=0.75]{figures/HTS06.pdf}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \pagebreak
+\item Within the protocol, targets are segmented via
+  \begin{itemize}
+  \item Nuclear Segmentation
+  \item Minimum target area (237 pixel)
+  \item Sensitivity equal to 30
+  \item Octagonal morphology
+  \item Precise mask
+  \end{itemize}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[!ht]
+    \centering
+    \resizebox{!}{4in}{
+      \includegraphics[scale=0.75]{figures/HTS07.pdf}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \pagebreak
+\item Within the protocol, post-processing uses the following
+  \begin{itemize}
+  \item Watershed clump breaking
+  \item Sieve (binary)
+  \end{itemize}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[!ht]
+    \centering
+    \resizebox{!}{4in}{
+      \includegraphics[scale=0.75]{figures/HTS08.pdf}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \pagebreak
+\item Within the protocol, targets can be directly measured using GFP channel.
+  \begin{enumerate}
+  \item Density Levels of target
+  \item Median Density Levels of target
+  \item Target Area
+  \end{enumerate}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[!ht]
+    \centering
+    \resizebox{!}{4in}{
+      \includegraphics{figures/HTS09.pdf}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{enumerate}
+\pagebreak
+\subsubsection*{Nuclei-Overlap}
+
+\noindent\textbf{Nuclei-Overlap} image processing method uses the same protocol for GFP channel; however adds the Nuclei channel as well.
+\begin{enumerate}
+\item Process GFP channel
+  \begin{enumerate}
+  \item Pre-processing steps for GFP channel as above.
+  \item Segmentation for GFP channel as above.
+  \item Post-processing steps for GFP channel as above.
+  \item Collect Median Intensity (Density Levels) for GFP channel.
+  \end{enumerate}
+\item Process Nuclei channel
+  \begin{enumerate}
+  \item Pre-processing steps for Nuclei channel - Denoising, kernel size = 3.
+  \item Segmentation for Nuclei channel - optimize for maximum nuclei targeting.
+  \item Post-processing steps for Nuclei channel - Watershed \& Sieve.
+  \item Collect cell count (\textit{optional}).
+  \end{enumerate}
+\item Generate overlapping mask
+  \begin{enumerate}
+  \item Create linking target
+  \item Nuclei target 70\% overlapping of GFP target
+  \end{enumerate}
+\item Collect data, Median Density \& Area from GFP channel
+\end{enumerate}
+\pagebreak
+\subsubsection*{NeuN-Overlap}
+
+\noindent\textbf{NeuN-Overlap} image processing method uses the same protocol for Nuclei-Overlap method; however with additional NeuN channel.
+\begin{enumerate}
+\item Process GFP channel
+  \begin{enumerate}
+  \item Pre-processing steps for GFP channel as above.
+  \item Segmentation for GFP channel as above.
+  \item Post-processing steps for GFP channel as above.
+  \item Collect Median Intensity (Density Levels) for GFP channel.
+  \end{enumerate}
+\item Process Nuclei channel
+  \begin{enumerate}
+  \item Pre-processing steps for Nuclei channel - Denoising, kernel size = 3.
+  \item Segmentation for Nuclei channel - optimize for maximum nuclei targeting.
+  \item Post-processing steps for Nuclei channel - Watershed \& Sieve.
+  \item Collect cell count (\textit{optional}).
+  \end{enumerate}
+\item Process NeuN channel
+  \begin{enumerate}
+  \item Pre-processing steps for NeuN channel - Denoising, kernel size = 3.
+  \item Segmentation for NeuN channel - optimized for maximum target selection.
+  \item Post-processing steps for NeuN channel - Watershed \& Sieve.
+  \item Collect cell count (\textit{optional}).
+  \end{enumerate}
+\item Generate overlapping mask
+  \begin{enumerate}
+  \item Create linking target
+  \item Nuclei target 70\% overlapping of NeuN target
+  \item Use generated mask to measure on GFP channel.
+  \end{enumerate}
+\item Collect data, Median Density \& Area from GFP channel
+\end{enumerate}
+
+\subsection{R programming analysis}
+
+\noindent GE Developer will produce text files (csv) that can be imported into programs such as R\footnotemark. \footnotetext{For Excel version 2016, data is truncated and should not be opened in this type of program.}
+
+\begin{enumerate}
+\item Edit text files by removing the top two lines (either by command-line or by hand) for easy of R programming import.
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[!ht]
+    \centering
+    \resizebox{\linewidth}{!}{
+      \includegraphics{figures/HTS10.pdf}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \pagebreak
+\item The following R script was developed for high-throughput data processing.
+  \begin{itemize}
+  \item Well mean
+  \item Well median
+  \item Well standard deviation
+  \item Lower quantile
+  \item Upper quantile
+  \item Cell count
+  \end{itemize}
+  \pagebreak
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[!ht]
+    \centering
+    \resizebox{\linewidth}{7in}{
+      \includegraphics[scale=0.75]{figures/HTS11.pdf}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \pagebreak
+\item The R script outputs csv file for down-stream data analysis.
+\item Another R script was developed for Well separation for by Well analysis in down-stream data analysis (csv).
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[!ht]
+    \centering
+    \resizebox{\linewidth}{!}{
+      \includegraphics[scale=0.75]{figures/HTS12.pdf}
+    }
+  \end{figure}
+  \pagebreak
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\item UpperQ (Upper quantile analysis) R script separates out the 75-99 percentile targets per plate.
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[ht]
+    \centering
+    \resizebox{\linewidth}{!}{
+      \includegraphics[scale=0.75]{figures/HTS13.pdf}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\item Calculates well statistics and outputs csv file.
+\end{enumerate}
+
+\pagebreak
+
+\section{Immunocytochemistry}
+
+\subsection{Fixation - Cell Culture}
+\begin{enumerate}
+\item Wash media from slides gently with 1xPBS, twice.
+\item Remove 1xPBS and add 4\% PAF/4\% Sucrose to each coverslip\footnotemark.\footnotetext{Use freshly made fixation solution ($\le$ 7 days).}
+\item Agitate for 10 min at room temperature.
+\item Rinse coverslips gently twice with 1xPBS.
+\item Add 1xPBS to wells and cover with aluminum foil.
+\item Store at 4$^{\circ}$C.
+\end{enumerate}
+
+\subsection{Staining - Cell Culture}
+\begin{enumerate}
+\item Make up 5\% goat serum fresh in 0.3\% Triton X-100 in 1xPBS.
+\item Transfer coverslips to new plate, blotting off excess PBS.
+\item Add 5\% goat serum fresh to coverslips and incubate at room temperature with slight agitation for 1 h.
+\item Prepare primary antibodies using 5\% goat serum.
+  \begin{itemize}
+  \item anti-GFP diluted at 1:1000 (anti-rabbit)
+  \item anti-NeuN diluted at 1:250 (anti-mouse)
+  \end{itemize}
+\item Replace 5\% blocking solution (goat serum) with primary antibodies\footnotemark.\footnotetext{Be careful of bubbles.}
+\item Incubate primary antibodies for 1 h at room temperature with slight agitation.
+\item Wash three times coverslips with 0.1\% Tween20 in 1xPBS; 10 min at room temperature with slight agitation.
+\item Prepare secondary antibodies using 5\% goat serum during last wash at 1:200 dilution.
+\item Replace last wash with secondary antibody solution.
+\item Incubate secondary antibodies for 1 h at room temperature with slight agitation covered with aluminum foil\footnotemark.\footnotetext{Aluminum foil and dark conditions should be used for the remainder of staining protocol.}
+\item Wash twice with 0.1\% Tween20 in 1xPBS for 10 min each at room temperature with slight agitation.
+\item Replace wash with TO-PRO-3 (1:1000) in 0.1\% Tween20 in 1xPBS for 10 min at room temperature with slight agitation.
+\item Wash coverslips with 0.1\% Tween20 in 1xPBS for 10 min with slight agitation at room temperature.
+\item Store at 4$^{\circ}$C until ready for imaging.
+\end{enumerate}
+
+\pagebreak
+
+\section{Rapid Amplification of cDNA Ends (3')}
+
+\noindent The following uses the 3' RACE System (Cat. No. 18373019) from ThermoFisher Scientific. Everything but RNA, Taq Polymerase, and gene specific primers provided within the kit, as such developing gene specific primers is the first step for 3' RACE.
+
+\subsection{First-Strand cDNA Synthesis}
+\begin{enumerate}
+\item Combine DEPC-treated water and 2.5 - 5 $\mu$g of total RNA to a final volume of 11 $\mu$l to a PCR tube.
+\item Add 1 $\mu$l of 10 $\mu$M AP solution and mix with a flick.
+\item Spin down briefly and heat mixture in PCR thermocycler.
+  \begin{enumerate}
+  \item 70$^{\circ}$C for 10 min
+  \item 4$^{\circ}$C for $>$ 1 min
+  \end{enumerate}
+\item Spin down briefly and add the following
+  \begin{enumerate}
+  \item 2 $\mu$l of 10X PCR buffer
+  \item 2 $\mu$l of 25 mM MgCl$_2$
+  \item 1 $\mu$l of 10 mM dNTP mix
+  \item 2 $\mu$l of 0.1 M DTT
+  \end{enumerate}
+\item Mix gently and spin down before placing on PCR thermocycler held at 42$^{\circ}$C.
+\item Equilibrate sample for 2 - 5 min.
+\item Add 1 $\mu$l of SuperScript$^{TM}$ II RT and perform the following
+  \begin{enumerate}
+  \item 42$^{\circ}$C for 50 min
+  \item 70$^{\circ}$C for 15 min
+  \item Hold at 4$^{\circ}$C
+  \end{enumerate}
+\item Spin down and add 1 $\mu$l of RNase H.
+\item Mix and spin down before incubating for 20 min at 37$^{\circ}$C.
+\item Store at -20$^{\circ}$C or proceed to Amplification of Target cDNA.
+\end{enumerate}
+
+\subsection{Amplification of Target cDNA}
+\begin{enumerate}
+\item Combine the following in a PCR tube.
+  \begin{enumerate}
+  \item 14.6 $\mu$l of DEPC-treated water
+  \item 2 $\mu$l of 10X PCR buffer
+  \item 1.2 $\mu$l of MgCl$_2$
+  \item 0.4 $\mu$l of Gene Specific forward primer
+  \item 0.4 $\mu$l of AUAP (abridged universal amplification primer) reverse primer
+  \item 0.4 $\mu$l of dNTP
+  \item 0.8 $\mu$l of cDNA (from First Strand Synthesis)
+  \item 0.2 $\mu$l of Taq Polymerase
+  \end{enumerate}
+\item Place on thermocycler\footnotemark \footnotetext{For optimal amplification a gradient PCR should be run.}
+  \begin{enumerate}
+  \item 1 cycle of 94$^{\circ}$C for 3 min
+  \item 35 cycles of
+    \begin{itemize}
+    \item 94$^{\circ}$C for 30 s
+    \item (gradient) 65$^{\circ}$C for 60 s
+    \item 72$^{\circ}$C for 60 s
+    \end{itemize}
+  \item 1 cycle of 72$^{\circ}$C for 5 min
+  \item Hold at 4$^{\circ}$C
+  \end{enumerate}
+\item Preform second amplification in new PCR tube.
+  \begin{enumerate}
+  \item 36.5 $\mu$l of DEPC-treated water
+  \item 5.0 $\mu$l of 10X PCR buffer
+  \item 3.0 $\mu$l of MgCl$_2$
+  \item 1.0 $\mu$l of Nested-Gene Specific forward primer
+  \item 1.0 $\mu$l of AUAP reverse primer
+  \item 1.0 $\mu$l of dNTP
+  \item 2.0 $\mu$l of cDNA (from first amplification - optimized)
+  \item 0.5 $\mu$l of Taq Polymerase
+  \end{enumerate}
+\item Run at optimal melting temperature on thermocycler.
+  \begin{enumerate}
+      \item 1 cycle of 94$^{\circ}$C for 3 min
+  \item 35 cycles of
+    \begin{itemize}
+    \item 94$^{\circ}$C for 30 s
+    \item 65$^{\circ}$C for 60 s
+    \item 72$^{\circ}$C for 60 s
+    \end{itemize}
+  \item 1 cycle of 72$^{\circ}$C for 5 min
+  \item Hold at 4$^{\circ}$C
+  \end{enumerate}
+\item Place 4 $\mu$l of PCR reaction into new tube and store at 4$^{\circ}$C.
+\end{enumerate}
+
+\subsection{Electroporation Cloning \& Insert Verification}
+
+\begin{enumerate}
+\item Run PCR product ($\sim$46 $\mu$l) out on 1.5\% agarose gel (100V, $>$ 1 h).
+\item Cut out amplified band(s) for gel purification.
+\item Use Gel Purification kit to purify PCR products.
+\item Ligate PCR products into TOPO TA vector.
+  \begin{enumerate}
+  \item Using TOPO TA Cloning kit, add the following
+    \begin{itemize}
+    \item 0.5 $\mu$l of 2.1 TOPO Vector
+    \item 0.5 $\mu$l of RNase-free water
+    \item 1.0 $\mu$l of salt solution
+    \item 4.0 $\mu$l of PCR product (direct, and gel purified in different tubes)
+    \end{itemize}
+  \item Incubate for 30 min at room temperature
+  \item Dilute ligation reactions $1/4$ with RNase-free water (18 $\mu$l of H$_2$O)
+  \item Add 2 $\mu$l to electro-competent cells for electroporation
+  \item Add mixature to curvettes for electroporation
+  \item After electroporation add SOC media to cells
+  \item Shake at 37$^{\circ}$C for 1 h
+  \item Plate on Ampicilin+ and X-gal treated Luria broth (LB)-agar plates
+    \begin{itemize}
+    \item 50 $\mu$l plate
+    \item High concentration plate
+    \end{itemize}
+  \item Culture overnight at 37$^{\circ}$C
+  \end{enumerate}
+\item Perform plasmid DNA purification and measure DNA with nanodrop.
+\item Verify insertion with restriction enzyme (RE) digestion (EcoRI-HF, NEB).
+  \begin{enumerate}
+  \item Combine the following in PCR tube
+    \begin{itemize}
+    \item 1 $\mu$g of plasmid DNA
+    \item 5 $\mu$l of CutSmart Buffer
+    \item 1 $\mu$l of RE
+    \item Water to final volume of 50 $\mu$l
+    \end{itemize}
+  \item On thermocycle
+    \begin{itemize}
+    \item 37$^{\circ}$C for 40 min
+    \item 65$^{\circ}$C for 20 min
+    \item Hold at 4$^{\circ}$C
+    \end{itemize}
+  \item Run out on 1 - 1.5\% agarose gel (100V, $\sim$ 1 h)
+  \item Image gel for insert verification
+  \end{enumerate}
+\item Send DNA for sequencing.
+\end{enumerate}
+  
+\pagebreak
+
+\section{Reverse-transcription PCR/qPCR}
+
+\noindent The SuperScript$\textregistered$ IV First-Strand Synthesis System from ThermoFisher Scientific is used for the following protocol.
+
+\subsection{First-Strand Synthesis}
+
+\begin{enumerate}
+\item Using DNase treated RNA (2-5 $\mu$g total RNA), combine with 1 $\mu$l of 50 $\mu$M Oligo d(T)$_{20}$ primer, 1 $\mu$l of 10 mM dNTP mix, and DEPC-treated water to final volume of 13 $\mu$l in PCR tube.
+\item Mix gently and spin down before heating on thermocycler at 65$^{\circ}$C for 5 min.
+\item Incubate at 4$^{\circ}$C for $\le$ 1 min.
+\item Make a mastermix of the following components
+  \begin{enumerate}
+  \item 4 $\mu$l of 5X SSIV Buffer
+  \item 1 $\mu$l of 100 mM DTT
+  \item 1 $\mu$l of Ribonuclease Inhibitor
+  \item 1 $\mu$l of either SuperScript$\textregistered$ IV Reverse Transcriptase or DEPC-treated water
+  \end{enumerate}
+\item Add 7 $\mu$l of mastermix to primer annealed RNA.
+\item Incubate mixture for 10 min at 50$^{\circ}$C followed by 10 min at 80$^{\circ}$C.
+\item (\textit{optional}) Add 1 $\mu$l of RNase H to samples and incubate for 20 min at 37$^{\circ}$C.
+\item Store cDNA at -20$^{\circ}$C.
+\end{enumerate}
+
+\noindent For reverse-transcription PCR, dilute cDNA and proceed to running PCR reactions.
+
+\subsection{SYBR Green qPCR}
+
+\begin{enumerate}
+\item Design qPCR primers and verify size and single band with PCR amplification.
+\item Setup qPCR plate layout.
+\item Dilute enough cDNA at 1:4 for experiment.
+\item Create 1:4 serial dilution standards ($\le$ 5) of pooled cDNA\footnotemark.\footnotetext{Recommend using 4 technical replicas for experimentation.}
+\item Dilute samples 1:5 (1:20 dilution from original cDNA).
+\item Make mastermix for each primer set
+  \begin{enumerate}
+  \item 5 $\mu$l of 2X SYBR Green Buffer
+  \item 500 nM forward primer (final)
+  \item 500 nM reverse primer (final)
+  \item DEPC-treated water to final volume of 8 $\mu$l
+  \end{enumerate}
+\item Add mastermix to plate following layout.
+\item Add samples to plate.
+\item Seal off plate, vortex, and spin down.
+\item Run qPCR reaction
+  \begin{enumerate}
+  \item 1 cycle of 50$^{\circ}$C for 2 min
+  \item 1 cycle of 95$^{\circ}$C for 10 min
+  \item 40 cycles of
+    \begin{itemize}
+    \item 95$^{\circ}$C for 15 s
+    \item 60$^{\circ}$C for 60 s
+    \end{itemize}
+  \item Dissociation Curve
+    \begin{itemize}
+    \item 95$^{\circ}$C for 15 s
+    \item 60$^{\circ}$C for 20 s
+    \item 72$^{\circ}$C for 15 s
+    \end{itemize}
+  \end{enumerate}
+\item Analysis data.
+\end{enumerate}
+
+\pagebreak
+
+\section{RNA Extraction}
+
+\noindent For all protocols, work in laminar flow-hood if possible with work area and pipettes cleaned with RNA-zap if no RNA only pipettes designated. Additionally, all solutions not provided by the kit should be made with DEPC-treated water (i.e. sodium acetate and 75\% EtOH).
+
+\subsection{Tissue RNA isolation}
+
+\noindent The following is a TRIzol method for RNA extraction and isolation.
+
+\subsubsection*{TRIzol extraction}
+\begin{enumerate}
+\item Set centrifuge for 4$^{\circ}$C.
+\item Prepare Sonicator for RNA extraction by cleaning with RNase-Zap and DEPC-treated water.
+\item Homogenize samples (held on ice) in 1 ml of TRIzol for 60 s\footnotemark.\footnotetext{Clean Sonicator after every use with RNase-Zap and DEPC-treated water.}
+\item Incubate at room temperature for 5 min.
+\item Add 200 $\mu$l of Chloroform and shake by hand vigorously for 15 s.
+\item Incubate for 2 - 3 min at room temperature.
+\item Centrifuge ($12,000 \times g$) for 15 min at 4$^{\circ}$C\footnotemark.\footnotetext{RNA will be in colorless upper phase.}
+\item Transfer aqueous phase to new RNase-free tube.
+\item Add 500 $\mu$l of isopropanol and incubate for 10 min at room temperature.
+\item Centrifuge ($12,000 \times g$) for 10 min at room temperature.
+\item Aspirate and discard supernatant and resuspend pellet in 1 ml of 75\% EtOH.
+\item Vortex to mix and centrifuge at ($7,500 \times g$) for 5 min at 4$^{\circ}$C.
+\item Briefly dry RNA pellet before adding at least 100 $\mu$l of DEPC-treated water.
+\item Incubate for 10 min at 60$^{\circ}$C.
+\item Store at -80$^{\circ}$C.
+\end{enumerate}
+
+\subsubsection*{RNA clean-up \& concentration\footnote{There are kits that can do this as well.}}
+\begin{enumerate}
+\item Add $\frac{1}{10}$ volume of sodium acetate (i.e. 10 $\mu$l from above extraction) to sample.
+\item Add 1 volume of isopropanol to sample.
+\item Incubate overnight at -20$^{\circ}$C.
+\item Centrifuge for 15 min at $15,000 \times g$ and discard supernatant carefully.
+\item Add 1 ml of 70\% EtOH and centrifuge for 2 min at $20,000 \times g$.
+\item Aspirate supernatant and dry pellet.
+\item Re-suspend with RNase-free water.
+\end{enumerate}
+  
+\subsection{Cell culture RNA isolation}
+
+\noindent The following protocol is for a monolayer of cells ($\le 5 \times 10^6$) using the PureLink$\textregistered$ RNA Mini Kit. 
+\begin{enumerate}
+\item Prepare lysis buffer by adding 2-mercaptoethanol ($\beta$ME) to Lysis Buffer (10 $\mu$l per 1 ml of Lysis solution).
+\item Rinse cells gently twice with 1xPBS.
+\item Add 300 $\mu$l of prepared lysis buffer to plated cells.
+\item Incubate at room temperature for 3 - 5 min with back and forth motion.
+\item Pipette up and down ten times to break up cells.
+\item Transfer lysate to new RNase-free tube.
+\item Add 1 volume of 70\% EtOH to each cell lysate.
+\item Vortex until no precipitate is visible.
+\item Transfer up to 700 $\mu$l of sample into spin cartridge.
+\item Centrifuge for 30 s at $12,000 \times g$ and discard flow-through\footnotemark.\footnotetext{The following centrifuge are done at room temperature.}
+\item Repeat until the entire sample has been processed.
+\item Add 700 $\mu$l of Wash Buffer I to spin cartridge.
+\item Centrifuge for 30 s at $12,000 \times g$.
+\item Discard flow-through and collection tube. Place spin cartridge in new collection tube.
+\item Add 500 $\mu$l of Wash Buffer II and centrifuge for 30 s at $12,000 \times g$. Discard flow-through and repeat wash.
+\item Centrifuge spin cartridge at $12,000 \times g$ for 90 s to dry membrane.
+\item Discard collection tube and insert spin cartridge into recovery tube.
+\item Add 30 $\mu$l of RNase-free water to center of spin cartridge and incubate for 1 min at room temperature.
+\item Centrifuge spin cartridge at $12,000 \times g$ for 2 min.
+\item Store purified RNA at -80$^{\circ}$C.
+\end{enumerate}
+
+\subsection{Cytoplasm \& nuclear cell RNA isolation}
+
+\noindent The following protocol is from the Ambion$\textregistered$ PARIS$^{TM}$ Kit for RNA extraction.
+\begin{enumerate}
+\item Prepare reagents and setup equipment.
+  \begin{enumerate}
+  \item Set heat block to 95$^{\circ}$C
+  \item Set centrifuge to 4$^{\circ}$C
+  \item Add $\beta$ME to 2X Lysis Buffer\footnotemark \footnotetext{Only add for first time use.}
+  \item Add 100\% EtOH to 2/3 Wash Buffer\footnotemark \footnotetext{Only add for first time use.}
+  \end{enumerate}
+\item Place Cell Fractionation Buffer on ice before use.
+\item Allow 2X Lysis Buffer and Wash Solution 1 to equilibrate to room temperature.
+\item Heat an aliquot of Elution Solution to 95$^{\circ}$C on heat block.
+\item Rinse monolayer of cells ($\le 10 \times 10^6$) with 1xPBS.
+\item Add 250 $\mu$l of Cell Fractionation Buffer to each well\footnotemark.\footnotetext{Assuming 6-well plate}
+\item Incubate at room temperature for 5 - 10 min with back and forth motion, or until cells completely detached from plate.
+\item Transfer to RNase-free tube and incubate on ice for 10 min.
+\item Centrifuge samples at 4$^{\circ}$C for 5 min at $500 \times g$.
+\item Carefully transfer supernatant to new RNase-free tube and place on ice. This is the cytoplasmic fraction.
+\item Add 200 $\mu$l of Cell Fractionation Buffer to pelleted nuclear fraction, and gently re-suspend pellet.
+\item Spin down at 4$^{\circ}$C for 1 min, $500 \times g$.
+\item Aspirate and discard supernatant.
+\item Add 1 volume equal to cytoplasmic volume of Cell Fractionation Buffer.
+\item Vortex vigorously to lyse nuclei, then place on ice.
+\item Add 1:1 2X Lysis Buffer to cytoplasmic and nuclear fractions and invert tubes several time to mix well.
+\item (\textit{optional}) Cellular debris removal\footnotemark \footnotetext{If there is any debris or the samples are too viscous, then they will not pass through the filter cartridges.}
+  \begin{itemize}
+  \item Pass lysate through syringe needle several times to reduce viscosity and remove debris
+  \item Spin down and place supernatant into new RNase-free tube
+  \end{itemize}
+\item Add 1 volume of 100\% EtOH to mixture\footnotemark \footnotetext{This is the volume before Lysis Buffer added.} and invert several times.
+\item Add $\le$ 700 $\mu$l of the sample to the filter cartridge.
+\item Centrifuge for 30 s ($12,000 \times g$) and discard flow-through.
+\item Repeat until all the sample as been passed through the filter.
+\item Add 700 $\mu$l of Wash Solution 1 to column.
+\item Centrifuge for 30 s ($12,000 \times g$) and discard flow-through.
+\item Add 500 $\mu$l of Wash Solution 2/3 to column.
+\item Centrifuge for 30 s ($12,000 \times g$) and discard flow-through. Repeat wash once.
+\item Place filter cartridge into new collection tube and add 40 - 60 $\mu$l of Elution Buffer.
+\item Centrifuge for 30 s ($12,000 \times g$).
+\item Add 10 - 60 $\mu$l of Elution Buffer to filter cartridge and centrifuge for 30 s ($12,000 \times g$).
+\item Store purified RNA at -80$^{\circ}$C.
+\end{enumerate}
+
+\pagebreak
+
+\section{RNA-seq Analysis}
+
+All work performed on Centos 7: Linux, kernal release: 3.10.0-514.6.1.el7.x86\_64, on 64-bit system. The computer has an AMD FX(tm)-8350 Eight-Core Processor, 32G of RAM, 4.6T of working disk space with an additional 2T of backup disk space.\footnote{This is a home built computer.}
+
+\subsection{Software installation}
+Tools used in this dissertation include the following: FastQC, Trimmomatics, HISAT2, SAMtools, StringTie, Gffcompare, Gffread\footnote{This is part of Cufflinks, but can be downloaded separately.}, BEDtools, BCFtools, GENESEQER, IGV, Python, R, ballgown, edgeR, and Rsubread.\footnote{If working on a cluster, then you should check to see what software they have. If something is not present, put in a request. Additionally, do not expect to use the latest updates if working on a cluster.}
+%% picard-tools\footnote{This is needed for a different program to work correctly.}, 
+I recommend installing most of these softwares locally and adding to PATH, as some of them may have library issues that can mess with the system.
+
+Tools set up in one directory (tools) within RNA-seq directory (rna-seq).
+
+\subsubsection*{SAMtools \& BCFtools}
+\begin{verbatim}
+cd ~/rna-seq/tools/
+git clone https://github.com/samtools/samtools.git
+git clone https://github.com/samtools/bcftools.git
+cd samtools
+make -j4
+cd ../bcftools
+make -j4
+\end{verbatim}
+
+\subsubsection*{HISAT2 \& StringTie}\footnotemark
+\footnotetext{Version 2.0.4 of HISAT2 is not the lastest.}
+\begin{verbatim}
+cd ~/rna-seq/tools/
+#download with wget (hisat2-2.0.4-Linux_x86_64.zip)
+unzip hisat2-2.0.4-Linux_x86_64.zip
+git clone https://github.com/gpertea/stringtie
+cd stringtie
+make release
+\end{verbatim}
+
+\subsubsection*{FastQC}
+\begin{verbatim}
+cd ~/rna-seq/tools/
+#download with wget (fastqc_v0.11.5.zip)
+unzip fastqc_v0.11.5.zip  
+chmod 755 ./FastQC/fastqc
+\end{verbatim}
+
+\subsubsection*{Trimmomatics}
+\begin{verbatim}
+cd ~/rna-seq/tools/
+#download with wget (Trimmomatic-0.36.zip)
+unzip Trimmomatic-0.36.zip
+mkdir -p ~/rna-seq/refs/adapters
+cp -v ./Trimmomatic-0.36/adapters/* ~/rna-seq/refs/adapters/
+\end{verbatim}
+
+\subsubsection*{Gffcompare \& Gffread}
+\begin{verbatim}
+cd ~/rna-seq/tools/
+git clone https://github.com/gpertea/gffcompare.git
+git clone https://github.com/gpertea/gffread.git
+cd gffcompare
+make release
+cd ../gffread
+make -j4
+\end{verbatim}
+
+\subsubsection*{BEDtools}
+\begin{verbatim}
+cd ~/rna-seq/tools/
+git clone https://github.com/arq5x/bedtools2.git
+cd bedtools2
+make -j4
+\end{verbatim}
+
+\subsubsection*{IGV}
+\begin{verbatim}
+cd ~/rna-seq/tools/
+#download with wget (IGV_2.3.91.zip)
+unzip IGV_2.3.91.zip
+chmod 755 ./IGV_2.3.91/igv.sh
+\end{verbatim}
+
+\subsubsection*{GENESEQER}
+\begin{verbatim}
+cd ~/rna-seq/tools/
+#download with wget (GeneSeqer-2-26-2014.tar.gz)
+tar -zxvf GeneSeqer-2-26-2014.tar.gz
+cd GENESEQER
+make -j4
+\end{verbatim}
+
+%% \subsubsection*{Salmon}
+%% \begin{verbatim}
+%% cd ~/rna-seq/tools/
+%% #download with wget (Salmon-0.8.0_linux_x86_64.tar.gz)
+%% tar -zxvf Salmon-0.8.0_linux_x86_64.tar.gz
+%% \end{verbatim}
+
+\subsubsection*{R \& Python}
+First check to see if R and Python are already installed with \texttt{which R} and \texttt{which python}. If they are there, then R will often prompt user to update to latest version when in application, which can be done as root. Note of caution: Python 2 is not the same as Python 3, so if you are using MISO and have Python 3 installed, then you'll need to download Python 2 for it to work as MISO was built with Python 2.
+
+\begin{verbatim}
+sudo yum install R.x86_64 -y
+sudo yum install python2-pip.noarch python34u-pip.noarch -y
+\end{verbatim}
+
+Note: Installing pip for python will also install python as a dependency.
+
+\subsubsection*{Bioconductor \& Packages}
+This can be done as a local install or global with root access. If you have root access enter R with \texttt{sudo} command.
+
+\begin{verbatim}
+R #Launches R
+install.packages(c("devtools","dplyr","gplots","ggplot2"))
+#Follow prompting
+source("http://bioconductor.org/biocLite.R")
+biocLite(c("genefilter","ballgown","edgeR","Rsubread"))
+quit(save="no")
+\end{verbatim}
+
+Clean up tar files with \texttt{rm -rf}. Add the tools location to PATH.
+\subsubsection*{Add to PATH}
+\begin{verbatim}
+emacs -nw ~/.bashrc
+
+# Load_PATHS                                                                                             
+export PATH=$HOME/bin:$PATH
+export PATH=/usr/local/bin:$PATH
+export RNA_HOME=$HOME/rna-seq
+export RNA_REFS=$RNA_HOME/refs
+export RNA_ALIGN=$RNA_HOME/alignments
+export PATH=$RNA_HOME/tools/samtools:
+       $RNA_HOME/tools/gffread:
+       $RNA_HOME/tools/FastQC:
+       $RNA_HOME/tools/hisat2-2.0.4:
+       $RNA_HOME/tools/bedtools2/bin:
+       $RNA_HOME/tools/stringtie:
+       $RNA_HOME/tools/gffcompare:
+       $RNA_HOME/tools/Trimmomatic-0.36:
+       $RNA_HOME/tools/bcftools:
+       $RNA_HOME/tools/IGV_2.3.90:
+       $RNA_HOME/tools:GENESEQER/bin:
+export LD_LIBRARY_PATH="/usr/local/lib:$LD_LIBRARY_PATH"
+\end{verbatim}
+
+The \texttt{export PATH} should be all one line. The indentation is for viewing in this dissertation. Additionally, if you don't have \texttt{emacs}, any editor will can be used. Furthermore, if you don't already have \texttt{git} downloaded you can just use \texttt{wget} for everything.
+
+\subsection{Reference genomes and annotation}
+To get everything at once, Illumina's iGenome can be used, but there will need to be some cleaning up of unnecessary files to save disk space.
+
+In a bash script, run with \texttt{bash script.name.sh}. Or change permissions and run without bash command.
+
+\begin{verbatim}
+#!/bin/bash
+mkdir -p $RNA_REFS/human/hg19/fasta
+mkdir -p $RNA_REFS/human/hg19/annotation
+mkdir -p $RNA_REFS/mouse/mm9/fasta
+mkdir -p $RNA_REFS/mouse/mm9/annotation
+
+cd $RNA_REFS/
+\end{verbatim}
+
+\texttt{wget} \url{ftp://igenome:G3nom3s4u@ussd-ftp.illumina.com/Homo_sapiens/UCSC/hg19/Homo_sapiens_UCSC_hg19.tar.gz}
+
+\texttt{wget} \url{ftp://igenome:G3nom3s4u@ussd-ftp.illumina.com/Mus_musculus/UCSC/mm9/Mus_musculus_UCSC_mm9.tar.gz}
+
+Copy over only Sequence and Annotation files to fasta and annotation directories: Whole genome fasta, individual chromosome fasta, and current annotation directory. Remove the rest with \texttt{rm -rf}. \texttt{gzip} all fasta files that will not be used to save disk space and remove TAR files.
+
+Once the fasta files are downloaded, index the file you plan to use for alignment with SAMtools.
+\begin{verbatim}
+samtools faidx chr15.fa
+\end{verbatim}
+
+\subsection{Indexing with HISAT2}
+\begin{verbatim}
+mkdir -p $RNA_REFS/human/hg19/indexes/splice-exons
+mkdir -p $RNA_REFS/mouse/mm9/indexes/splice-exons
+cd $RNA_REFS/human/hg19/indexes
+hisat2_extract_splice_sites.py ../annotation/Genes/gene.gtf > \
+                               ./splice-exons/splicesites.hg19.tsv
+hisat2_extract_exons.py ../annotation/Genes/gene.gtf > \
+                        ./splice-exons/exons.hg19.tsv
+hisat2-build -p 8 --ss ./splice-exons/splicesites.hg19.tsv \
+             --exon ./splice-exons/exons.hg19.tsv \
+             ../fasta/chr15.fa chr15
+cd $RNA_REFS/mouse/mm9/indexes
+hisat2_extract_splice_sites.py ../annotation/Genes/gene.gtf > \
+                               ./splice-exons/splicesites.mm9.tsv
+hisat2_extract_exons.py ../annotation/Genes/gene.gtf > \
+                        ./splice-exons/exons.mm9.tsv
+hisat2-build -p 8 --ss ./splice-exons/splicesites.mm9.tsv \
+             --exon ./splice-exons/exons.mm9.tsv \
+             ../fasta/chr7.fa chr7
+\end{verbatim}
+
+\subsection{Downloading Data}
+This can be done in one of two ways. In a bash script with all of the locations listed, or with a for-loop.
+
+\begin{verbatim}
+#!/bin/bash
+mkdir -p $RNA_HOME/datasets/human/hpa/reads/fastqc-report
+cd $RNA_HOME/datasets/human/hpa/reads
+\end{verbatim}
+
+\noindent\texttt{wget} \url{ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR315/ERR315477/ERR315477_1.fastq.gz}\\
+\texttt{wget} \url{ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR315/ERR315477/ERR315477_2.fastq.gz}\\
+\texttt{wget} \url{ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR315/ERR315455/ERR315455_1.fastq.gz}\\
+\texttt{wget} \url{ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR315/ERR315455/ERR315455_2.fastq.gz}\\
+\texttt{wget} \url{ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR315/ERR315432/ERR315432_1.fastq.gz}\\
+\texttt{wget} \url{ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR315/ERR315432/ERR315432_2.fastq.gz}\\
+\begin{verbatim}
+...
+fastqc -t 8 *fastq.gz -o ./fastqc-report
+\end{verbatim}
+
+\begin{verbatim}
+#!/bin/bash
+mkdir -p $RNA_HOME/datasets/human/hpa/reads/fastqc-report
+cd $RNA_HOME/datasets/human/hpa/reads
+
+for i in {432,455,477}
+do
+\end{verbatim}
+
+\noindent\texttt{wget} \url{ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR315/ERR315${i}/ERR315${i}_1.fastq.gz}\\
+\texttt{wget} \url{ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR315/ERR315${i}/ERR315${i}_2.fastq.gz}\\
+\begin{verbatim}
+done
+fastqc -t 8 *fastq.gz -o ./fastqc-report
+\end{verbatim}
+
+If using a for-loop, can add all of the data at once for the same project. This is a simpliar script.
+
+\subsection{Quality Control}
+\subsubsection*{FastQC}
+FastQC functions to provide a way to view quality of raw sequence data working with BAM, SAM, or fastq files it exports data as pdfs (zipped) and HTML for easy viewing in web browser. It can be run interactively with it's JAVA online function, or as I use it in the above section offline as a part of a large-scale pipeline. To view the html files:
+
+\begin{verbatim}
+cd $RNA_HOME/datasets/human/hpa/reads/fastqc-report/
+firefox *.html
+\end{verbatim}
+
+Regardless of the quality, adapter sequences should be trimmed from the raw sequence.
+
+\subsubsection*{Trimmomatics}
+In the same line as the download process, I prefer to use a for-loop in my bash scripts.
+
+\begin{verbatim}
+#!/bin/bash
+mkdir -p $RNA_HOME/dataset/human/hpa/trimmed/SE
+cd $RNA_HOME/datasets/human/hpa/trimmed
+
+#Trimming Data
+trim='/path/to/Trimmomatic-0.36/'
+adapter_file='/path/to/adapter/file/TruSeq3-PE-2.fa'
+reads='/path/to/raw/reads'
+
+for i in {432,455,477}
+do
+    java -jar $trim/trimmomatic-0.36.jar PE -threads 8 \
+	 $reads/ERR315${i}_1.fastq.gz $reads/ERR315${i}_2.fastq.gz \
+	 ERR315${i}_pe1_trimmo.fastq.gz ERR315${i}_se1_trimmo.fastq.gz \
+	 ERR315${i}_pe2_trimmo.fastq.gz ERR315${i}_se2_trimmo.fastq.gz \
+	 ILLUMINACLIP:$adapter_file:2:30:10 LEADING:3 TRAILING:3 MINLEN:25
+done
+
+mv -v *se* ./SE
+\end{verbatim}
+
+For single-end reads use the following:
+
+\begin{verbatim}
+java -jar $trim/trimmomatic-0.36.jar SE -threads 8 \
+     $reads/filename.fastq.gz filename_trimmo.fastq.gz \
+     ILLUMINACLIP:$adapter_file:2:30:10 LEADING:3 TRAILING:3 MINLEN:25
+\end{verbatim}
+
+Here you can look at the quality again. \texttt{fastqc -t 8 *fastq.gz}. Make sure if you use the \texttt{-o} option for FastQC that there is already a directory with that filename. Otherwise, it will not work.
+
+\subsection{Alignment with HISAT2}
+HISAT2\cite{Kim2015} is a fast and sensititve alignment program for mapping next-gen sequencing reads from the same producers of TopHat2. Moreover, this is the improvement on TopHat2. As there is a manual page \texttt{man hisat2}, I will add only a few of the important options below:
+
+\begin{enumerate}
+\item Main options
+  \begin{enumerate}
+  \item -x: Location of indexes (.ht2)
+  \item -1/-2: Read 1 and Read 2 for paired-end
+  \item -U: Unpaired reads (single-end)
+  \item -{}-sra-acc: SRA file format
+  \end{enumerate}
+\item Input options
+  \begin{enumerate}
+  \item -q: fastq reads (default)
+  \item -f: fasta reads
+  \end{enumerate}
+\item Spliced alignment options
+  \begin{enumerate}
+  \item -{}-min-intronlen: Default 20
+  \item -{}-max-intronlen: Default 500000
+  \item -{}-novel-splicesite-outfile: location for output
+  \item -{}-rna-strandness: FR or RF for paired-end (RF for TruSeq)
+  \item -{}-dta: alignments for StringTie analysis
+  \item -{}-dta-cufflinks: alignments for Cufflinks analysis
+  \end{enumerate}
+\end{enumerate}
+
+Running with a for-loop:
+\begin{verbatim}
+#!/bin/bash
+
+cd $RNA_ALIGN/hg19
+mkdir -p unstranded
+cd unstranded
+
+#Run Hisat2
+genome_index_prefix='/path/to/indexes/chr15'
+output_SAM='/path/to/output/directory'
+reads='/path/to/trimmed/fastq/reads'
+
+for i in {432,455,477}
+do
+    hisat2 -p 8 -t --dta -x $genome_index_prefix \
+           -1 $reads/ERR315${i}_pe1_trimmo.fastq.gz \
+           -2 $reads/ERR315${i}_pe2_trimmo.fastq.gz \
+           -q | \
+           samtools view -@ 8 -Shb | \
+           samtools sort -@ 8 \
+           -o $output_SAM/ERR315${i}.chr15.sorted.bam
+done
+\end{verbatim}
+
+\subsubsection*{Merging \& indexing}
+For viewing in IGV and a few other downstream programs, the sorted BAM files need to be merged by tissue and indexed.
+
+\begin{verbatim}
+samtools merge -@ 8 merged_cortex.sorted.bam \
+               ERR315432.chr15.sorted.bam \
+               ERR315455.chr15.sorted.bam \
+               ERR315477.chr15.sorted.bam
+samtools index merged_cortex.sorted.bam
+\end{verbatim}
+
+By only indexing the merged files, this saves disk space. If disk space is not an issues, then each sorted BAM can be indexed within the hisat2 for-loop by adding:
+
+\begin{verbatim}
+samtools index $output_SAM/ERR315${i}.chr15.sorted.bam
+\end{verbatim}
+
+\subsection{Annotations with StringTie}
+StringTie\cite{Pertea2015,Pertea2016}: Transcript assembly and quantification for RNA-Seq, produced by Johns Hopkins University, Center for Computational Biology like Cufflinks.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{longtabu} {X[.75,l]X[4.5,l]}
+  \caption{StringTie Options}\\
+  \toprule
+  Flag Options  & Description\\
+  \midrule
+  \endhead
+  -h            & Prints help message and exits.\\
+  -v            & Verbose mode, prints bundle processing details.\\
+  -o $<$path$>$ & Set name for output GTF file.\\
+  -p $<$int$>$  & Number of processing threads to use for assembly.\\
+  -G $<$gff$>$  & Reference annotation file (gtf or gff3 format).\\
+  -l $<$label$>$& Sets label as prefix for the output transcripts.\\
+  -C $<$gtf$>$  & Output file with names of fully covered transcripts. (-G)\\
+  -B            & Output of Ballgown input table with coverage data for transcripts. (-G)\\
+  -b $<$path$>$ & File path for Ballgown output. (-G)\\
+  -e            & Only assemble reads that match reference. (-G, -B/-b)\\
+  \bottomrule
+\end{longtabu}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+For the annotation assembly, the \textit{de novo} option was used. That is, no reference (-G) is used.
+
+\begin{verbatim}
+#!/bin/bash
+mkdir -p $RNA_HOME/assemblies/human/hg19/unstranded
+cd $RNA_HOME/assemblies/human/hg19/unstranded
+sam_files='/path/to/sorted/BAM/files'
+for i in {432,455,477}
+do
+     echo "Running sample: ERR315"$i
+     stringtie -p 8 -l ERR315$i \
+     -o ./ERR315${i}/transcripts.chr15.gtf \
+     $sam_files/ERR315${i}.chr15.sorted.bam
+done
+ls -1 unstranded/*/transcripts.chr15.gtf > \
+   unstranded/mergelist_gtf.txt
+\end{verbatim}
+
+The next step is to use stringtie -{}-merge (\ref{stringtie merge}) with all of the predicted transcriptomes to make one final transcriptome annotation for downstream analysis.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{longtabu} {X[1,l]X[4,l]}
+  \caption{StringTie Merge Options}\\
+  \label{stringtie merge}\\
+  \toprule
+  Flag Options  & Description\\
+  \midrule
+  \endhead
+  -G            & Reference annotation to include in the merging (gtf/gff3).\\
+  -o $<$path$>$ & Set name for output GTF file.\\
+  -m $<$int$>$  & Minimum input transcript length (default: 50).\\
+  -c $<$int$>$  & Minimum input transcript coverage (default: 0).\\
+  -F $<$int$>$  & Minimum input transcript FPKM (default: 0).\\
+  -T $<$int$>$  & Minimum input transcript TPM (default: 0).\\
+  -f $<$float$>$& Minimum isoform fraction (default: 0.01).\\
+  -i            & Keep merged transcripts with retained introns (default: no).\\
+  -l $<$label$>$& Name prefix for output transcripts.\\
+  \bottomrule
+\end{longtabu}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Here, I use several different options to see which makes the best annotation.
+\begin{verbatim}
+#!/bin/bash
+#De novo assembly
+annot='/path/to/annotation/file.gtf'
+outputDIR='/path/to/output/directory'
+mergeLIST='/path/to/merged/list/of/transcripts.gtf'
+
+mkdir -p $RNA_HOME/assemblies/human/hg19/unstranded/strict
+cd $RNA_HOME/assemblies/human/hg19/unstranded
+
+stringtie --merge -p 8 -G $annot \
+          -o $outputDIR/stringtie_merged.0.gtf $mergeLIST
+stringtie --merge -p 8 -f 0.05 -G $annot \
+          -o $outputDIR/stringtie_merged.1.gtf $mergeLIST
+stringtie --merge -p 8 -F 5 -G $annot \
+          -o $outputDIR/stringtie_merged.2.gtf $mergeLIST
+stringtie --merge -p 8 -f 0.05 -F 5 -G $annot \
+          -o $outputDIR/stringtie_merged.3.gtf $mergeLIST
+stringtie --merge -p 8 -F 10 -G $annot \
+          -o $outputDIR/stringtie_merged.4.gtf $mergeLIST
+stringtie --merge -p 8 -F 5 -T 10 -G $annot \
+          -o $outputDIR/stringtie_merged.5.gtf $mergeLIST
+\end{verbatim}
+
+Once I have the correct parameters, I rename the file (\texttt{mv -v}) so that I know which is the annotation file to use.
+
+\subsection{Working with IGV}
+\begin{enumerate}
+\item Lauch IGV with \texttt{igv.sh}
+\item Load Genome with the drop down menu
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[ht]
+    \centering
+    \resizebox{0.8\linewidth}{0.4\linewidth}{
+      \includegraphics{figures/igv1.png}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \pagebreak
+\item Load Genome annotation: File $\rightarrow$ Load from File...
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[ht]
+    \centering
+    \resizebox{0.85\linewidth}{0.4\linewidth}{
+      \includegraphics{figures/igv2.png}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \pagebreak
+\item Zoom into region of interest by
+  \begin{enumerate}
+  \item changing chromosomes:
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \begin{figure}[ht]
+      \centering
+      \resizebox{0.85\linewidth}{0.4\linewidth}{
+        \includegraphics{figures/igv3.png}
+      }
+    \end{figure}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \item zooming in with buttons:
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \begin{figure}[ht]
+      \centering
+      \resizebox{0.85\linewidth}{0.4\linewidth}{
+        \includegraphics{figures/igv4.png}
+      }
+    \end{figure}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \pagebreak
+  \end{enumerate}
+\item Load a sorted BAM file similar to loading a genome annotation
+\item Show splicing junctions
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[ht]
+    \centering
+    \resizebox{0.85\linewidth}{0.4\linewidth}{
+      \includegraphics{figures/igv5.png}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\item Open a Sashimi plot
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[ht]
+    \centering
+    \resizebox{0.85\linewidth}{0.4\linewidth}{
+      \includegraphics{figures/igv6.png}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \pagebreak
+\item Save an image by right-clicking on screen
+\item Use a tool with Tools
+  \begin{enumerate}
+  \item BEDtools options
+  \item BLAT options (no file input, but direct sequence)
+  \item And more...
+  \end{enumerate}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \begin{figure}[ht]
+    \centering
+    \resizebox{0.9\linewidth}{0.4\linewidth}{
+      \includegraphics{figures/igv7.png}
+    }
+  \end{figure}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{enumerate}
+
+\subsubsection*{BLAT}
+Generating BED files from Sanger sequence data like 3'RACE involves first using the tool \texttt{BLAT} within IGV and second exporting (right-click) it as a BED file. Once that has been done, file manipulation can be done with the following commands assuming all BED files have filename: iso*. Use \texttt{man} on any Bash function (i.e. paste) to read about it in more detail.
+
+\begin{verbatim}
+paste -s -d "\n" iso* > isoforms.hg19.bed
+sortBed -i isoforms.hg19.bed > isoforms.hg19.sorted.bed
+bedtools merge -i isoforms.hg19.sorted.bed > isoforms.hg19_merged.bed
+\end{verbatim}
+
+\subsubsection*{Visualizing SNP data in IGV}
+
+\begin{verbatim}
+awk '$1 == "7" { print $2 }' snp.file.tsv > snps.tsv
+grep -f snps.tsv hippo.flt.vcf > informative.snps.vcf
+\end{verbatim}
+
+In \texttt{emacs} copy over the header from the hippo.flt.vcf, so that I can view in IGV. Otherwise, cannot view this file in IGV.
+
+\subsection{SNP analysis}
+SNP information for region of interest downloaded from the Mouse Genomes Project - Query SNPs from Wellcome Trust Sanger Institute. To call variants, preform the following:
+\begin{verbatim}
+samtools mpileup -ugf chr7.fa -r chr7:region of interest \
+                file1.sorted.bam file2.sorted.bam ... | \
+                bcftools call -c - > var.raw.bcf
+bcftools view var.raw.bcf | vcfutils.pl varFilter -D1333 > var.flt.vcf
+\end{verbatim}
+
+The filter is based on mpileup output.
+
+\subsection{Gene prediction with GENESEQER}
+To analysis gene structures, the program GeneSeqer can be used in the commandline and as part of a pipeline if necessary. It requires FASTA files and an EST library. First step is to download protein or mRNA EST files from NCBI. Once that is complete, conversion of genome annotation and use of \texttt{GeneSeqer} as follows:
+\begin{verbatim}
+gffread -w annotation.file.fa -g /path/to/genome/fasta/chr7.fa \
+        /path/to/annotation.file.gtf
+GeneSeqer -s mouse -f -E est.files.fa -L comparison.files.fa > output
+\end{verbatim}
+
+\subsection{Manipulating files}
+Merging files uniquely (unique entries in a file):
+\begin{verbatim}
+awk '!a[$0]++' ./dir/* > ./new.unique.file
+\end{verbatim}
+
+Separating out strands assuming strand:
+\begin{verbatim}
+#Find strand data column (stringtie gtf, col 7)
+awk '$7 == "-"' annotation.file.gtf > minus.annot.gtf
+awk '$7 == "+"' annotation.file.gtf > plus.annot.gtf
+\end{verbatim}
+
+This varies on file layout. For instance, BED files normally have strand information in column 6. If you don't know where the strand information is at take a peek at it.
+\begin{verbatim}
+cat annotation.file.gtf | head
+\end{verbatim}
+
+Use \texttt{man} or \texttt{-h/-{}-help}\footnote{If using -h/-{}-help, don't forget to pipe it into \texttt{less} so that you can view it easy. Exit with 'q'.} on any Bash function to learn about it's options.
+\begin{verbatim}
+man cat
+head --help | less
+awk -h | less
+\end{verbatim}
+
+A slightly more complicated usage of \texttt{awk} to export only genes of interest.
+\begin{verbatim}
+awk -F "\t" '$7 == "+" { print $9 }' annotation.file.gtf | \
+    awk -F "; " '$1 == "gene_id \"MSTRG.2451\""' > Ube3a.txt
+grep -f Ube3a.txt annotation.file.gtf > Ube3a.gtf
+\end{verbatim}
+
+The \texttt{-F} option for \texttt{awk} is used to tell the program to look for field separaters similar to how excel opens up CSV or TSV files. Here, I am telling \texttt{awk} to look for tab separation in the forward strand (+) and \texttt{print} the 9th column, which happens to have the gene information. In stead of dumping it to the screen, I pipe ($|$) the results into another \texttt{awk} command to use the ';' field separator to extract out all of the "gene\_id" labeled as MSTRG.2451, which is the label StringTie gave \textit{Ube3a} during assembly. The backslash ($\backslash$) is used to comment out the (") as the \texttt{awk} command uses that as part of it's syntax. Once that is complete (taking only seconds), I direct the output into a new file Ube3a.txt. The file doesn't need to already be created to work. As such, it is very easy to overwrite files if you are not careful. 
+
+That all take seconds to run, afterwhich I use the \texttt{grep} command to use the pattern in the file, (\texttt{-f}), I just created to look in the annotation file and pull out all line-by-line the 'pattern' in the first file, directing the output to a new file Ube3a.gtf that now has only the \textit{Ube3a} annotations. You can edit these smaller files in any text editor (like emacs), while trying to edit the original annotation.file.gtf would be a nightmare. 
+
+\subsubsection*{Converting GTF files with gffread}
+Bash isn't the only way to manipulate files. gffread can be used to convert GTF files into GFF file format, which is necessary to run MISO.
+\begin{verbatim}
+gffread annotation.file.gtf -o annotation.file.gff
+\end{verbatim}
+
+gffread can also be used to convert GTF files into FASTA; however, to convert, an indexed genome (\texttt{samtools faidx}) is required.
+\begin{verbatim}
+gffread -w Ube3a.fa -g /path/to/chr7.fa Ube3a.gtf
+\end{verbatim}
+
+%% \subsection{Salmon for transcript quantification}
+%% Salmon \cite{Patro2016} is an improvement to Sushi, which provides an accurate, fast, and bias-aware transcript expression estimation on the transcriptome level. Salmon is a program that requires the GTF files be in FASTA format. After that, a Salmon index needs to be generated.
+%% \begin{verbatim}
+%% gffread -w annotation.file.fa \
+%%         -g /path/to/chr7.fa \
+%%         -o /path/to/annotation.file.gtf
+%% gzip -v annotation.file.fa
+%% salmon index -p 8 -t annotation.file.fa.gz \
+%%              -i annotation.mm9_index  
+%% \end{verbatim}
+
+%% Now that you have the Salmon index, quantification can be run with the trimmed FASTQ files. As such, Salmon works without needing to run an aligner or assemblier if you already have your desired annotation file.
+%% \begin{verbatim}
+%% #!/bin/bash
+%% reads='/path/to/trimmed/data'
+%% for i in {83..96}
+%% do
+%%   echo "Processing sample "$i
+%%   salmon quant -p 8 -i annotation.mm9_index -l A \
+%%                -1 $reads/SRR10337${i}_pe1_trimmo.fastq.gz \
+%%                -2 $reads/SRR10337${i}_pe2_trimmo.fastq.gz \
+%%                -o ./SRR10337${i}_quant
+%% done
+%% \end{verbatim}
+
+%% Quantifications are in TPM within tabular files.
+
+\subsection{Ballgown}
+To run Ballgown, StringTie needs to be run a second time for the samples with the \texttt{-e}, \texttt{-B}, and \texttt{-G} options.
+\begin{verbatim}
+stringtie -p 8 -G /path/to/annotation.gtf -eB \
+          -o /path/to/output/sample.gtf \
+          /path/to/sorted/BAM/file.bam
+\end{verbatim}
+
+Once run for all the samples, a CSV file is need for importing the data when in R. This can be done by either editing a new file, in excel or Libre, or \texttt{printf}.
+
+\subsubsection*{Running ballgown in R}
+I personally like using Ballgown \cite{Pertea2016,Fu2016} (version 2.6.0) to look at the average transcript expression by tissue. Below is the script to so that. Unfortunately, for the antisense transcript, the snoRNAs are part of the assembly, so it's not as informative as one would like, but for \textit{Ube3a} you get a pretty good idea of what's going on, on the expression level.
+\begin{verbatim}
+#Load libraries
+library(ballgown)
+library(ggplot2)
+library(gplots)
+library(genefilter)
+library(devtools)
+
+#Load phenotype data to generate ballgown object
+pheno_unstranded <- read.csv("unstranded.mm9.csv")
+
+##Generated ballgown object and save
+bg_unstranded <- ballgown(samples=as.vector(pheno_unstranded$path),
+                          pData=pheno_unstranded)
+save(bg_unstranded, file='./bg_unstranded.rda')
+load("bg_unstranded.rda")
+
+pdf(file="file.name.pdf")
+
+#Average expression of transcripts
+plotMeans("MSTRG.2451",bg_unstranded, groupvar="type", legend=T)
+plotMeans("MSTRG.2448",bg_unstranded, groupvar="type", legend=T)
+
+dev.off()
+\end{verbatim}
+
+\subsubsection*{Ballgown+}
+For more information on what can be done with ballgown, see the Nature protocol paper \cite{Pertea2016}.
+
+\subsection{edgeR}
+For analysis with edgeR, I have provided a sample script. For more information, the edgeR manual can be of help. Briefly, the script loads libraries, runs featureCounts, normalizes the data, then calculates differential analysis based of the features counted via featureCounts.
+
+\begin{verbatim}
+##Clear workspace
+rm(list=ls(all=T))
+
+## load libraries
+library(edgeR)
+library(dplyr)
+library(Rsubread)
+
+##Importing BAM file location (unstranded)
+pheno_data <- read.csv("bam_files.csv")
+bam_files   <- pheno_data$path
+
+fc_transcript <- featureCounts(bam_unstranded,
+                               annot.ext="/path/to/annotation.gtf",
+                               isGTFAnnotationFile=TRUE,
+                               GTF.featureType="transcript",
+                               GTF.attrType="transcript_id",
+                               useMetaFeatures=FALSE,
+                               allowMultiOverlap=TRUE,
+                               strandSpecific=0,
+                               isPairedEnd=TRUE,
+                               nthreads=8)
+
+fc_exons     <- featureCounts(bam_unstranded,
+                              annot.ext="/path/to/annotation.gtf",
+                              isGTFAnnotationFile=T,
+                              GTF.featureType="exon",
+                              GTF.attrType="gene_id",
+                              useMetaFeatures=F,
+                              allowMultiOverlap=T,
+                              strandSpecific=0,
+                              isPairedEnd=T,
+                              nthreads=8)
+
+save(fc_transcript, file='fc_transcript.rda')
+save(fc_exons, file='fc_exons.rda')
+
+##Load data
+#load("fc_transcript.rda")
+#load("fc_exons.rda")
+
+transcripts <- DGEList(counts=fc_transcript$counts,
+                    group=rep(1:4, each=3),##depend on samples
+                    genes=fc_transcript$annotation)
+keep.t      <- rowSums(cpm(transcripts) > 1) >= 3  #n=12, 25%
+transcripts <- transcripts[keep.transcripts, ,keep.lib.sizes=F]
+transcripts <- calcNormFactors(transcripts)
+
+exons       <- DGEList(counts=fc_exons$counts,
+                    group=rep(1:4, each=3),
+                    genes=fc_exons$annotation)
+keep.exons  <- rowSums(cpm(exons) > 1) >= 3
+exons       <- exons[keep.exons, ,keep.lib.sizes=F]
+exons       <- calcNormFactors(exons)
+
+rownames(transcripts$samples) <- pheno_data$id #sample names
+colnames(transcripts$counts)  <- pheno_data$id
+rownames(exons$samples)       <- pheno_data$id
+colnames(exons$counts)        <- pheno_data$id
+
+##Obtain dispersion estimates
+design <- model.matrix(~group, data=transcripts$sample)
+
+transcripts <- estimateDisp(transcripts, design, robust=TRUE)
+exons       <- estimateDisp(exons, design, robust=TRUE)
+
+#Testing for DE (One-way Anova like Test)
+fit1 <- glmFit(transcripts, design)
+fit2 <- glmFit(exons, design)
+
+lrt1 <- glmLRT(fit1, coef=2:4)##depended on design
+lrt2 <- glmLRT(fit2, coef=2:4)
+
+sink("DE_transcripts_ANOVA.txt")
+print(topTags(lrt1, n = 10000))
+sink()
+sink("DE_exons_ANOVA.txt")
+print(topTags(lrt2, n = 10000))
+sink()
+
+##Testing for DE (pairwise)
+et1.1 <- exactTest(transcripts, pair=c("2","1"))
+et1.2 <- exactTest(transcripts, pair=c("2","3"))
+et1.3 <- exactTest(transcripts, pair=c("2","4"))
+
+et2.1 <- exactTest(exons, pair=c("2","1"))
+et2.2 <- exactTest(exons, pair=c("2","3"))
+et2.3 <- exactTest(exons, pair=c("2","4"))
+
+sink("DE_transcripts_tissue2VStissue1.csv")
+print(topTags(et1.1, n = 10000))
+sink()
+
+sink("DE_exons_tissue2VStissue1.csv")
+print(topTags(et2.1, n = 10000))
+sink()
+
+##Alternative to topTags & sink()
+write.table(cbind(et2.1$genes,et2.1$table),
+            "DE_exons_tissue2VStissue1_full.txt",
+            sep="\t",row.names=FALSE)
+
+##Differential Splicing
+sp <- diffSpliceDGE(fit2, coef = 4,
+                    geneid = "GeneID",
+                    exonid = "Start")
+
+sink("DE_splicing.txt")
+print(topSpliceDGE(sp, n = 10000))
+sink()
+\end{verbatim}
+
+\subsection{Graphic with ggplot2}
+\texttt{ggplot2} is a fantastic package for publication quality graphs in R. Everything can be manipulated for graphic. If you have trouble, there is an active community to help with every problem. Below is a sample script although ggplots should be run in terminal.
+\begin{verbatim}
+##Clear workspace
+rm(list=ls(all=T))
+
+##Load libraries
+library(ggplot2)
+library(devtools)
+
+pdf(file="filename.pdf", width=10, height=7)
+
+data <- read.table("data.tsv",
+                   sep="\t", header=TRUE)
+
+data.plot <- ggplot(data=data,
+                        aes(x=Sample, y=logFC, fill=GeneID)) +
+    geom_bar(colour="black", width=0.8,
+             stat="identity", position=position_dodge()) +
+    geom_hline(aes(yintercept=0))
+
+data.plot + scale_x_discrete(name="") +
+    scale_y_continuous(name="Expression: log2(FC)",limits=c(-6,1)) + 
+    scale_fill_manual(values=c("grey","grey40","grey20")) +
+    annotate("text",x=1,y=-4.45,label="***,0.00", size=5) +
+    annotate("text",x=2,y=-3.74,label="***,0.00", size=5) +
+    annotate("text",x=3,y=-5.23,label="***,0.00", size=5) +
+    theme(legend.title=element_blank(),
+          legend.position=c(0.88,0.92),
+          legend.text=element_text(size=16),
+          axis.text.x=element_text(face="bold", colour="black", size=16),
+          axis.title.y=element_text(face="bold", size=18),
+          axis.text.y=element_text(size=16,colour="black"),
+          panel.grid.minor=element_blank(),
+          panel.grid.major=element_blank(),
+          panel.background=element_rect(fill="white"))
+
+dev.off()
+\end{verbatim}

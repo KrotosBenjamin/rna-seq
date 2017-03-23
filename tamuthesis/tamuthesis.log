@@ -1,0 +1,4870 @@
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2016.6.28)  10 MAR 2017 11:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**tamuthesis.tex
+(./tamuthesis.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2010/10/13 v2.3e parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 43.
+\cftparskip=\skip43
+\cftbeforetoctitleskip=\skip44
+\cftaftertoctitleskip=\skip45
+\cftbeforepartskip=\skip46
+\cftpartnumwidth=\skip47
+\cftpartindent=\skip48
+\cftbeforechapskip=\skip49
+\cftchapindent=\skip50
+\cftchapnumwidth=\skip51
+\cftbeforesecskip=\skip52
+\cftsecindent=\skip53
+\cftsecnumwidth=\skip54
+\cftbeforesubsecskip=\skip55
+\cftsubsecindent=\skip56
+\cftsubsecnumwidth=\skip57
+\cftbeforesubsubsecskip=\skip58
+\cftsubsubsecindent=\skip59
+\cftsubsubsecnumwidth=\skip60
+\cftbeforeparaskip=\skip61
+\cftparaindent=\skip62
+\cftparanumwidth=\skip63
+\cftbeforesubparaskip=\skip64
+\cftsubparaindent=\skip65
+\cftsubparanumwidth=\skip66
+\cftbeforeloftitleskip=\skip67
+\cftafterloftitleskip=\skip68
+\cftbeforefigskip=\skip69
+\cftfigindent=\skip70
+\cftfignumwidth=\skip71
+\c@lofdepth=\count92
+\c@lotdepth=\count93
+\cftbeforelottitleskip=\skip72
+\cftafterlottitleskip=\skip73
+\cftbeforetabskip=\skip74
+\cfttabindent=\skip75
+\cfttabnumwidth=\skip76
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip77
+\aftertitleunit=\skip78
+\ttl@plus=\dimen111
+\ttl@minus=\dimen112
+\ttl@toksa=\toks16
+\titlewidth=\dimen113
+\titlewidthlast=\dimen114
+\titlewidthfirst=\dimen115
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count94
+)
+\etb@tempcnta=\count95
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocvsec2/tocvsec2.sty
+Package: tocvsec2 2014/03/10 v1.3a variable ToC section entries
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@max@tocdepth=\count96
+\c@max@secnumdepth=\count97
+)
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count98
+\c@@ppsavesec=\count99
+\c@@ppsaveapp=\count100
+)
+(./style/tamuconfig.sty
+
+LaTeX Warning: You have requested package `style/tamuconfig',
+               but the package provides `tamuconfig'.
+
+Package: tamuconfig 
+) (/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2013/02/04 v0.95 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen116
+\Gin@req@width=\dimen117
+)
+\c@r@tfl@t=\count101
+\rotFPtop=\skip79
+\rotFPbot=\skip80
+\rot@float@box=\box27
+\rot@mess@toks=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mh/mathtools.sty
+Package: mathtools 2013/02/12 v1.13 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count102
+\calc@Bcount=\count103
+\calc@Adimen=\dimen118
+\calc@Bdimen=\dimen119
+\calc@Askip=\skip81
+\calc@Bskip=\skip82
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count104
+\calc@Cskip=\skip83
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mh/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip84
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen120
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen121
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count105
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count106
+\leftroot@=\count107
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count108
+\DOTSCASE@=\count109
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen122
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count110
+\c@MaxMatrixCols=\count111
+\dotsspace@=\muskip10
+\c@parentequation=\count112
+\dspbrk@lvl=\count113
+\tag@help=\toks19
+\row@=\count114
+\column@=\count115
+\maxfields@=\count116
+\andhelp@=\toks20
+\eqnshift@=\dimen123
+\alignsep@=\dimen124
+\tagshift@=\dimen125
+\tagwidth@=\dimen126
+\totwidth@=\dimen127
+\lineht@=\dimen128
+\@envbody=\toks21
+\multlinegap=\skip85
+\multlinetaggap=\skip86
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count117
+\l_MT_multwidth_dim=\dimen129
+\origjot=\skip87
+\l_MT_shortvdotswithinadjustabove_dim=\dimen130
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen131
+\l_MT_above_intertext_sep=\dimen132
+\l_MT_below_intertext_sep=\dimen133
+\l_MT_above_shortintertext_sep=\dimen134
+\l_MT_below_shortintertext_sep=\dimen135
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mdwtools/footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box30
+\fn@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip88
+\LTright=\skip89
+\LTpre=\skip90
+\LTpost=\skip91
+\LTchunksize=\count118
+\LTcapwidth=\dimen137
+\LT@head=\box31
+\LT@firsthead=\box32
+\LT@foot=\box33
+\LT@lastfoot=\box34
+\LT@cols=\count119
+\LT@rows=\count120
+\c@LT@tables=\count121
+\c@LT@chunks=\count122
+\LT@p@ftn=\toks23
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
+\@cmidla=\count123
+\@cmidlb=\count124
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
+\@thisruleclass=\count125
+\@lastruleclass=\count126
+\@thisrulewidth=\dimen151
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen152
+\extrarowheight=\dimen153
+\NC@list=\toks24
+\extratabsurround=\skip92
+\backup@length=\skip93
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box35
+\sift@deathcycles=\count127
+\@vwid@loff=\dimen154
+\@vwid@roff=\dimen155
+)
+\c@taburow=\count128
+\tabu@nbcols=\count129
+\tabu@cnt=\count130
+\tabu@Xcol=\count131
+\tabu@alloc=\count132
+\tabu@nested=\count133
+\tabu@target=\dimen156
+\tabu@spreadtarget=\dimen157
+\tabu@naturalX=\dimen158
+\tabucolX=\dimen159
+\tabu@Xsum=\dimen160
+\extrarowdepth=\dimen161
+\abovetabulinesep=\dimen162
+\belowtabulinesep=\dimen163
+\tabustrutrule=\dimen164
+\tabu@thebody=\toks25
+\tabu@footnotes=\toks26
+\tabu@box=\box36
+\tabu@arstrutbox=\box37
+\tabu@hleads=\box38
+\tabu@vleads=\box39
+\tabu@cellskip=\skip94
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/02/03 v3.3-65 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/02/03 v1.5-62 caption3 kernel (AR)
+\captionmargin=\dimen165
+\captionmargin@=\dimen166
+\captionwidth=\dimen167
+\caption@tempdima=\dimen168
+\caption@indent=\dimen169
+\caption@parindent=\dimen170
+\caption@hangindent=\dimen171
+)
+\c@ContinuedFloat=\count134
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip95
+\enit@outerparindent=\dimen172
+\enit@toks=\toks27
+\enit@inbox=\box40
+\enitdp@description=\count135
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks28
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box41
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen173
+\pgf@y=\dimen174
+\pgf@xa=\dimen175
+\pgf@ya=\dimen176
+\pgf@xb=\dimen177
+\pgf@yb=\dimen178
+\pgf@xc=\dimen179
+\pgf@yc=\dimen180
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count136
+\c@pgf@countb=\count137
+\c@pgf@countc=\count138
+\c@pgf@countd=\count139
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-xetex.def on input line 900.
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2010/02/16  (rcs-revision 1.3)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf-vi
+a-dvi.def
+File: pgfsys-common-pdf-via-dvi.def 2008/05/19  (rcs-revision 1.7)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count140
+\pgfsyssoftpath@bigbuffer@items=\count141
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen181
+\pgfmath@count=\count142
+\pgfmath@box=\box42
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count143
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen182
+\pgf@picmaxx=\dimen183
+\pgf@picminy=\dimen184
+\pgf@picmaxy=\dimen185
+\pgf@pathminx=\dimen186
+\pgf@pathmaxx=\dimen187
+\pgf@pathminy=\dimen188
+\pgf@pathmaxy=\dimen189
+\pgf@xx=\dimen190
+\pgf@xy=\dimen191
+\pgf@yx=\dimen192
+\pgf@yy=\dimen193
+\pgf@zx=\dimen194
+\pgf@zy=\dimen195
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen196
+\pgf@path@lasty=\dimen197
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen198
+\pgf@shorten@start@additional=\dimen199
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box43
+\pgf@hbox=\box44
+\pgf@layerbox@main=\box45
+\pgf@picture@serial@count=\count144
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen200
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen201
+\pgf@pt@y=\dimen202
+\pgf@pt@temp=\dimen203
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen204
+\pgf@sys@shading@range@num=\count145
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box46
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box47
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen205
+\pgf@nodesepend=\dimen206
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen207
+\pgffor@skip=\dimen208
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count146
+\pgfplotmarksize=\dimen209
+)
+\tikz@lastx=\dimen210
+\tikz@lasty=\dimen211
+\tikz@lastxsaved=\dimen212
+\tikz@lastysaved=\dimen213
+\tikzleveldistance=\dimen214
+\tikzsiblingdistance=\dimen215
+\tikz@figbox=\box48
+\tikz@tempbox=\box49
+\tikztreelevel=\count147
+\tikznumberofchildren=\count148
+\tikznumberofcurrentchild=\count149
+\tikz@fig@count=\count150
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count151
+\pgfmatrixcurrentcolumn=\count152
+\pgf@matrix@numberofcolumns=\count153
+)
+\tikz@expandcount=\count154
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2016/01/06 v1.13 Data Visualization (1.13)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks37
+\t@pgfplots@tokb=\toks38
+\t@pgfplots@tokc=\toks39
+\pgfplots@tmpa=\dimen216
+\c@pgfplots@coordindex=\count155
+\c@pgfplots@scanlineindex=\count156
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code
+.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_loader.code.tex
+Package pgfplots: loading complementary code for your PGF version...
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_misc.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks40
+\pgfkeys@temptoks=\toks41
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks42
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count157
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2012/09/11 v2.10 (rcs-revision 1.17)
+\pgf@plot@mark@count=\count158
+\pgfplotmarksize=\dimen217
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_pgflibraryfpu.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2012/11/30  (rcs-revision 1.38)
+\pgfpic=\box50
+\pgf@hbox=\box51
+\pgf@layerbox@main=\box52
+\pgf@picture@serial@count=\count159
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2012/11/07  (rcs-revision 1.5)
+)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks43
+\t@pgf@tokb=\toks44
+\t@pgf@tokc=\toks45
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_pgfutil-common-lists.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_trig_format.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
+tructure.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
+tructureext.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray
+.code.tex
+\c@pgfplotsarray@tmp=\count160
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatri
+x.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshare
+d.code.tex
+\c@pgfplotstable@counta=\count161
+\t@pgfplotstable@a=\toks46
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.te
+x
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.co
+de.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.sur
+fshading.code.tex
+\c@pgfplotslibrarysurf@no=\count162
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surf
+shading.pgfsys-xetex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surf
+shading.pgfsys-dvipdfmx.def
+\c@pgfplotslibrarysurf@streamlen=\count163
+))))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.
+tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.t
+ex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.cod
+e.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.
+tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
+e.tex
+\pgfdecoratedcompleteddistance=\dimen218
+\pgfdecoratedremainingdistance=\dimen219
+\pgfdecoratedinputsegmentcompleteddistance=\dimen220
+\pgfdecoratedinputsegmentremainingdistance=\dimen221
+\pgf@decorate@distancetomove=\dimen222
+\pgf@decorate@repeatstate=\count164
+\pgfdecorationsegmentamplitude=\dimen223
+\pgfdecorationsegmentlength=\dimen224
+)
+\tikz@lib@dec@box=\box53
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathmorphing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathmorphing.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathreplacing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count165
+\pgfplots@xmin@reg=\dimen225
+\pgfplots@xmax@reg=\dimen226
+\pgfplots@ymin@reg=\dimen227
+\pgfplots@ymax@reg=\dimen228
+\pgfplots@zmin@reg=\dimen229
+\pgfplots@zmax@reg=\dimen230
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.co
+de.tex
+File: pgflibraryplotmarks.code.tex 2010/10/15 v2.10 (rcs-revision 1.12)
+))) (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box54
+\UL@hyphenbox=\box55
+\UL@skip=\skip96
+\UL@hook=\toks47
+\UL@height=\dimen231
+\UL@pe=\count166
+\UL@pixel=\dimen232
+\ULC@box=\box56
+Package: ulem 2012/05/18
+\ULdepth=\dimen233
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
+tex
+File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
+Normal \dimen register pool exhausted, switching to extended pool.
+\arrowsize=\dimen256
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v2.10 (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.markings.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.markings.code.tex)) (./tamuthesis.aux (./data/titlepage.aux)
+(./data/abstract.aux) (./data/dedication.aux) (./data/acknowledgements.aux)
+(./data/contributors.aux) (./data/nomenclature.aux) (./data/lists.aux)
+(./data/section1.aux) (./data/section2.aux) (./data/section3.aux)
+(./data/section4.aux
+
+LaTeX Warning: Label `table:4-1' multiply defined.
+
+
+LaTeX Warning: Label `table:4-1' multiply defined.
+
+) (./data/section5.aux) (./data/section6.aux) (./data/appendices.aux
+
+LaTeX Warning: Label `table:a-1' multiply defined.
+
+
+LaTeX Warning: Label `table:a-1' multiply defined.
+
+
+LaTeX Warning: Label `table:a-1' multiply defined.
+
+
+LaTeX Warning: Label `tableB:1' multiply defined.
+
+
+LaTeX Warning: Label `tableB:1' multiply defined.
+
+
+LaTeX Warning: Label `mouse primers' multiply defined.
+
+
+LaTeX Warning: Label `tableC:1' multiply defined.
+
+
+LaTeX Warning: Label `tableC:1' multiply defined.
+
+
+LaTeX Warning: Label `tableC:1' multiply defined.
+
+))
+\openout1 = `tamuthesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 104.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(101.17755pt, 430.0074pt, 83.11005pt)
+* v-part:(T,H,B)=(90.3375pt, 614.295pt, 90.3375pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.0074pt
+* \textheight=614.295pt
+* \oddsidemargin=28.90756pt
+* \evensidemargin=28.90756pt
+* \topmargin=-18.9325pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ABD: EveryShipout initializing macros
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.13}).
+
+\openout2 = `data/titlepage.aux'.
+
+(./data/titlepage.tex [1
+
+
+])
+\openout2 = `data/abstract.aux'.
+
+ (./data/abstract.tex
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 16.
+ [2
+
+
+
+] [3])
+\openout2 = `data/dedication.aux'.
+
+ (./data/dedication.tex [4
+
+
+
+])
+\openout2 = `data/acknowledgements.aux'.
+
+ (./data/acknowledgements.tex [5
+
+
+
+] [6])
+\openout2 = `data/contributors.aux'.
+
+ (./data/contributors.tex
+Overfull \hbox (5.67337pt too wide) in paragraph at lines 34--35
+\T1/ptm/m/n/12 [chair], Se-gal and Thread-g-ill of the De-part-ment of Vet-eri-
+nary Patho-bi-ol-ogy, and Dr. Burgess
+ []
+
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 36.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)) [7
+
+
+
+] [8]
+\openout2 = `data/nomenclature.aux'.
+
+
+(./data/nomenclature.tex [9
+
+
+
+] [10] [11] [12])
+\openout2 = `data/lists.aux'.
+
+ (./data/lists.tex
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 37.
+
+(./tamuthesis.toc
+Overfull \hbox (3.4076pt too wide) detected at line 9
+ \T1/ptm/m/n/12 xviii
+ []
+
+
+Overfull \hbox (2.43584pt too wide) detected at line 10
+ \T1/ptm/m/n/12 xxiv
+ []
+
+
+Overfull \hbox (1.79832pt too wide) in paragraph at lines 11--11
+ [][] []\T1/ptm/m/it/12 UBE3A \T1/ptm/m/n/12 IM-PRINT-ING IN NEU-RONS: A UNIQUE
+ MODEL FOR AN-TI-SENSE 
+ []
+
+[13
+
+
+]
+Overfull \hbox (11.60368pt too wide) in paragraph at lines 58--58
+ [][] []\T1/ptm/m/n/12 ANTISENSE ME-DI-ATED AL-TER-NA-TIVE SPLIC-ING REG-U-LATE
+S IM-PRINT- 
+ []
+
+
+Overfull \hbox (6.04633pt too wide) in paragraph at lines 78--78
+ [][] []\T1/ptm/m/n/12 HIGH THROUGH-PUT DRUG SCREEN-ING OF MOUSE EM-BRY-ONIC ST
+EM 
+ []
+
+[14]
+Overfull \hbox (25.46371pt too wide) in paragraph at lines 88--88
+ [][] []\T1/ptm/m/n/12 MOUSE EM-BRY-ONIC STEM CELL-DERIVED NEU-RON HIGH-THROUGH
+PUT 
+ []
+
+[15] [16])
+\tf@toc=\write4
+\openout4 = `tamuthesis.toc'.
+
+ [17] (./tamuthesis.lof
+Overfull \hbox (1.01706pt too wide) in paragraph at lines 3--3
+ \T1/ptm/m/n/12 pris-ing \T1/ptm/m/it/12 SNURF/SNRPN\T1/ptm/m/n/12 , C/D box sn
+oR-NAs (\T1/ptm/m/it/12 SNORD116 \T1/ptm/m/n/12 and \T1/ptm/m/it/12 SNORD115\T1
+/ptm/m/n/12 ), 
+ []
+
+
+Overfull \hbox (1.17265pt too wide) in paragraph at lines 5--5
+ [][] []\T1/ptm/m/n/12 Schematic of lncR-NAs based on loci-of-origin de-pict-in
+g an en-hancer RNA, 
+ []
+
+
+Overfull \hbox (3.79964pt too wide) in paragraph at lines 7--7
+ [][] []\T1/ptm/m/n/12 Transcription of \T1/ptm/m/it/12 AIRN \T1/ptm/m/n/12 reg
+-u-lates tran-scrip-tional gene si-lenc-ing of the \T1/ptm/m/it/12 IGF2R 
+ []
+
+[18]
+Overfull \hbox (4.1364pt too wide) in paragraph at lines 13--13
+ \T1/ptm/m/n/12 posed al-ter-na-tive splic-ing model for \T1/ptm/m/it/12 UBE3A-
+AS \T1/ptm/m/n/12 reg-u-la-tion of \T1/ptm/m/it/12 UBE3A\T1/ptm/m/n/12 . Poly- 
+
+ []
+
+
+Overfull \hbox (8.00049pt too wide) in paragraph at lines 16--16
+ \T1/ptm/m/n/12 of mouse an-ti-sense tran-script polyadeny-la-tion sites, 5' ca
+p-ping, and 3'RACE 
+ []
+
+[19]
+Overfull \hbox (10.23233pt too wide) in paragraph at lines 22--22
+ [][] []\T1/ptm/m/it/12 Ube3a-AS \T1/ptm/m/n/12 reg-u-lates ex-pres-sion of \T1
+/ptm/m/it/12 Ube3a \T1/ptm/m/n/12 iso-form 4 in neu-rons. \T1/ptm/b/n/12 A. \T1
+/ptm/m/n/12 Schematic 
+ []
+
+[20] [21]
+Overfull \hbox (2.49153pt too wide) in paragraph at lines 40--40
+ [][] []\T1/ptm/m/n/12 Sashimi plots demon-strat-ing splic-ing and al-ter-na-ti
+ve splic-ing events present 
+ []
+
+[22])
+\tf@lof=\write5
+\openout5 = `tamuthesis.lof'.
+
+ [23] (./tamuthesis.lot [24])
+\tf@lot=\write6
+\openout6 = `tamuthesis.lot'.
+
+ [25])
+\openout2 = `data/section1.aux'.
+
+ (./data/section1.tex
+Chapter 1.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 23.
+File: figures/15q11-q13_region2.pdf Graphic file (type QTm)
+<use  "figures/15q11-q13_region2.pdf" > [1
+
+
+
+] [2] [3]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 142.
+ [4]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 240.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 240.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 240.
+ [5] [6] [7]
+Missing character: There is no ’ in font ptmri8t!
+Missing character: There is no ’ in font ptmri8t!
+Missing character: There is no ’ in font ptmri8t!
+ [8]
+[9]
+File: figures/lncRNAs2.pdf Graphic file (type QTm)
+ <use  "figures/lncRNAs2.pdf" >
+File: figures/FGFR2-AS2.pdf Graphic file (type QTm)
+ <use  "figures/FGFR2-AS2.pdf" > [10]
+[11]
+File: figures/AIRN2.pdf Graphic file (type QTm)
+ <use  "figures/AIRN2.pdf" >
+File: figures/Nespas2.pdf Graphic file (type QTm)
+ <use  "figures/Nespas2.pdf" > [12] [13]
+File: figures/NUDT6.pdf Graphic file (type QTm)
+
+<use  "figures/NUDT6.pdf" >
+Overfull \hbox (2.75787pt too wide) in paragraph at lines 334--335
+ [][] 
+ []
+
+[14]
+Missing character: There is no ’ in font ptmr8t!
+File: figures/KCNQ1OT1.pdf Graphic file (type QTm)
+ <use  "figures/KCNQ1OT1.pdf" > [15]
+File: figures/BACE1-AS.pdf Graphic file (type QTm)
+ <use  "figures/BACE1-AS.pdf" >
+Overfull \hbox (3.61185pt too wide) in paragraph at lines 362--363
+ [][] 
+ []
+
+[16]
+File: figures/BDNF.pdf Graphic file (type QTm)
+ <use  "figures/BDNF.pdf" >
+Overfull \hbox (1.05359pt too wide) in paragraph at lines 375--376
+ [][] 
+ []
+
+[17]
+Missing character: There is no ’ in font ptmr8t!
+ [18]
+File: figures/Ube3a-AS_mechanism.pdf Graphic file (type QTm)
+ <use  "figures/Ube3a-AS_mechanism.pdf" >
+Overfull \hbox (8.32909pt too wide) in paragraph at lines 392--393
+ [][] 
+ []
+
+[19]) [20]
+\openout2 = `data/section2.aux'.
+
+ (./data/section2.tex
+Chapter 2.
+[21
+
+
+
+] [22]
+Overfull \hbox (9.45232pt too wide) in paragraph at lines 17--18
+\T1/ptm/m/n/12 tran-script is both nec-es-sary and suf-fi-cient to si-lence ex-
+pres-sion of the pa-ter-nal \T1/ptm/m/it/12 Ube3a/UBE3A
+ []
+
+
+Overfull \hbox (5.88344pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/12 num-ber ($\T1/pcr/m/n/12 http : / / www . ebi . ac . uk / ena / 
+data / view / <[]accession>[]$\T1/ptm/m/n/12 ). Mouse tis-
+ []
+
+[23]
+Overfull \hbox (1.08813pt too wide) in paragraph at lines 40--40
+ []\T1/ptm/b/n/12 Stranded| 
+ []
+
+
+Overfull \hbox (4.04868pt too wide) in paragraph at lines 40--40
+ []\T1/ptm/m/n/12 ERP000591| 
+ []
+
+
+Overfull \hbox (3.38861pt too wide) in paragraph at lines 40--40
+ []\T1/ptm/m/n/12 SRP012040| 
+ []
+
+
+Overfull \hbox (3.38861pt too wide) in paragraph at lines 40--40
+ []\T1/ptm/m/n/12 SRP033200| 
+ []
+
+
+Overfull \hbox (3.38861pt too wide) in paragraph at lines 40--40
+ []\T1/ptm/m/n/12 SRP048593| 
+ []
+
+
+Overfull \hbox (4.04868pt too wide) in paragraph at lines 40--40
+ []\T1/ptm/m/n/12 ERP003613| 
+ []
+
+
+Overfull \hbox (3.38861pt too wide) in paragraph at lines 40--40
+ []\T1/ptm/m/n/12 SRP072463| 
+ []
+
+[24]
+Overfull \hbox (4.19868pt too wide) in paragraph at lines 50--51
+\T1/pcr/m/n/12 jp / 5 / datafiles / latest / extra / CAGE _ peaks/$\T1/ptm/m/n/
+12 . Sim-i-lar to polyA-seq data, files
+ []
+
+
+Overfull \hbox (2.81377pt too wide) in paragraph at lines 53--54
+[]\T1/ptm/m/n/12 Quality of down-loaded raw fastq files were checked with FastQ
+C [149] (ver-sion 0.11.5).
+ []
+
+[25] [26]
+Missing character: There is no ’ in font ptmr8t!
+ [27] [28]
+File: figures/chapter2.antisense.annotation.png Graphic file (type QTm)
+ <use  "figures/chapter2.antisense.annotation.png" >
+[29] [30]
+File: figures/chapter2.antisense.processing.png Graphic file (type QTm)
+ <use  "figures/chapter2.antisense.processing.png" >
+File: figures/chapter2.antisense.sashimi.png Graphic file (type QTm)
+
+<use  "figures/chapter2.antisense.sashimi.png" > [31] [32] [33]
+File: figures/chapter2.brain-specific2.png Graphic file (type QTm)
+
+<use  "figures/chapter2.brain-specific2.png" > [34] [35]
+File: figures/chapter2.spatiotemporal.png Graphic file (type QTm)
+
+<use  "figures/chapter2.spatiotemporal.png" >
+Overfull \hbox (27.38954pt too wide) in paragraph at lines 167--168
+[]\T1/ptm/m/n/12 In this study, we in-ves-ti-gated ex-pres-sion pro-files of th
+e an-ti-sense tran-script to \T1/ptm/m/it/12 Ube3a/UBE3A\T1/ptm/m/n/12 ,
+ []
+
+[36] [37] [38]) [39]
+\openout2 = `data/section3.aux'.
+
+ (./data/section3.tex
+Chapter 3.
+[40
+
+
+
+] [41]
+Overfull \hbox (3.33545pt too wide) in paragraph at lines 41--41
+ []\T1/ptm/b/n/12 Layout| 
+ []
+
+
+Overfull \hbox (7.6955pt too wide) in paragraph at lines 41--41
+ []\T1/ptm/b/n/12 Stranded| 
+ []
+
+
+Overfull \hbox (5.14948pt too wide) in paragraph at lines 41--41
+ []\T1/ptm/m/n/12 ERP000591| 
+ []
+
+
+Overfull \hbox (4.48941pt too wide) in paragraph at lines 41--41
+ []\T1/ptm/m/n/12 SRP012040| 
+ []
+
+
+Overfull \hbox (4.48941pt too wide) in paragraph at lines 41--41
+ []\T1/ptm/m/n/12 SRP017966| 
+ []
+
+
+Overfull \hbox (4.48941pt too wide) in paragraph at lines 41--41
+ []\T1/ptm/m/n/12 SRP033200| 
+ []
+
+[42] [43] [44] [45] [46] [47]
+File: figures/chapter3.fig1_short.png Graphic file (type QTm)
+ <use  "figures/chapter3.fig1_short.png" >
+Overfull \hbox (23.63249pt too wide) in paragraph at lines 100--101
+[]\T1/ptm/m/n/12 We next in-ves-ti-gated the mRNA (polyA en-riched) tran-scrip-
+tomes of adult hy-brid (C57BL/6J
+ []
+
+[48] [49] [50]
+File: figures/chapter3.fig2.png Graphic file (type QTm)
+ <use  "figures/chapter3.fig2.png" > [51] [52]) [53]
+\openout2 = `data/section4.aux'.
+
+
+(./data/section4.tex
+Chapter 4.
+[54
+
+
+
+] [55] [56] [57] [58]
+File: figures/neuron-differentiation2.pdf Graphic file (type QTm)
+ <use  "figures/neuron-differentiation2.pdf" > [59]
+File: figures/nestin.pdf Graphic file (type QTm)
+
+<use  "figures/nestin.pdf" >
+File: figures/map2.pdf Graphic file (type QTm)
+ <use  "figures/map2.pdf" >
+File: figures/dcx.pdf Graphic file (type QTm)
+
+<use  "figures/dcx.pdf" >
+File: figures/betaTubulin.pdf Graphic file (type QTm)
+ <use  "figures/betaTubulin.pdf" >
+Overfull \hbox (5.46777pt too wide) in paragraph at lines 131--132
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[60] [61] [62] [63] [64] [65]) [66]
+\openout2 = `data/section5.aux'.
+
+ (./data/section5.tex
+Chapter 5.
+[67
+
+
+
+] [68] [69] [70] [71]
+Overfull \hbox (36.69217pt too wide) in paragraph at lines 41--42
+\T1/ptm/m/n/12 Briefly, cells were fixed with 4% paraformalde-hyde (Sigma-Aldri
+ch) for HTS or 4% paraformalde-
+ []
+
+[72]
+Overfull \hbox (0.52385pt too wide) in paragraph at lines 57--57
+ |[]\T1/ptm/m/it/12 Topotecan in-duces re-ac-ti-va-tion of si-lenced pa-ter-nal
+ Ube3a al-lele in ES cell-derived
+ []
+
+[73]
+File: figures/imprint-off2.pdf Graphic file (type QTm)
+ <use  "figures/imprint-off2.pdf" >
+File: figures/imprint-on2.pdf Graphic file (type QTm)
+ <use  "figures/imprint-on2.pdf" >
+File: figures/time-course2.pdf Graphic file (type QTm)
+
+<use  "figures/time-course2.pdf" >
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[74]
+
+LaTeX Warning: Text page 75 contains only floats.
+
+
+Overfull \vbox (7.68732pt too high) has occurred while \output is active []
+
+
+[75]
+Overfull \hbox (1.59581pt too wide) in alignment at lines 97--97
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.59581pt too wide) in alignment at lines 97--97
+ [] [] [] [] [] [] [] 
+ []
+
+File: figures/plate-analysis.pdf Graphic file (type QTm)
+<use  "figures/plate-analysis.pdf" >
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[76] [77] [78] [79] [80]) [81] [82]
+\openout2 = `data/section6.aux'.
+
+ (./data/section6.tex
+Chapter 6.
+[83
+
+
+
+] [84] [85] [86] [87] [88] [89]
+Overfull \hbox (13.19595pt too wide) in paragraph at lines 54--57
+\T1/pcr/m/n/12 biosearchtech . com / support / resources / stellaris-[]protocol
+s$\T1/ptm/m/n/12 ). Fi-nally,
+ []
+
+[90] [91]) [92] (./tamuthesis.bbl [93
+
+
+] [94]
+Underfull \hbox (badness 1331) in paragraph at lines 111--117
+\T1/ptm/m/n/12 i-cal box C/D snoR-NAs.  Nu-cleic Acids Re-search. 2012;40(14):6
+800--6807.
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 152--157
+[]\T1/ptm/m/n/12 Schroer RJ, Phe-lan MC, Michaelis RC, Craw-ford EC, Skin-ner S
+A, Cuc-
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 152--157
+\T1/ptm/m/n/12 caro M, et al.  Autism and ma-ter-nally de-rived aber-ra-tions o
+f chro-mo-
+ []
+
+[95] [96] [97]
+Underfull \hbox (badness 3503) in paragraph at lines 263--268
+[]\T1/ptm/m/n/12 Santoro F, Bar-low DP.  De-vel-op-men-tal con-trol of im-print
+ed ex-pres-sion
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 263--268
+\T1/ptm/m/n/12 by macro non-coding RNAs.  Semin Cell Dev Biol. 2011;22(4):328--
+335.
+ []
+
+
+Underfull \hbox (badness 3323) in paragraph at lines 270--274
+[]\T1/ptm/m/n/12 Bird A.  Per-cep-tions of epi-ge-net-ics.  Na-ture. 2007;447(7
+143):396--398.
+ []
+
+[98]
+Underfull \hbox (badness 1019) in paragraph at lines 306--311
+[]\T1/ptm/m/n/12 Nicholls RD, Knep-per JL.  Genome or-ga-ni-za-tion, func-tion,
+ and im-print-ing
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 338--342
+[]\T1/ptm/m/n/12 Kantor B, She-mer R, Razin A.  The Prader-Willi/Angelman im-pr
+inted do-
+ []
+
+[99]
+Underfull \hbox (badness 10000) in paragraph at lines 369--373
+[]\T1/ptm/m/n/12 Nahkuri S, Taft RJ, Ko-r-bie DJ, Mattick JS.  Molec-u-lar Evo-
+lu-tion
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 369--373
+\T1/ptm/m/n/12 of the HBII-52 snoRNA Clus-ter.  J Mol Biol. 2008;381(4):810--81
+5.
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 381--385
+\T1/ptm/m/n/12 The re-al-ity of per-va-sive tran-scrip-tion.  PLoS Biol. 2011;9
+(7):e1000625.
+ []
+
+[100]
+Underfull \hbox (badness 1888) in paragraph at lines 450--455
+[]\T1/ptm/m/n/12 Sleutels F, Zwart R, Bar-low DP.  The non-coding Air RNA is re
+-quired
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 450--455
+\T1/ptm/m/n/12 for si-lenc-ing au-to-so-mal im-printed genes.  Na-ture. 2002;41
+5(6873):810--813.
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 457--462
+\T1/ptm/m/n/12 GEN-CODE v7 cat-a-log of hu-man long non-cod-ing RNAs: anal-y-si
+s of their
+ []
+
+[101]
+Underfull \hbox (badness 10000) in paragraph at lines 477--482
+[]\T1/ptm/m/n/12 Darrow EM, Chad-wick BP.  Boost-ing tran-scrip-tion by tran-sc
+rip-tion:
+ []
+
+
+Underfull \hbox (badness 3977) in paragraph at lines 477--482
+\T1/ptm/m/n/12 enhancer-associated tran-scripts.  Chro-mo-some Res. 2013;21(6-7
+):713--724.
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 484--488
+\T1/ptm/m/n/12 et al.  An-ti-sense tran-scrip-tion in the mam-malian tran-scrip
+-tome.  Sci-ence.
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 515--520
+[]\T1/ptm/m/n/12 Dahary D, Elroy-Stein O, Sorek R.  Nat-u-rally oc-cur-ring an-
+ti-sense: tran-
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 515--520
+\T1/ptm/m/n/12 scrip-tional leak-age or real over-lap?  Genome Res. 2005;15(3):
+364--368.
+ []
+
+[102] [103]
+Underfull \hbox (badness 2393) in paragraph at lines 597--601
+\T1/ptm/m/n/12 poiesis stim-u-lat-ing pro-tein (NESP).  Nephrol-ogy Dial-y-sis 
+Trans-plan-ta-tion.
+ []
+
+[104]
+Underfull \hbox (badness 1005) in paragraph at lines 662--667
+[]\T1/ptm/m/n/12 Tiberi L, Van-der-haeghen P, van den Ameele J.  Cor-ti-cal neu
+-ro-ge-n-e-sis and
+ []
+
+[105]
+Underfull \hbox (badness 1371) in paragraph at lines 717--722
+[]\T1/ptm/m/n/12 Thakur N, Ti-wari VK, Thomassin H, Pandey RR, Kan-duri M, Gon-
+dor A,
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 717--722
+\T1/ptm/m/n/12 et al.  An an-ti-sense RNA reg-u-lates the bidi-rec-tional si-le
+nc-ing prop-erty of
+ []
+
+[106]
+Missing character: There is no β in font ptmr8t!
+ [107]
+Underfull \hbox (badness 1052) in paragraph at lines 772--778
+\T1/ptm/m/n/12 ers SP, et al.  In-hi-bi-tion of nat-u-ral an-ti-sense tran-scri
+pts in vivo re-sults in
+ []
+
+[108]
+Underfull \hbox (badness 2556) in paragraph at lines 822--827
+\T1/ptm/m/n/12 for treat-ing An-gel-man syn-drome.  Phar-ma-coge-nomics. 2007;8
+(6):539--541.
+ []
+
+[109]
+Underfull \hbox (badness 1014) in paragraph at lines 914--919
+\T1/ptm/m/n/12 En-hanced tran-scrip-tome maps from mul-ti-ple mouse tis-sues re
+-veal evo-lu-tion-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 914--919
+\T1/ptm/m/n/12 ary con-straint in gene ex-pres-sion.  Na-ture Com-mu-ni-ca-tion
+s. 2015;6:5903.
+ []
+
+[110] [111] [112] [113]
+Underfull \hbox (badness 1082) in paragraph at lines 1089--1094
+\T1/ptm/m/n/12 per-sion, with ap-pli-ca-tions to SAGE data.  Bio-statis-tics. 2
+007;9(2):321--332.
+ []
+
+
+Underfull \hbox (badness 6944) in paragraph at lines 1096--1101
+[]\T1/ptm/m/n/12 Robinson MD, Smyth GK.  Mod-er-ated sta-tis-ti-cal tests for a
+s-sess-ing
+ []
+
+
+Underfull \hbox (badness 8094) in paragraph at lines 1096--1101
+\T1/ptm/m/n/12 dif-fer-ences in tag abun-dance.  Bioin-for-mat-ics. 2007;23(21)
+:2881--2887.
+ []
+
+[114]
+Missing character: There is no ′ in font ptmr8t!
+
+Underfull \hbox (badness 7504) in paragraph at lines 1153--1158
+[]\T1/ptm/m/n/12 Hocine S, Singer RH, Grun-wald D.  RNA Pro-cess-ing and Ex-por
+t.
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 1153--1158
+\T1/ptm/m/n/12 Cold Spring Har-bor Per-spec-tives in Bi-ol-ogy. 2010;2(12):a000
+752--a000752.
+ []
+
+[115] [116]
+Underfull \hbox (badness 1975) in paragraph at lines 1243--1248
+[]\T1/ptm/m/n/12 Kaneko-Ishino T, Ko-hda T, Ono R, Ishino F.  Com-ple-men-ta-ti
+on hy-poth-
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 1243--1248
+\T1/ptm/m/n/12 e-sis: the ne-ces-sity of a monoal-lelic gene ex-pres-sion mech-
+a-nism in mam-
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 1250--1255
+[]\T1/ptm/m/n/12 Kaneko-Ishino T.  The Reg-u-la-tion and Bi-o-log-i-cal Sig-nif
+-i-cance of Ge-nomic
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 1250--1255
+\T1/ptm/m/n/12 Im-print-ing in Mam-mals.  Jour-nal of Bio-chem-istry. 2003;133(
+6):699--711.
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 1263--1268
+[]\T1/ptm/m/n/12 Hao J, Li TG, Qi X, Zhao DF, Zhao GQ.  WNT/beta-catenin path-
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 1263--1268
+\T1/ptm/m/n/12 way up-regulates Stat3 and con-verges on LIF to pre-vent dif-fer
+-en-ti-a-tion of
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 1263--1268
+\T1/ptm/m/n/12 mouse em-bry-onic stem cells.  De-vel-op-men-tal Bi-ol-ogy. 2006
+;290(1):81--91.
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 1270--1276
+\T1/ptm/m/n/12 tic ac-tion of Wnt and LIF in main-tain-ing pluripo-tency of mou
+se ES cells.
+ []
+
+[117]
+Underfull \hbox (badness 3240) in paragraph at lines 1284--1288
+[]\T1/ptm/m/n/12 MacDonald BT, Tamai K, He X.  Wnt/beta-catenin sig-nal-ing: co
+m-po-
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 1284--1288
+\T1/ptm/m/n/12 nents, mech-a-nisms, and dis-eases.  De-vel-op-men-tal Cell. 200
+9;17(1):9--26.
+ []
+
+[118]
+Underfull \hbox (badness 4543) in paragraph at lines 1372--1377
+[]\T1/ptm/m/n/12 Aubi O, Fly-dal MI, Zheng HX, Sk-jaer-ven L, Rekand I, Leiros 
+HKS,
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 1372--1377
+\T1/ptm/m/n/12 et al.  Dis-cov-ery of a spe-cific in-hibitor of py-ome-lanin sy
+n-the-sis in Le-
+ []
+
+[119]
+Underfull \hbox (badness 2205) in paragraph at lines 1391--1396
+[]\T1/ptm/m/n/12 Seto SW, Kiat H, Lee SMY, Ben-sous-san A, Sun YT, Hoi MPM, et 
+al.
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 1391--1396
+\T1/ptm/m/n/12 Ze-brafish mod-els of car-dio-vas-cu-lar dis-eases and their ap-
+pli-ca-tions in herbal
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 1391--1396
+\T1/ptm/m/n/12 medicine re-search.  Eu-ro-pean Jour-nal of Phar-ma-col-ogy. 201
+5;768:77--86.
+ []
+
+
+Underfull \hbox (badness 2285) in paragraph at lines 1405--1410
+\T1/ptm/m/n/12 hy-dro-ge-nase from Por-phy-romonas gin-gi-valis.  PLoS One. 201
+5;10(11):24.
+ []
+
+[120]
+Underfull \hbox (badness 6078) in paragraph at lines 1445--1450
+[]\T1/ptm/m/n/12 Gordon KR, Wang Y, Allbrit-ton NL, Tay-lor AM.  Mag-netic Alig
+n-
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 1445--1450
+\T1/ptm/m/n/12 ment of Mi-croele-ments Con-tain-ing Cul-tured Neu-ronal Net-wor
+ks for High-
+ []
+
+[121]
+Underfull \hbox (badness 6944) in paragraph at lines 1501--1505
+\T1/ptm/m/n/12 editing tools for stem cell bi-ol-ogy.  Cell Death Dis. 2015;6:e
+1831.
+ []
+
+[122] [123]
+Underfull \hbox (badness 1286) in paragraph at lines 1598--1604
+\T1/ptm/m/n/12 em-bryo : a lab-o-ra-tory man-ual.  Cold Spring Har-bor, New Yor
+k : Cold
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 1598--1604
+\T1/ptm/m/n/12 Spring Har-bor Lab-o-ra-tory Press, [2014] Fourth edi-tion.; 201
+4.  Avail-able
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1598--1604
+\T1/ptm/m/n/12 from: $\T1/pcr/m/n/12 http : / / lib-[]ezproxy . tamu . edu : 20
+48 / login ? url = http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1598--1604
+\T1/pcr/m/n/12 / / search . ebscohost . com / login . aspx ? direct = true&db =
+
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 1606--1610
+[]\T1/ptm/m/n/12 Conner DA.  Mouse Em-bry-onic Stem (ES) Cell Iso-la-tion.  Cur
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1606--1610
+\T1/ptm/m/n/12 rent Pro-to-cols in Molec-u-lar Bi-ol-ogy. 2001;52(23.4):23.4.1-
+-23.4.9.
+ []
+
+[124]
+Underfull \hbox (badness 1019) in paragraph at lines 1626--1632
+[]\T1/ptm/m/n/12 Nagy A.  Ma-nip-u-lat-ing the mouse em-bryo : a lab-o-ra-tory 
+man-ual.  Cold
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 1626--1632
+\T1/ptm/m/n/12 edi-tion.; 2003.  Avail-able from: $\T1/pcr/m/n/12 http : / / li
+b-[]ezproxy . tamu . edu :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1626--1632
+\T1/pcr/m/n/12 2048 / login ? url = http : / / search . ebscohost . com / login
+ . aspx ?
+ []
+
+[125] [126]
+Underfull \hbox (badness 5091) in paragraph at lines 1719--1723
+\T1/ptm/m/n/12 Brain De-vel-op-ment.  PLoS Com-pu-ta-tional Bi-ol-ogy. 2013;9(9
+):e1003185.
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 1725--1729
+[]\T1/ptm/m/n/12 Lein ES, Hawry-lycz MJ, Ao N, Ayres M, Bensinger A, Bernard A,
+ et al.
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 1725--1729
+\T1/ptm/m/n/12 Genome-wide at-las of gene ex-pres-sion in the adult mouse brain
+.  Na-ture.
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 1731--1737
+\T1/ptm/m/n/12 ceed-ings of the Na-tional Academy of Sci-ences. 2005;102(29):10
+357--10362.
+ []
+
+[127]
+Underfull \hbox (badness 7722) in paragraph at lines 1818--1822
+[]\T1/ptm/m/n/12 Kole R, Krieg AM.  Exon skip-ping ther-apy for Duchenne mus-cu
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1818--1822
+\T1/ptm/m/n/12 lar dys-tro-phy.  Ad-vanced Drug De-liv-ery Re-views. 2015;87:10
+4--107.
+ []
+
+[128]
+Underfull \hbox (badness 1242) in paragraph at lines 1824--1829
+\T1/ptm/m/n/12 uct of the duchenne mus-cu-lar dys-tro-phy lo-cus.  Cell. 1987;5
+1(6):919--928.
+ []
+
+[129]
+Underfull \hbox (badness 2689) in paragraph at lines 1886--1891
+[]\T1/ptm/m/n/12 Chin MH, Ma-son MJ, Xie W, Volinia S, Singer M, Pe-ter-son C, 
+et al.
+ []
+
+
+Underfull \hbox (badness 4699) in paragraph at lines 1886--1891
+\T1/ptm/m/n/12 In-duced Pluripo-tent Stem Cells and Em-bry-onic Stem Cells Are 
+Dis-tin-
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 1900--1904
+[]\T1/ptm/m/n/12 Dobin A, Davis CA, Schlesinger F, Drenkow J, Za-leski C, Jha S
+, et al.
+ []
+
+[130]
+Underfull \hbox (badness 5756) in paragraph at lines 1934--1940
+[]\T1/ptm/m/n/12 Jedamzik B, Eck-mann CR.  Anal-y-sis of RNA-Protein Com-plexes
+ by
+ []
+
+[131] [132]
+Missing character: There is no β in font ptmr8t!
+ [133]
+Missing character: There is no ζ in font ptmr8t!
+ [134]
+Underfull \hbox (badness 2384) in paragraph at lines 2135--2141
+[]\T1/ptm/m/n/12 Zaaroor-Regev D, de Bie P, Scheffner M, Noy T, She-mer R, Hele
+d M,
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 2135--2141
+\T1/ptm/m/n/12 et al.  Reg-u-la-tion of the poly-comb pro-tein Ring1B by self-u
+biquitination
+ []
+
+[135] [136]
+Underfull \hbox (badness 1033) in paragraph at lines 2204--2209
+[]\T1/ptm/m/n/12 Mishra A, Ma-hesh-wari M, Chhangani D, Fujimori-Tonou N, Endo 
+F, Joshi
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 2204--2209
+\T1/ptm/m/n/12 AP, et al.  E6-AP as-so-ci-a-tion pro-motes SOD1 ag-gre-somes de
+gra-da-tion
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 2204--2209
+\T1/ptm/m/n/12 and sup-presses tox-i-c-ity.  Neu-ro-bi-ol-ogy of Ag-ing. 2013;3
+4(4):1310 e11--23.
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 2218--2223
+[]\T1/ptm/m/n/12 Yang Y, Liu W, Zou W, Wang H, Zong H, Jiang J, et al.  Ubiquit
+in-
+ []
+
+[137] [138]
+Underfull \hbox (badness 1424) in paragraph at lines 2322--2328
+[]\T1/ptm/m/n/12 Kuhnle S, Mothes B, Ma-tent-zoglu K, Scheffner M.  Role of the
+ ubiq-ui-
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 2322--2328
+\T1/ptm/m/n/12 tin lig-ase E6AP/UBE3A in con-trol-ling lev-els of the synap-tic
+ pro-tein Arc.
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 2322--2328
+\T1/ptm/m/n/12 Pro-ceed-ings of the Na-tional Academy of Sci-ences. 2013;110(22
+):8888--93.
+ []
+
+[139]) [140]
+\openout2 = `data/appendices.aux'.
+
+ (./data/appendices.tex (./data/appendix1.tex
+APPENDIX A.
+[141
+
+
+] [142] [143] [144] [145] [146]
+Package pgfplots info on input line 137: Using 'lua backend=false' for axis: x 
+coord trafo unsupported.
+) (./data/appendix2.tex [147]
+APPENDIX B.
+[148
+
+] [149] [150] [151]
+Overfull \hbox (11.25572pt too wide) in paragraph at lines 163--163
+[]\T1/ptm/m/n/12 GATGGTTCTTTGAGAAGATAAACCAG|  
+ []
+
+[152] [153]
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGAGCCGCTCGTATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCCC
+TTGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTTCATTTAAAATTTATTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTCCTTTTAAAAAATTGATTATTTACATACCAAATGTTGACCTCCCTCCATTCGCAGTGTTCT
+TCATGCCATCCCCTTCCCTTCACCTCACCTCTGAAAGAGTGCCTTCCATCCCAACCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CTGGGCATCGCCCTTCTCTGGGGCATCAAGTCTATACAGGATTAGGCACATCCTCTCCCACTA
+GGGCCAGATTAGGCTGTCAGTCCTTAGCTATGTATGTGCTGGGAGCCTTAGACCAGC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CAGTGCATGCTCTTTGTTGGTGGCTTAGTCCCTGGGGTCCAGGTTAGTTGGCCCTGTTGGTCT
+TCCTGTGGGATTGCAATCCCCTTCAGTTCCTTCAGCCTTTCCCCTAACTCTTCCATA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GGGATCCCTAACCCTAACCCAATAGTTGGCTGTAATTCTCTGCATCAAGGGCGAATTCGCGGC
+CGCTAAATTCAATTCGCCCTATAGTGAGTCGTATTACAATTCACTGGCCGTCGTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ACAACGTCGTGACTGGGAAAACCCTGGCGTTACCCAACTTAATCGCCTTGCAGCACATCCCCC
+TTTCGCCAGCTGGCGTAATAGCGAAGAGGCCCGCACCGATCGCCCTTCCCAACAGTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GCGCAGCCTATACGTACGGCAGTTTAAGGTTTACACCTATAAAAGAGAGAGCCGTTATCGTCT
+GTTTGTGGATGTACAGAGTGATATTATTGACACGCCGGGGCGACGGATGGTGATCCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CCTGGCCAGTGCACGTCTGCTGTCAGATAAAGTCTCCCGTGAACTTTACCCGGTGGTGCATAT
+CGGGGATGAAAGCTGGCGCATGATGACCACCGATATGGCCAGTGTGCCGGTCTCCGT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TATCGGGGAAGAAGTGGCTGATCTCAGCCACCGCGAAAATGACATCAAAAAACGCCATTAACC
+TGATGTTTCTGGGGAATAATAAATGTCAGCATGAGATTATCAAAGGATTCTCACCTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGCGCCGCTCGCATTAACCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCCCT
+TGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTTGGTTTTTTAATAATTTAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTAAATTTTATTCTTCCCTTTTGTTATACACTGATAAGCTGTTAAACTCATTTAAATATTTT
+TTAAAAAATTATTTTATCTATTTGCATTCCAAATCTTGTTCCTCCTCCTGGTCTTCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CCCCAGAGTTCTTCACCCTATTTCCCTTCCCCTTTGCCTCTGAGAGGGAGTTCTCCCACCCAC
+CCCAAATGACCCACCCACCCATCCCCACCTCACCTCACTTTACTGCCCCATCCCTGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GTTATCCCCCTTCCCTTGGGCATCAAGTCTCCATAGGATTAGGTTCATCCTCTCCCATTGAGG
+CTAGACAAAGCAGTTCTCTGCTACATATATGCCAGGGGCCATGGGCCAGTCCATGTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGTTCTTTGGTTGCTCCCATGGGTCCAGGTTAGTTGGCACTGTTGGTTTTCCTATGGTAGTTG
+CCATCACCTTCAGTTCTTTCAATCCTTCATCCAACTCTTCCATAGGGGTGTCCAACC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TCAGTCCAATGGTTGGCTGTAATTCTCTGCATCAAGGGCGAATTCGCGGCCGCTAAATTCAAT
+TCGCCCTATAGTGAGTCGTATTACAATTCACTGGCCGTCGTTTTACAACGTCGTGAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGGGAAAACCCTGGCGTTACCCAACTTAATCGCCTTGCAGCACATCCCCCTTTCGCCAGCTGG
+CGTAATAGCGAAGAGGCCCGCACCGATCGCCCTTCCCAACAGTTGCGCAGCCTATAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GTACGGCAGTTTAAAGTTTACACCCTATAAAAGAGAGAGCCGTTATCGTCTGTTTTGTGGATG
+TACAGAGTGATATTTATTGACACGCCGGGGCGACGGATGGTGATCCCCCTGGCCAGT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GCACGTCTGCTGTCAGATAAAGTCTCCCGTGAACTTTACCGGTGGTTGCATATCGGGGAATGA
+AGCTTGCGCATGATGACCAACGATATGCCAGTGTGCCAGTCTCGTTATCGGGAGGAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGCTTTCACTCACCGCAGCCACTGTATTAACCCTCACTAAGGGACTAGTCCTGCAGGTTTAAA
+CGAATTCGCCCTTGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTTTTTGGT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTTTAATAATTTATTTTAAATTTTATTCTTCCCTTTTGTTATACACTGATAAGCTGTTAAAC
+TCATTTAAATATTTTTTAAAAAATTATCTTATCTATTTGCATTCCAAATCTTGTTCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TCCTCCTGGTCTTCCCCCCAGAGTTCTTCACCCTATTTCCCTTCCCCTTTGCCTCTGAGAGGG
+AGTTCTCCCACCCACCCCAAATGACCCACCCACCCATCCCCACCTCACCTCACTTTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CTGCCCCATCCCTGGGTTATCCCCCTTCCCTTGGGCATCAAGTCTCCATAGGATTAGGTTCAT
+CCTCTCCCATTGAGGCTAGACAAAGCAGTTCTCTGCTACATATATGCCAGGGGCCAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GGGCCAGTCCATGTATGTTCTTTGGTTGCTCCCATGGGTCCAGGTTAGTTGGCACTGTTGGTT
+TTCCTATGGTAGTTGCCATCACCTTCAGTTCTTTCAATCCTTCATCCAACTCTTCCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TAGGGGTGTCCAACCTCAGTCCAATGGTTGGCTGTAATTCTCTGCATCAAGGGCGAATTCGCG
+GCCGCTAAATTCAATTCGCCCTATAGTGAGTCGTATTACAATTCACTGGCCGTCGTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTACAACGTCGTGACTGGGAAAACCCTGGCGTTACCCAACTTAATCGCCTTGCAGCACATCCC
+CCTTTCGCCAGCTGGCGTAATAGCGAAGAGGCCCGCACCGATCGCCCTTCCCAACAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTGCGCAGCCTATACGTACGGCAGTTTAAGGTTTACACCCTATAAAAGAGAGAGCCGTTATCG
+TCTGTTTGTGGGATGTACAGAGTGATATTATTGACACGCCGGGGCGACGGATGGTGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TCCCCTGGCCAGTGCACGTCTGCTGTCAGAATAAAGTCTCCCGTGGACCTTACCCGGTGGGTG
+GCAATATCGGGGGATGGAAAGGCTGGGCGGCATGGATGGACCACCCGATATGGGCAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGAGCCGCTCGATTAACCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCCCTT
+GGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTTGTGTTTGTCAAATCCCATT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TACATAAACTCACTTTACTGCCCCATCCCTGGGTTATCCCCCTTCCCTTGGGCATCAAGTCTC
+CATAGGATTAGGTTCATCCTCTCCCACTGAGGCTAGACAAAGCAGTTCTCTGCTACA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TATATGCCAGGGGCCATGGGCCAGTCCATGTATGCTCTTTGGTTGCTCCCATGGGTCCAGGTT
+AGTTGGCACTGTTGGTTTTCCTATGGTAGTTGCCATCACCTTCAGTTCTTTCAATCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTCATCCAACTCTTCCATAGGGGTGTCCAACCTCAGTCCAATGGTTGGCTGTAATTCTCTGCA
+TCAAGGGCGAATTCGCGGCCGCTAAATTCAATTCGCCCTATAGTGAGTCGTATTACA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATTCACTGGCCGTCGTTTTACAACGTCGTGACTGGGAAAACCCTGGCGTTACCCAACTTAATC
+GCCTTGCAGCACATCCCCCTTTCGCCAGCTGGCGTAATAGCGAAGAGGCCCGCACCG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATCGCCCTTCCCAACAGTTGCGCAGCCTATACGTACGGCAGTTTAAGGTTTACACCTATAAAA
+GAGAGAGCCGTTATCGTCTGTTTGTGGATGTACAGAGTGATATTATTGACACGCCGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GGCGACGGATGGTGATCCCCCTGGCCAGTGCACGTCTGCTGTCAGATAAAGTCTCCCGTGAAC
+TTTACCCGGTGGTGCATATCGGGGATGAAAGCTGGCGCATGATGACCACCGATATGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CCAGTGTGCCGGTCTCCGTTATCGGGGAAGAAGTGGCTGATCTCAGCCACCCGCGAAAATGAC
+ATCAAAAACGCCATTAACCTGATGTTCTGGGGAATATAAATGTCAGGCATGAGATTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TCAAAAAGGATTCTTTCACCCTAGATCCCTTTCACGTAGAAAGCCCAGTCCGCAAGAAACGGT
+GCTGACCCCGAATGAATGTCAGCTACTGGGCTATTCTGACAAGGAAACCGCAGCGCA[] 
+ []
+
+[154]
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGCCGCCGCTAGCATTAACCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCCC
+TTGGCCCGCGTCGACTAGTACTTTTTTTTTTTTTTTTTGTGTTTGTCAAATCCCATT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TACATAAACTCACTTTACTGCCCCATCCCTGGGTTATCCCCCTTCCCTTGGGCATCAAGTCTC
+CATAGGATTAGGTTCATCCTCTCCCATTGAGGCTAGACAAAGCAGTTCTCTGCTACA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TATATGCCAGGGGCCATGGGCCATTCCATGTATGTTCTTTGGTTGCTCCCATGGGTCCAGGTT
+AGTTGGCACTGTTGGTTTTCCTATGGTAGTTGCCATCACCTTCAGTTCTTTCAATCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTCATCCAACTCTTCCATAGGGGTGTCCAACCTCAGTCCAATGGTTGGCTGTAATTCTCTGCA
+TCAAGGGCAAATTCCCGGCCGCTAAATTCAATTCGCCCTATAGTGAGTCGTATTACA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATTCACTGGCCGTCGTTTTACAACGTCGTGACTGGGAAAACCCTGGCGTTACCCAACTTAATC
+GCCTTGCAGCACATCCCCCTTTCGCCAGCTGGCGTAATAGCGAAAAGGCCCGCACCG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATCGCCCTTCCCAACAGTTGCGCAGCCTATACGTACGGCAGTTTAAGGTTTACACCTATAAAA
+GAGAGAGCCGTTATCGTCTGTTTGTGGATGTACAGAGTGATATTATTGACACGCCGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GGCGACGGATGGTGATCCCCCTGGCCAGTGCACGTCTGCTGTCAGATAAAGTCTCCCGTGAAC
+TTTACCCGGTGGTGCATATCGGGGATGAAAGCTGGCGCATGATGACCACCGATATGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CCAGTTGTGCCGGTCTCCGTTATCGGGGAAGAAGTGGGCTGATTCTCAGCCCACCCGCGAAAA
+TTGACATTCAAAACGCCATTAACCCTGATTGTTTCTGGGAAATATAAATGGTCAGGC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATGAGATTATTCAAAAAGGATTCTTTCACCTAGATCCTTTTCACGTAAGAAAGCCCAGTTCCG
+CAAGAAACGGGTGCTTGAACCCGGATGAATTGTTCAGCTTACTGGCTATTCTTGACA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTCAGCCGCTCTATTAACCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCCCT
+TGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTTGTGTTTGTCAAATCCCAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTACATAAACTCACTTTACTGCCCCATCCCTGGGTTATCCCCCTTCCCTTGGGCATCAAGTCT
+CCATAGGATTAGGTTCATCCTCTCCCATTGAGGCTAGACAAAGCAGTTCTCTGCTAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATATATGCCAGGGGCCATGGGCCAGTCCATGTATGCTCTTTGGTTGCTCCCATGGGTCCAGGT
+TGGTTGGCACTGTTGGTTTTCCTATGGTAGTTGCCATCACCTTCAGTTCTTTCAATC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CTTCATCCAACTCTTCCATAGGGGTGTCCAACCTCAGTCCAATGGTTGGCTGTAATTCTCTGC
+ATCAAGGGCGAATTCGCGGCCGCTAAATTCAATTCGCCCTATAGTGAGTCGTATTAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AATTCACTGGCCGTCGTTTTACAACGTCGTGACTGGGAAAACCCTGGCGTTACCCAACTTAAT
+CGCCTTGCAGCACATCCCCCTTTCGCCAGCTGGCGTAATAGCGAAGAGGCCCGCACC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GATCGCCCTTCCCAACAGTTGCGCAGCCTATACGTACGGCAGTTTAAGGTTTACACCTATAAA
+AGAGAGAGCCGTTATCGTCTGTTTGTGGATGTACAGAGTGATATTATTGACACGCCG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GGGCGACGGATGGTGATCCCCCTGGCCAGTGCACGTCTGCTGTCAGATAAAGTCTCCCGTGAA
+CTTTACCCGGTGGTGCATATCGGGGATGAAAGCTGGCGCATGATGACCACCGATATG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GCCAGTGTGCCGGTCTCCGTTATCGGGGAAGAAGTGGCTGATCTCAGCCACCGCGAAATGACA
+TCAAAAACGCCATTTAACCTGATGTTCTGGGGAATATAAATGTCAGGCATGAGATTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TCAAAAAAGGATTCTTCACCTAGATCCTTTTCACGTAGAAGCCCAGTCCGCAGAAACGGTGCT
+GACCCGATGAATGTCAGCTACTTGGCCTATCTGACAGGAAACGCAGCGCAAGAGAAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGCTCGCCGCTAGTATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGC
+CCTTGATGCAGAGAATTACAGCCAACAATAACTCAAAAATAATAACTCACCAAACAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AAACTAAACCCAACCTAATATTTTCCACCCTAGCTATCATAAGCACAATAACCCTACCCCTAG
+CCCCCCAACTAATTACCTAAAAAAAAAAAAAAAAAGTACTAGTCGACGCGTGGCCAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GGGCGAATTCGCGGCCGCTAAATTCAATTCGCCCTATAGTGAGTCGTATTACAATTCACTGGC
+CGTCGTTTTACAACGTCGTGACTGGGAAAACCCTGGCGTTACCCAACTTAATCGCCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGCAGTACATCCCCCTTTCGCCAGCTGGCGTAATAGCGAAGAGGCCCGCACCGATCGCCCTTC
+CCAACAGTTGCGCAGCCTATACGTACGGCAGTTTAAGGTTTACACCTATAAAAGAGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTCTACGCCGCTCGCATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCG
+CCCTTGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTGGGGTTTTAAAAAAATTTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTAAAAATTTTATTCTTCCCTTTTGTTATACACTGATAAGGTGTAAAACTCATTTAAATATTT
+TTAAAAAAATTATTTTATCTATTTGCTTTCCAAATTTTGTTCCTTCTCCTGGTCTTC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CCCCCAGATTTTTTCACCCTTTTTCCCTTCCCCTTTGCCTGTGAGGGGGAGTTCTCCCACCCA
+CCCCAAATGACCCACCCACCCATTCCCACCTCACCTCACTTTACTGCCCCATCCCTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GGTTATCCCCCTTCCCTTGGGCACCAAGTCTCCAAGGATTAGGTTCATCCTTTCCCATTGAGG
+CTAGACAAAGCACTTCTTATCTACATATATTCCAGGGGCCATGGGCCAGTCCATGTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGTTCTTTGGTTGCTCCCATGGGTCCCGGTTACTTGGCACTGTTGGTTTTCCTATGGTAGTTG
+CCATCGGGGTCAGTTCTTTCAATCCTTCATCCAGGTTTTCCATAGGGGTGTCCAACC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGAATCCAATGGTTGGCTGTTATTTTCTGCCTAAAGGGCGAATTCTTGGCCGCTAAATTCAAT
+TCGCCCTATAGTGAGTGGTATGACAATTCACTGGCCGTCCTTTTACAACGTCCTGAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGGAAAAAACCCTGGCGTCACCCAACTTAATTGCCTTACAGCACATCCCCCCTTTCCCCCTTC
+TGGACTAATAGCCAAAGAGGCCCGCACCCGATCGCTCCTTGTCTACAGTTGTACAAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTCCTTGTACGACTCTATAGGGCGAATTGGGCCCTCTAGATGCAGGAACGAGCGGCCGCCAGT
+GTGATGGATATCGGGGAGAAAAAAGCCCTTGGCCAGAGCGACTAGTACTTTTTTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTTTTTTTTTTTTTTTTAATTTCAGGATGGAAAAATTTGACATAGATGGAAAAAATTTTTCT
+TTTGGAGGAAAAAATATCTTAACCAAATGGTGTGGGGACAAGTGGTTTGTTGTTATG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GAGAAAAATGAAACTGACCCATATTATTCAGCTTTCAAAACAACAACAACAACAACAACAATG
+CCATCTCCAAAACCCAAAAAACAAAACCAAAAAAAAATATTTTAAAAAAAAAAAATC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTTTTTAACTCTGAAACACTGAGGGGGCTGGAGAGATGACTCAAAGGTTAAGAACACTTTTT
+GTTTTTCCTGAGGTCCTGAGTTCAATTCCCAGCAACTGCATGGTGGCTTACAACCAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTTAATGGGATCTGATGCTCTCTTCTGGTGTGTCTGACAAGAGCGACAGTGTACTCATACAA
+ATAAAATAAATAAATCTTAAAACAAAACAAGAAAACCACTGAAATACTGAAACTGTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AGAAGAAAACATAGTGCCCTCTAACATGTAGATGTTGGAATGCTCTTAGAGGAGGATGTTTGG
+AGACTGAAGGGCGAATTCCAGCACACTGGCGGCCGTTACTAGTGGATCCGAGCTCGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TACCAAGCTTGATGCATAGCTTTGAGTATTCTATAGTGTCACCCTAAATAGCTTGGCGTAATC
+ATGGTCATAGCTGTTTCCTGGGTGAAATTGTTATCCCCCTCCCAATTCCCCCACAAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AATACGAGCCGGAAACCATAAAAGTGTAAAGCCCTGGGGGTGCCCTAATGAGTGAAGCCAAAC
+TCACATTTATTTGGCGTTGCGCTTCCCTGCCCCGCTTTTCCAGTCGGGAAAACCCTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GTGGTGCCCACTTGCATTTAATGAATCCGCCCCAACCCGCGGGGGGGAGAGGGCGGGTTTGGC
+TTATTGGGGCGCTCTTTTCCCTTTTCCTTGCGCTTACTCTGACCTCGGTTCGGGGCC[] 
+ []
+
+[155]
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTTCCGTATACGCTCTATAGGGCGAATTGTGCCCTCTAGAGGGGAACGAGCGGGGGAGCGTG
+ATGGATATCTGGATGGAAGCCTGTCGGTGGGGAACATCCTCCTCTAAGAGCATTCCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ACATCTACATGTTAGAGGGCACAGGAACTTCTAACAGTTAAGATTTCAATTGCTCTCCTTGTT
+TTGTTTTAAGATTTATTTATTTTATTTGTATGAGTACACTGTTTTCTCTTGTCAGAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ACACCACCACGAGAGTATCTGATCCCATTACATATGGTTGTAAGCCACCATGCAGTTGCTGGG
+AATTGAACTCAGGACCTCAGGAAGTTTCATTCTTTGTTCTTAACCTTTTGAGTTATC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CGAAAACGCTACTATAGGGCGAATTGGGCCCTCTAGATGCAGGACGAGCGGCCGCCAGTGTGA
+TGGATATCTGCAGAAAAGCCCTTACCAGGGAGGCTTTGAATTCAGAGATTCGCTTTC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGAATGCTGGGATTAAAGGCTGCACACTTAAAATTAAAAAAAATAGGCGTTTGTTGTGTAAAC
+TATTACAGGATAAATAATAAGTGCAACTGTTATATTATTATTTAAGATACTTTAAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTTTCCCTCCTTTTTTTTTCTCCATCCATTAAAGATCCTCATTTGGAATACCATTGTATTAT
+ATGAAAGGGGCCAGTAATAAATGTTTTTCTTTTTAAAGAGTTTTTTTTGCATATGAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GGTAAACACAAAATTTTTTTCTGAAAATCATTAGACTGCTAAGAAAATTTATTTTTCTTTTTT
+CTGTTGCAGCATGTGAATTCGCTTTCAGCTATTTTTTTTCCTACATAAAAGTTTGAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AATGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGTACTAGTCGACGCGTGGCCA
+AGGGCGAATTCCAGCACACTGGCGGCCGTTACTAGTGGATCCCAGCTCGGTACCAAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CTGAAACCGCTCTATAGGGCGAATTGGGCCCTCTAGATGCATGCTCGAGCGGCCGCCAGTGTG
+ATGGATATCTGCAGAATTCGCCCTTGGCCACGCGTCGACTAGTACTTTTTTTTTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTGGCCCTTCATTTTCAGACTTT
+TATTTAGGGGGGAAAAGCTGAAAGCGGCTTCACATGCTGGAACAGTTTATGTTCTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ACTTTTTTTAGCAGGCTAATGATTTTCAATTTTGGGGGTGGGTTTAAAAAGTTTGCAAAAATT
+ACTTTTTAAAGGGGTACATTTTTTACTGGGCCCTTTCATATAAAACAATGGGGGTGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GAAAGGGGGTTTTTAAAGGGGGGGGAAAAAAAAAAAATAGAAAAAATTTAAAGGTTTTTAAAT
+TTGATTTTACAGTTGCAATTATTATTTATCCCGTGATAGTTTACCAAACCCCACCCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CAATATTTTTAAATTTAAAAATTTCAAGGCTTAATCCCAGCATCAAAAACGGAATCTTGAATC
+AAAGGAGCTGGTAGGCCATTCCAGCCCTCTGCGGCCTGACAGTTGATCCGCGTCGCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AGGGAAGAAATAAAATTTCGTTAAGGATCTATAGGGCGAATGGGCCCTCTGAGCAGGCACGAG
+CGGCCGCCAGTGTGATGGATATGGGGAAAAAGAGAACTTACCAGGGAGGCTCGAATT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CAGAGATTCGCTTTCTGAATGCTGGGATGAAAGGCAAGAGGGGGGAAAAAATTAAAAACCAAT
+AGGCTTTTTTTGTGCGTAAACTAGGTACAGGATAAATAATAAGTGCAACTGTTATAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTTTGTTTAAGATACTTTAAATTTTTCCCCCCTCTTTTTTTTCTCCATCCATTAAAGATCCT
+TATTTGGAATACCATTGTATTATATGAAAGGGGCCAGTAATAAATGTTTTTTTTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AAAGAGTTTTTCTTTGTTTTTTTATCCCCCCCCTTTTTTTTTTTCTGAAAATCATTAGACTGC
+TAAGAAAATTTAAGAATATTTTTTTGGGGGGGCATGTTTTAGTTTTTTTTCAGATAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TACTCCCCCCCCCCAAAATTTTTTTTATGAAAAAAAAAAAAAAAAGTACTAGCCGACGCGTGG
+CCAAGGGCGAATTCCAGCCCACTGCCGGCCGCTACTAGTGGATCCGAGCTCGGTACC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATGGACGCTCTATAGGGCGAATTGGGCCCTCTAGAGCATGCACGAGCGGCCCCCAGTGTGATG
+GAATCTGCAGAAAACGCCCTTCAGGCAAGGGTCTCTAAATCTGGTTTATCTTCTCAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AGAACCATCTAATAGATTTGCCGACTCTTTTTATTATTTTCACTGTTTATATTTCATTGTTTT
+CTGCTCTGACTTTTATTATTTCTCATGATTGACTACATTATTTATTTAGTTTGTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GATTGGTTTTTCCAAAAAAAAAAAAAAAGTACTACTCGACCCGTGGCCAAGGGCGAATTCCAG
+CACACTGGCGGCCGTTACTAGTGGTTTTTTTTCTCGGTTCCTTTTTTTTTTTCATAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGAGCCGCTCGATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCCCT
+TGTCTCTTTCTGTGTCTCAGCTTCCTCATCCTTAGGATGCCAGTATATTTCAGAATT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CAAATGATTTAAGAATTACAAGTGTTTAGACTATTTCAGTAAATTTTGGAAGAGGTAGGAAAA
+AAATAGGAGGTGAAGATGAGCAAAATGCATTGTATCATATATGAAATCCTCAATTAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGGAATAGTATGTATTACCTGCTACATGCTAGGCCCTAATGGTAAGTATCAGATGCTATTGCA
+ATTGCTATAATTTCTATCATTTGCATGAGTATATGACTTGGTCAAGAGAACTCCATT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GCACTAAATCTGAAAAATTAAAATCTAGGCTTAATTCCAAAATTTGAAATTTTAGCATTACTA
+AAGGGGAGACAGCAGAGAAAATGTTTGAAACTGACCAGCTTTTTTGCACCAAGTTAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AAGTAGTAGCCCACTAATACTAATAATTATATTAAATTAAATAAACAGAGGTCATAATCAACC
+ATAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AAAGGTACTAGTCGACGCGTGGCCAAGGGCGAATTCGCGGCCGCTAAATTCAATTCGCCCTAT
+AGTGAGTCGTATTACAATTCACTGGCCGTCGTTTTACAACGTCGTGACTGGGAAAAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CCTGGCGTTACCCAACTTAATCGCCTTGCAGCACATCCCCCTTTCGCCAGCTGGCGTAATAGC
+GAAGAGGCCCGCACCGATCGCCCTTCCCAACAGTTGCGCAGCCTATACGTACGGCAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTAAGGTTTACACCTATAAAAGAGAGAGCCGTTTATCGTCTGTTTTGTGGATGTTACAGAGT
+GATTATTATTGACACGCCGGGGGCGACGATGGTGATCCCCCTTGACCAGTGCACGTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CTTGCTTGTCAGATAAAGTTCTCCCGTGAAACTTTACCCCGGTTGGTGCATTATCGGGATGAA
+AGCTTGCGCATGATTGACCACCCGATTATGACCAGTTGTGCCGTTCTTCGGTTATTC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGAGCCGCTCGATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCCCT
+TGTCTCTTTCTGTGTCTCAGCTTCCTCATCCTTAGGATGCCAGTATATTTCAGAATT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CAAATGATTTAAGAATTACAAGTGTTTAGACTATTTCAGTAAATTTTGGAAGAGGTAGGAAAA
+AAATAGGAGGTGAAGATGAGCAAAATGCATTGTATCATATATGAAATCCTCAATTAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGGAATAGTATGTATTACCTGCTACATGCTAGGCCCTAATGGTAAGTATCAGATGCTATTGCA
+ATTGCTATAATTTCTATCATTTGCATGAGTATATGACTTGGTCAAGAGAACTCCATT[] 
+ []
+
+[156]
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GCACTAAATCTGAAAAATTAAAATCTAGGCTTAATTCCAAAATTTGAAATTTTAGCATTACTA
+AAGGGGAGACAGCAGAGAAAATGTTTGAAACTGACCAGCTTTTTTGCACCAAGTTAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AAGTAGTAGCCCACTAATACTAATAATTATATTAAATTAAATAAACAGAGGTCATAATCAACC
+ATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGGTACTAGTCGACGCGT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GGCCAAGGGCGAATTCGCGGCCGCTAAATTCAATTCGCCCTATAGTGAGTCGTATTACAATTC
+ACTGGCCGTCGTTTTACAACGTCGTGACTGGGAAAACCCTGGCGTTACCCAACTTAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TCGCCTTGCAGCACATCCCCCTTTCGCCAGCTGGCGTAATAGCGAAGAGGCCCGCACCGATCG
+CCCTTCCCAACAGTTGCGCAGCCTATACGTACGGCAGTTTAAGGGTTTACACCTATA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AAAGAGAGAGCCGTTATCGTCTGTTTGTGGATGTACAGAGTGATATTATTGACACGCCGGGGC
+CGACGGATGGTGATCCCCCTGGCCAGTGCACGTCTGCTGTCAGATAAAGTCTCCCGT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GAACCTTTACCCGGTGGTGCATATCCGGGGATGAAAGCTGGCGCATGATGACCACCGATATGC
+CAGTGTGCCAGTCTCGTTATCGGGCAGAGTGGCCTGATCTCAGCACCGCGTAATTGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGAGCCGCTCGATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCCCT
+TGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTTATTTTAAGGTGACAAAGC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATTTTACTTTTGGCTAGTTACATTATGATAGAGAACATACAGGAAATATACAAGTACTTGAAA
+TTTACCATGTTACATTATAAATTATGGACATAGACATTTAAGTTTTATGCAATTTTC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ACACATGAAACAAAATATAATTTTTTAATGATTTAAGACTATAAAATATTCTAAACTTCAACT
+GTAAAAAAAGTAGATTTGACACATGAGGTATGATTTAGTGACCAGTCCTATGTATGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATTAGCATTGGAAGGTTATCAAAAGCTATTATTAGTATGTATGTTTCCAACTTTAGAGGCCTT
+TTACATGTCCTTAATGAATTTATATGCCCTGCATTTGGCATTCAATGGTATCATTTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TAATGAGAAAAGAATAGCTTATTATTGTTAATTAATCATATTCAATCATATTAACCAATTTAA
+TTAACTTAATATTAATAAACGCACATTAATCAAATTAGTCAACTTAATATGGTTGAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TATGACCTCTGTTTATTTAATTTAATATAATTATTAGTATTAGTGGGCTACTACTTGTAACTT
+GGTGCAAAAAAGCTGGTCAGTTTCAAACATTTTCTCTGCTGTCTCCCCTTTAGTAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GCTAAAATTTCAAATTTTGGAATTAAGCCTATATTTTAATTTTTCAGATTTAGTGCAATGGAG
+TTCTCTTGACCAGGTCATATACTCATGCAAATGATAGAAATTATAGCAAGTTGCAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AGCATCTGATACTTACCATTAGGGGCCTAGCATGTAGCAGGTCATACATACTATTCGATTAAT
+CTGACGATTTCATATATGGATACGAATTGCCATTATTGGCTCATCATTGCACCCCTC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CTGACTTTATCTTCCCTACCCTCTTTCCATATATCTCACCTGCAAATCAGTACATAAATACAC
+CGTGAGATAAGTCTAAACCTCCATTGTGGAAATTCCTGAATCATACTGGACCATTCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGCAGCCGCTCGCATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCC
+CTTGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTTTTAAGGTGACAAAGCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTTACTTTTGGCTAGATACATTATGATAGAGAACATACAGGAAATATACAAGTACTTGAAAT
+TTACCATGTTACATTAGAAATTATGGACATAGACATTTAAGTTTTATGCAATTTTCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CACATGAAACAAAATATAATTTTTTAATGATTTAAGACTATAAAATATTCTAAACTTCAACTG
+TAAAAAAAGTAGATTTGACACATGAGGTATGATTTAGTGACCAGTCCTATGTATGGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTAGCATTGGAAGGTTATCAAAAGCTATTATTAGTATGCATGTTTCCAACTTTAGAGGCCTTT
+TACATGTCCTTAATGAATTTATATGCCCTGCATTTGGCATTCAATGGTATCATTTAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AATGAGAAAAGAATAGCTTATTATTGTTAATTAATCATATTCAATCATATTAACCAATTTAAT
+TAACTTAATATTAATAAACGCACATTAATCAAATTAGTCAACTTAAAATGGTTGATT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGCAGCCGCTCGCATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCC
+CTTGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTTTTTTTCATTTTAAGGT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GACAAAGCATTTTACTTTTGGCTAGATACATTATGATAGAGAACATACAGGAAATATACAAGT
+ACTTGAAATTTACCATGTTACATTAGAAATTATGGACATAGACATTTAAGTTTTATG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CAATTTTCACACATGAAACAAAATATAATTTTTTAATGATTTAAGACTATAAAATATTCTAAA
+CTTCAACTGTAAAAAAAGTAGATTTGACACATGAGGTATGATTTAGTGACCAGTCCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATATATGGATTAGCATTGGAAGGTTATCAAAAGCTATTATTAGTATGTATGTTTCCAACTTTA
+GAGGCCTTTTACATGTCCTTAATGAATTTATATGCCCTGCATTTGGCATTCAATGGT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATCATTTATAATGAGAAAAGAATAGCTTATTATTGTTAATTAATCATATTCAATCATATTAAC
+CAATTTAATTAACTTAATATTAATAAACGCACATTAATCAAATTAGTCAACTTAATA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGGTTGATTATGACCTCTGTTTATTTAATTTAATATAATTATTAGTATTAGTGGGCTACTACT
+TGTAACTTGGTGCAAAAAAGCTGGTCAGTTTCAAACATTTTCTCTGCTGTCTCCCCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTAGTAATGCTAAAATTTCAAATTTTGGAATTAAGCCTAGATTTTAATTTTTCAGATTTAGTG
+CAATGGAGTTCTCTTGACCAAGTCATATACTCATGCAAATGATAGAAATTATAGCAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTGCAATAGCATCTGATACTTACCATTAGGGCCTAGCATGTAGCAGGTAAATACATACTATTT
+CCATTAATTGAGGGATTTCATATATGATACAATGCATTTTTGCTCATCTTCACCCTC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CTATTTTTTTTCCTTACCCTCTTCCAAAATTTACTGGAAATAGTCCTAAAACACCTTGTATTT
+CTAAAATCATTTGGATTTCTGGAAATATACCTGGCATCCTAAGGATGAAGGAAAGCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGAGCCGCTCGTATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCCC
+TTGTCTCTTTCTGTGTCTCAGCTTCCTCATCCTTAGGATGCCAGTATATTTCAGAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TCAAATGATTTAAGAATTACAAGTGTTTAGACTATTTCAGTAAATTTTGGAAGAGGTAGGAAA
+AAAATAGGAGGTGAAGATGAGCAAAATGCATTGTATCATATATGAAATCCTCAATTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATGGAATAGTATGTATTACCTGCTACATGCTAGGCCCTAATGGTAAGTATCAGATGCTATTGC
+AATTGCTATAATTTCTATCATTTGCATGAGTATATGACTTGGTCAAGAGAACTCCAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGCACTAAATCTGAAAAATTAAAATCTAGGCTTAATTCCAAAATTTGAAATTTTAGCATTACT
+AAAGGGGAGACAGCAGAGAAAATGTTTGAAACTGACCAGCTTTTTTGCACCAAGTTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CAAGTAGTAGCCCACTAATACTAATAATTATATTAAATTAAATAAACAGAGGTCATAATCAAC
+CATATTAAGTTGACTAATTTGATTAATGTGCGTTTATTAATATTAAGTTAATTAAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGGTTAATATGATTGAATATGATTAATTAACAATAATAAGCTATTCTTTTCTCATTATAAATG
+ATACCATTGAATGCCAAATGCAGGGCATATAAATTCATTAAGGACATGTAAAAGGCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TCTAAAGTTGGAAACATACATACTAATAATAGCTTTTGATAACCTTCCAATGCTAATCCATAC
+ATAGGACTGGTCACTAAATCATACCTCATGTGTCAAATCTACTTTTTTTTACAGTTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AAGTTTAGAATATTTTATAGTCTTAAATCATTAAAAAATTATATTTTGTTTCATGTGTGAAAA
+TTGCATAAAACTTAAATGTCTATGTCCATAATTTCTAATGTAACATGGTAAATTTCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AGTACTTGTATATTTCCTGTATGTTCTCTATCATAATGTATCTAGCCAAAAGTAAAATGCTTT
+GTCACCTTGAATGAACAATAACTATAATAGAGATAATATAAAAGACAATACACTATA[] 
+ []
+
+[157]
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGAGCCGCTCGATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCCCT
+TGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTTTAAGGTGACAAAGCATTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TACTTTTGGCTAGATACATTATGATAGAGAACATACAGGAAATATACAAGTACTTGAAATTTA
+CCATGTTACATTAAAAATTATGGACATAGACATTTAAGTTTTATGCAATTTTCACAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATGAAACAAAATATAATTTTTTAATGATTTAAGACTATAAAATATTCTAAACTTCAACTGTAA
+AAAAAGTGGATTTGACACATGAGGTATGATTTAGTGACCAGTCCTATGTATGGATTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GCATTGGAAGGTTATCAAGAGCTATTATTAGTATGTATGTTTCCAACTTTAGAGGCCTTTTAC
+ATGTCCTTAATGAATTTATATGCCCTGCATTTGGCATTCAATGGTATCATTTATAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GAGAAAAGAATAGCTTATTATTGTTAATTAATCATATTCAATCATATTAACCAATTTAATTAA
+CTTAATATTAATAAACGCACATTAATCAAATTAGTCAACTTAATATGGTTGATTATG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ACCTCTGTTTATTTAATTTAATATAATTATTAGTATTAGTGGGCTACTACTTGTAACTTGGTG
+CAAAAAAGCTGGTCAGTTTCAAACATTTTCTCTGCTGTCCCCCCTTTAGTAATGCTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GAATTTCAAATTTTGGAATTAAGCCTAGATTTTAATTTTTCAGATTTAGTGCAATGGAGTTCT
+CTTGACCGAGTCATATACTCATGCAAATGATAGAAATTATAGCAATTGCAATAGCAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CTGATACTTACCATTAGGGCCTAGCATGTAGCAGGTAATACATACTATTCCATTAATTGAGGA
+TTTCATATATGATACAATGCATTTTGCTCATCTTCACCCTCCCTATTTTTTTTCCTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CCCTCTTTCAAAATTTACTGAAATAGTCTAAAACACTTGGTAAGTCATTAAATCATTCGAATT
+TCTGACATAATACCTGCATCCCTACGGATGAGGAAGCTGACTACACCAGCAAGAGAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGAGCCGCTCGCTTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCCCT
+TGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTTTTTAAGGTGACAAAGCAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTACTTTTGGCTAGATACATTATGATAGAGAACATACAGGAAATATACAAGTACTTGAAATT
+TACCATGTTACATTAGAAATTATGGACATAGACATTTAAGTTTTATGCAATTTTCAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ACATGAAACAAAATATAATTTTTTAATGATTTAAGACTATAAAATATTCTAAACTTCAACTGT
+AAAAAAAGTAGATTTGACACATGAGGTATGATTTAGTGACCAGTCCTATGTATGGAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TAGCATTGGAAGGTTATCAAAAGCTATTATTAGTATGTATGTTTCCAACTTTAGAGGCCTTTT
+ACATGTCCTTAATGAATTTATATGCCCTGCATTTGGCATTCAATGGTATCATTTATA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATGAGAAAAGAATAGCTTATTATTGTTAATTAATCATATTCAATCATATTAACCAATTTAATT
+AACTTAATATTAATAAACGCACATTAATCAAATTAGTCAACTTAATATGGTTGATTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGACCTCTGTTTATTTAATTTAATATAATTATTAGTATTAGTGGGCTACTACTTGTAACTTGG
+TGCAAAAAAGCTGGTCAGTTTCAAACATTTTCTCTGCTGTCTCCCCTTTAGTAATGC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TAAAATTTCAAATTTTGGAATTAAGCCTAGATTTTAATTTTTCAGATTTAGTGCAATGGAGTT
+CTCTTGACCAAGTCATATACTCATGCAAATGATAGAAATTATAGCAATTGCAATAGC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATCTGATACTTACCATTAGGGCCTAGCATGTGGCAGGTAATACATACTATTCCATTAATTGAG
+GATTTCATATATGATACAATGCATTTTGCTCATCTTCACCTCCCTATTTTTTTCCTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CCTCTTCCAAATTTACTGAATAGTCTAAACACTTGTAATTCTTAATCATTTGGATTCTGAAAT
+ATACTGGCATCCTTAGAATGAGAGCTGAGACACAGAAGAGACAGGCCGATCGCGCCG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGCAGCCGCTCGCATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCC
+CTTGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTAAGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGACAAAGCATTTTACTTTTGGCTAGATACATTATGATAGAGAACATACAGGAAATATACAAG
+TACTTGAAATTTACCATGTTACATTAGAAATTATGGACATAGACATTTAAGTTTTAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GCAATTTTCACACATGAAACAAAATATAATTTTTTAATGATTTAAGACTATAAAATATTCTAA
+ACTTCAACTGTAAAAAAAGTAGATTTGACACATGAGGTATGATTTAGTGACCAGTCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TATGTATGGATTAGCATTGGAAGGTTATCAAAAGCTATTATTAGTATGTATGTTTCCAACTTT
+AGAGGCCTTTTACATGTCCTTAATGAATTTATATGCCCTGCATTTGGCATTCAATGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TATCATTTATAATGAGAAAAGAATGGCTTATTATTGTTAATTAATCATATTCAATCATATTAA
+CCAATTTAATTAACTTAATATTAATAAACGCACATTAATCAAATTAGTCAACTTAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATGGTTGATTATGACCTCTGTTTATTTAATTTAATATAATTATTAGTATTAGTGGGCTACTAC
+TTGTAACTTGGTGCAAAAAAGCTGGTCAGTTTCAAACATTTTCTCTGCTGTCTCCCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTAGTAATGCTAAAATTTCAAATTTTGGAATTAAGCCTAGATTTTAATTTTACAGATTTAGT
+GCAATGGAGTTCTCTTGACCAAGTCATATACTCATGCAAATGATAGAAATTATAGCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATTGCAATAGCATCTGATACTTACCATTAGGGCCTAGCATGTAGCAGGTAATACATACTATTC
+CATTAATTGGAGGATTTCATATATGATACAATGCATTTTGCTCATCTTCACCCTCCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATTTTTTTCCCTACCCTCTTCCAAATTTACTGAAATAGTCTAAAACACTTGTAATTCTTAAAT
+CATTTGATTCTGAAATATACTGGGCATCCTTAGGGATGGAGGGAAGCTGGAACCACA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGCAGCCGCTCGATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCCC
+TTGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTCTTTTTTTAAGAAAGCAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GGTAAAATTTTGCAATAGTTATCTGAAAATTACATTTTTTCCTTCTTACATTCTGCCCTCTCT
+ACGTCAGGAATTAGATATTTTCATACTGCTTAGGGACGTAACTTACCAGTAATAGTC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTACTCAGCTCTTGTGGGGTTTCGTTTCATTTTGTTTTGTGCAAGTTAAGTGGCACTATTCT
+TGTACTTTTAATACTCACACTTCTATTTCCCCAAATAGTCTAAACACTTGTAATTCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TAAATCATTTGAATTCTAAAATATACTGGCATCCTAAGGATGAGGAAGCTGAGACACAGAAAG
+AGACAAGGATCTTCACCTAGATCCTTTTAAATTAAAAATGAAGTTTTAAATCAATCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AAAGTATATATGAGTAAACTTGGTCTGACAGTTACCAATGCTTAATCAGTGAGGCACCTATCT
+CAGCGATCTGTCTATTTCGTTCATCCATAGTTGCCTGACTCCCCGTCGTGTAGATAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CTACGATACGGGAGGGCTTACCATCTGGCCCCAGTGCTGCAATGATACCGCGAGACCCACGCT
+CACCGGCTCCAGATTTATCAGCAATAAACCAGCCAGCCGGAAGGGCCGAGCGCAGAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GTGGTCCTGCAACTTTATCCGCCTCCATCCAGTCTATTAATTGTTGCCGGGAAGCTAGAGTAA
+GTAGTTCGCCAGTTAATAGTTTGCGCAACGTTGTTGCCATTGCTACAGGCATCGTGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGTCACGCTCGTCGTTTGGTATGGCTTCATTCAGCTCCGGTTCCCAAACGATCAAGGCGAGTT
+ACATGATCCCCCATGTTGTGCAAAAAAAGCGGTTAGCTCCTTCGGTCCTCCGATCGT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGTCAGAAGTAAGTTTGGCCGCAGTGTTATCACTCATGGGTTATGGGCAGCACTGCAATAAAT
+TCTTCTTAACTGTCATGCCCATCCCGTAAGAATGCTTTTTCTTGTGAACTGGTGAAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATTACGCCCGCTCGTATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCG
+CCCTTGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTCTTTTTTTAAGAAAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CAGGGTAAAATTTTGCAATAGTTATCTGAAAATTACATTTTTTCCTTCTTACATTCTGCCCTC
+TCTACGTCAGGAATTAGATATTTTCATACTGCTTAGGGACGTAACTTACCAGTAATA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GTCTTTACTCAGCTCTTGTGGGGTTTCGTTTCATTTTGTTTTGTGCAAGTTAAGTGGCACTAT
+TCTTGTACTTTTAATACTCACACTTCTATTTCCCCAAATAGTCTAAACACTTGTAAT[] 
+ []
+
+[158]
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TCTTAAATCATTTGAATTCTAAAATATACTGGCATCCTAAGGATGAGGAAGCTGAGACACAGA
+AAGAGACAAGGGCGAATTCGCGGCCGCTAAATTCAATTCGCCCTATAGTGAGTCGTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTACAATTCACTGGCCGTCGTTTTACAACGTCGTGACTGGGAAAACCCTGGCGTTACCCAACT
+TAATCGCCTTGCAGCACATCCCCCTTTCGCCAGCTGGCGTAATAGCGAAGAGGCCCG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CACCGATCGCCCTTCCCAACAGTTGCGCAGCCTATACGTACGGCAGTTTAAGGTTTACACCTA
+TAAAAGAGAGAGCCGTTATCGTCTGTTTTGTGGATGTACAGAGTGATATTATTGACA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CGCCGGGGCGACGGATGGTGATCCCCCTGGCCAGTGCACGTCTGCTGTCAGATAAAGTCTCCC
+CGTGAACTTTACCCGGTGGTTGCATATCGGGGATGAAAAGCCTGGCGCATGATGACC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ACCGGATATGGGCCAGTTGTGCCGGTCTCCGTTATCGGGGAAGAAGTGGCCTGATCTTAACCC
+ACCGCGAAAATGACATCAAAAAACGCCTTTAACCTTGATGTTTTTGGGGGAATTATA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTCCCGCCGCCTCGTATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCG
+CCCTTGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTTCTTTTTTTAAGAAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GCAGGGTAAAATTTTGCAATAGTTATCTGAAAATTACATTTTTTCCTTCTTACATTCTGCCCT
+CTCTACGTCAGGAATTAGATATTTTCATACTGCTTAGGGACGTAACTTACCAGTAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AGTCTTTACTCAGCTCTTGTGGGGTTTCGTTTCATTTTGTTTTGTGCAAGTTAAGTGGCACTA
+TTCTTGTACTTTTAATACTCACACTTCTGTTTCCCCAAATAGTCTAAACACTTGTAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTCTTAAATCATTTGAATTCTAAAATATACTGGCATCCTAAGGATGAGGAAGCTGAGACACAG
+AAAGAGACAAGGGCGAATTCGCGGCCGCTAAATTCAATTCGCCCTATAGTGAGTCGT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATTACAATTCACTGGCCGTCGTTTTACAACGTCGTGACTGGGAAAACCCTGGCGTTACCCAAC
+TTAATCGCCTTGCAGCACATCCCCCTTTCGCCAGCTGGCGTAATAGCGAAGAGGCCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GCACCGATCGCCCTTCCCAACAGTTTGCGCAGCCTATACGTACGGCAGTTTAAGGTTTACACC
+CTATAAAAGAGAGAGCCCGTTATCGTCTGTTTTGTGGATGTACAGAGTGATATTTAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGACACGCCGGGGCGACGGATGGTGATCCCCCTGGCCCAGTGCACGTCTGCTTGTCAGATAAA
+GTCTCCCGTGAACTTTACCCGGTGGTGCATATCGGGGATGAAAGCTGGCGCATGATG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CCCCCCCCCGCCTAGTATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTC
+GCCCTTGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTTTTTTTTTTTTTTATTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AAGGTGACAAAGCATTTTACTTTTGGCTAGATACATTATGATAGAGAACATACAGGAAATATA
+CAAGTACTTGAAATTTACCATGTTACATTAGAAATTATGGACATAGACATTTAAGCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTATGCAATTTTCACACATGAAACAAAATATAATTTTTTAATGATTTAAGACTATAAAATATT
+CTAAACTTCAACTGTAAAAAAAGTAGATTTGACACATGAGGTATGATTTAGTGACCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GTCCTATGTATGGATTAGCATTGGAAGGTTATCAAAAGCTATTATTAGTATGTATGTTTCCAA
+CTTTAGAGGCCTTTTACATGTCCTTAATGAATTTATATGCCCTGCATTTGGCATTCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATGGTATCATTTATAATGAGAAAAGAATAGCTTATTATTGTTAATTAATCATATTCAATCATA
+TTAACCAATTTAATTAACTTAATATTAATAAACGCACATTAATCAAATTAGTCAACT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TAATATGGTTGATTATGACCTCTGTTTATTTAATTTAATATAATTATTAGTACTAGTGGGCTA
+CTACTTGTAACTTTGGTGCAAAAAAGCTGGTCAGTTTTCAAACATTTTCTCTGCTTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TCTCCCCTTTTAGTAATGCTAAAATTTTCAAATTTTTGGAATTAAAGCCTAGATTTTAATTTT
+TTTCAAGATTTAGTGCAAATGGGAGTTTCTCTTTGCCCAAGTCATATACCTCCTGCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGCCCGCCGCTCGCATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGC
+CCTTGTCTCTTTCTGTGTCTCAGCTTCCTCATCCTTAGGATGCCAGTATATTTCAGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATTCAAATGATTTAAGAATTACAAGTGTTTAGACTATTTCAGTAAATTTTGGAAGAGGTAGGA
+AAAAAATAGGAGGTGAAGATGAGCAAAATGCATTGTATCATATATGAAATCCTCAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TAATGGAATAGTATGTATTACCTGCTACATGCTAGGCCCTAATGGTAAGTATCAGATGCTATT
+GCAATTGCTATAATTTCTATCATTTGCATGAGTATATGACTTGGTCAAGAGAACTCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATTGCACTAAATCTGAAAAATTAAAATCTAGGCTTAATTCCAAAATTTGAAATTTTAGCATTA
+CTAAAGGGGAGACAGCAGAGAAAATGTTTGAAACTGACCAGCTTTTTTGCACCAAGT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TACAAGTAGTAGCCCACTAATACTAATAATTATATTAAATTAAATAAACAGAGGTCATAATCA
+ACCATATTAAGTTGACTAATTTGATTAATGTGCGTTTATTAATATTAAGTTAATTAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATTGGTTAATATGATTGAATATGATTAATTAACAATAATAAGCTATTCTTTTCTCATTATAAA
+TGATACCATTGAATGCCAAATGCAGGGCATATAAATTCATTAAGGACATGTAAAAGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CCTCTAAAGTTGGAAACATACATACTAATAATAGCTTTTGATAACCTTCCAATGCTAATCCAT
+ACATAGGACTGGTCACTAAATCATACCTCATGTGTCAAATCTACTTTTTTTTACAGT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTGAAGTTTAGAATATTTTATAGTCTTAAATCATTTAAAAAATTATATTTTGTTTCCATGTGT
+GAAAATTGCATAAAACTTAAATGTCCTATGTCCATAATTTCTAAATGTAACATGGTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTTCCCGCCCGCCTCGATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGCAATT
+CGCCCTTGTCTCTTTCTGTGTCTCAGCTTCCTCATCCTTAGGATGCCAGTATATTTC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AGAATTCAAATGATTTAAGAATTACAAGTGTTTAGACTATTTCAGTAAATTTTGGAAGAGGTA
+GGAAAAAATAGGAGGCGAAGATGAGCAAAATGCATTGTATCATATATGAAATCCTCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 ATTAATGGAATAGTATGTATTACCTGCTACATGCTAGGCCCTAATGGTAAGTATCAGATGCTA
+TTGCAATTGCTATAATTTCTATCATTTGCATGAGTATATGACTTGGTCAAGAGAACT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CCATTGCACTAAATCTGAAAAATTAAAATCTAGGCATAATTCCAAAATTTGAAATTTTAGCAT
+TACTAAAGGGGAGACAGCAGAGAAAATGTTTGAAACTGACCAGCTTTTTTGCACCAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GTTACAAGTAGTAGCCCACTAATACTAATAATTATACTTCCATTAAGAGAAAAAAATAGATTG
+AACAAAATCAATCATGAGGCAAAGTAGGAAATTTGAAGAATTTTCAAAATATAGAAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TATTTTTAAAATACTAGATGCATTGGGGACATAGCTTAATCGTGAGTGCTTATTTTTCACTCA
+TGAGGCTATCCTCAGTACCAGGTATCAGAGTATAAAACTTTTAATTTCATTACTGGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GAAATAGAAGTGTGAGTATTAAAAGTACAAGAATAGTGCCACTTAACTTGCACAAAACAAAAA
+TGAAACGAAACCCCCCACAAGAGCTGAGTAAAGACCTATTACTGGTAAGTTTACGTC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CCTTAAGCAGTATGAAAAATATCTTAATTCCTTGACGTAGAGAGGGGCAGAATGGTAAGAAGG
+AAAAAAATGTTATTTTTTCAGGATAACTATTTGCAAAATTTTTACCCTGGCTTTCTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TGTTTGCCCGCTCGCATTAACCCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCG
+CCCTTGTCTCTTTCTGTGTCTCAGCTTCCTCATCCTTAGGATGCCAGTATATTTCAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AATTCAAATGATTTAAGAATTACAAGTGTTTAGACTATTTCAGTAAATTTTGGAAGAGGTAGG
+AAAAAAATAGGAGGTGAAGATGAGCAAAATGCATTGTATCATATATGAAATCCTCAA[] 
+ []
+
+[159]
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTAATGGAATAGTATGTATTACCTGCTACATGCTAGGCCCTAATGGTAAGTATCAGATGCTAT
+TGCAATTGCTATAATTTCTATCATTTGCATGAGTATATGACTTGGTCAAGAGAACTC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 CATTGCACTAAATCTGAAAAATTAAAATCTAGGCTTAATTCCAAAATTTGAAATTTTAGCATT
+ACTAAAGGGGAGACAGCAGAGAAAATGTTTGAAACTGACCAGCTTTTTTGCACCAAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 TTACAAGTAGTAGCCCACTAATACTAATAATTATATTAAATTAAATAAACAGAGGTCATAATC
+AACCATATTAAGTTGACTAATTTGATTAATGTGCGTTTATTAATATTAAGTTAATTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 AATTGGTTAATATGATTGAATATGATTAATTAACAATAATAAGCTATTCTTTTCTCATTATAA
+ATGATACCATTGAATGCCAAATGCAGGGCATATAAATTCATTAAGGACATGTAAAAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GCCTCTAAAGTTGGAAACATACATACTAATAAATAGCTTTTGATAACCTTCCAATGCTAATCC
+ATACATAGGACTGGTCACTAAATCATACCTCATGTGTCAAATCTACTTTTTTTTACA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 486--486
+[]\T1/pcr/m/n/6 GTTGAAGTTTAGAATATTTTATAGTCTTTAAATCATTAAAAAAATTATATTTTGTTTCATGTT
+GTGAAAATTGCATAAAACCTTAAATTGTCTATGTCCATAATTTCTAATGTAACATGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CGGACGCCTCCATATAGGGCGAATATGGGCCCATCAAGATGCACGCATCGAGCCGGCCGCCAG
+TGTGATGGATATCTGCAGAATTCGCCCTTGGCCACGCGTCGACTAGTACTTTTTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTTTTTACCTTCATATTTACCATTTTTATTTATTTTTCTTTGTGGAGATTCCTTTTTGTAGA
+TCCAAGTTTGTTGCTGGTGTTATTTTCCTTTTACTTGAAAAAATTTCTTAAACATTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CTAAAGTATAGGTCTACTGGCTACAAAGGGCGAATTCCAGCACACTGGCGGCCGTTACTAGTG
+GATCCGAGCTCGGTACCAAGCTTGATGCATAGCTTGAGTATTCTATAGTGTCACCTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AATAGCTTGGCGTAATCATGGTCATAGCTGTTTCCTGTGTGAAATTGTTATCCGCTCACAATT
+CCACACAACATACGAGCCGGAAGCATAAAGTGTAAAGCCTGGGGTGCCTAATGAGTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGCTAACTCACATTAATTGCGTTGCGCTCACTGCCCGCTTTCCAGTCGGGAAACCTGTCGTGC
+CAGCTGCATTAATGAATCGGCCAACGCGCGGGGAGAGGCGGTTTGCGTATTGGGCGC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TCTTCCGCTTCCTCGCTCACTGACTCGCTGCGCTCGGTCGTTCGGCTGCGGCGAGCGGTATCA
+GCTCACTCAAAGGCGGTAATACGGTTATCCACAGAATCAGGGGATAACGCAGGAAAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AACATGTGAGCAAAAGGCCAGCAAAAGGCCAGGAACCGTAAAAAGGCCGCGTTGCTGGCGTTT
+TTCCATAGGCTCCGCCCCCCTGACGAGCATCACAAAAATCGACGCTCAAGTCAGAGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTCCTGTGAACGACTACTATAGGGCGAATTGGGCCCTCTAGATGCGGAGCACGAGCGGTCGG
+CAGTGTGATGGATATCTGCAGGGACGCCCTTGGGAGAGCGACTAGTACTTTTTTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTTTTACCTTCATATTTACCATTGCAGGGGCTTCTTTGTGGAGAAGGTTTTTGTATTATCCA
+AGTTTGGTGCTGGTGTTATTTTCCTTTTACTTGAAAAAATTTTAATAACATTTCTAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGTATAGGTCCCCTGGCTATAAAGGGCGAATTCCAGCACACTGTCGGCCGTTACTAGTGGATC
+CGAGCTCGGTACCAAGCTTGATGCATTTTATAGATTATTCTATTTTGTAATATTAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGCCCCCCCCGTTTTTTTTTTTTCATAGCTGTTTCCTGTGTGAAATTGTTATCTTTTTTTTTT
+TTTCCACACAACATACTTTTTCGGAAGCATAAAGTGTTTTTTTTTGTGGTGCCTAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GAGTGAGCTAACTCACATTAATTGCGTTGCGCTCACTGCCCGCTTTCCAGTCGGGAAACCTGT
+CGTGCCAGCTGCATTAATGAATCGGCCAACGCGCGGGGAGAGGCGGTTTGCGTATTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GGGCGCTCTTCCGCTTTCCTCGCTCACTGACTCGCTTGCGCTCGGTCGTTCGGCTTGCGGCGA
+GCGGTATCAGCTCACTTAAAGGCGGGTAATTACGGGTTATCCACAGAACCAGGGGGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTGATACGCTCTATAGGGCGAATTGGGCCCTCTAGATGCATGCTCGAGCGGCCGCCAGTGTGA
+TGGATATCTGCAGAATTCGCCCTTGGCCACGCGTCGACTAGTACTTTTTTTTTTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTTTTTATATTTACCTTCATATTTACCATTTTTATTTATTTTTCTTTGTGGAGATTCCTTTT
+TGTAGATCCAAGTTTGTTGCTGGTGTTATTTTCCTTTTACTTGAAAAAATTTCTTAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ACATTTCTAAAGTATAGGTCTACTGGCTACAAAGGGCGAATTCCAGCACACTGGCGGCCGTTA
+CTAGTGGATCCGAGCTCGGTACCAAGCTTGATGCATAGCTTGAGTATTCTATAGTGT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CACCTAAATAGCTTGGCGTAATCATGGTCATAGCTGTTTCCTGTGTGAAATTGTTATCCGCTC
+ACAATTCCACACAACATACGAGCCGGAAGCATAAAGTGTAAAGCCTGGGGTGCCTAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TGAGTGAGCTAACTCACATTAATTGCGTTGCGCTCACTGCCCGCTTTCCAGTCGGGAAACCTG
+TCGTGCCAGCTGCATTAATGAATCGGCCAACGCGCGGGGAGAGGCGGTTTGCGTATT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GGGCGCTCTTCCGCTTCCTCGCTCACTGACTCGCTGCGCTCGGTCGTTCGGCTGCGGCGAGCG
+GTATCAGCTCACTCAAAGGCGGTAATACGGTTATCCCACAGAATCAGGGGATAACCG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CAGGAAAGAACATGTGAGCAAAAGGCCAGCAAAAGGCCAGGAAACCCGTAAAAAGGCCGCGTT
+GCTGGCGTTTTTTCCATAGGCTTCCGCCCCCCCCTTGACCAGCATCACCAAAATTTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ACGCTCAAGGTCAGAGGTGGCCGAACCCCCGACAGGACTATAAAGATTCCAGGCCGTTTTCCC
+CCCTGGAAGCTCCCCTCCTGCGCTCTCCTCGTTCCGACCCCTGGCCGCTTACCGGAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CGGTGATCGCCTCCTATAGGGCGAATTGGGCCCTCTAGATGCATGCTCGAGCGGCCGCCAGTG
+TGATGGATATCTGCAGAATTCGCCCTTGGCCACGCGTCGACTAGTACTTTTTTTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTTCTAACACTTGGTAATTTCTGTTTTTTATTTAAAATAATTGCCATTCTAATAGGCGTAAA
+AAGTCATTATGGTCTTAATTTACATTTTCTTCATGACTGCTGTTGAGAAGTTTTCTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTGTGTGTCTGTTCAAATATTTTCACATTCTTTTCAGAACATATGTTCTTTGTCAGATAGATA
+AATGTATTTCTTCTGTATCCTTACTGATTTTCTGTCCACTTACTAATTACCGAGGGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGAATGTTGAAATCTTCAACTATAATTTTGAGTTTATCTTCCTTCTGCTCTGTTCATTTTTTC
+TTCATATGCTTTGAAGCAAAGTCTTTAAAGTTGTGTCCTTAGGTGTGTTCACATTTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTTTTACCCTCTATAGGGCGAATTGGGCCCTCTAGATGCATGCTCGAGCGGCCGCCAGTGTG
+ATGGATATCTGCAGAATTCGCCCTTAACGCTGCTGTGGAATCTATAACACATATAGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGTAAAATGTTAAGATCATAATACCAAAAAGAATGAGGGAGAGTAAATGGATGTATACTATTC
+CAAAATTCTTACATTATACATTAAGAGGAATAATATTTTTGAAGGTAGATTGAGGTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGTTAAAGGTGCATATTGTAAATCCTAGAAGTATCACTGGGGGGAAAAAAAACAGAGGGACAA
+GCTAATAATGGAGACAATACAAAATTCCAAAAATGCTCCATTAACCGAAAAGAAGGC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGAAAAGGAAGAAAAGATTAGACAAATAGAAAACAAATAGTGTCTTAAACACAATTATATTGC
+CAACTGCAATAAATGTAAATGGACTTAATCAAAAAGCAACGATCGTAAAAAGTCAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CTGAAAGCAAGATGCAACTATATGCTATCTAAAAGAAAGACATTAAATGACCAATAAGTTGAA
+AATAAAAACACAGCAAAATGATATAATGTGCAAAAATTAATCATAAGAAAGGAATGG[] 
+ []
+
+[160]
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CAGACGCCTCTATAGGGCGAATCTGGGCCCTCAAGATGCATGCTCGAGCGGCCGCCAGTGTGA
+TGGATATCTGCAGAATTCGCCCTTCAGTGAACGCCAAACAAGTAAGATTAGAATTAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AATTAGAATCAGAAATGACAAAAAAGAAACATGAACTGTGAGATGCAATATAAAAACTAATGG
+TGAACAAAGCAAAGAATAAAAAATAAAAACGGAAAGATTAAAAGGAAAATGTGACTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TAAGTAGAGTGACCTTTATATTATACAGAAGGTAAAGCAGAATGAACATGTGAGGAATCTAAA
+AAACAGATATAAAATAGAAACAACTGAAGGCTTATATAATTAGTCTATAAAGCTAGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AACCACTGCTTAGTAATTTCTCGTAAGTGGAGTCTCTTTGTTCTGAGACGTTGCAAAACTCCA
+TTCCATCTCAAAGTTATTTTTAATGTTAAAATTTGTAAGAGTGAGCAACGGTATCCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AAATAGTTCTAGGCCTTGTAGAAATAGACTGTAAGAGACATCTGTGACACAACTATATTCAGT
+ATGATGTAGGGTCTGTTACAATGGGATGAAGTGAATTTAGATTATTTCAAGACTAAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CCTACAATTGTGAACTCATTAGTACCATGAACCGAACAAAAACCTATTAAATATAGAACAAGA
+CGATTTTCATGAAAAAATAAATATGAACAAATCAGTATTTTCAGTTGTTTGAAATAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGGTTAACCTTCAATTACTGTTTTATGGCCGGGTGCAGTGGCTCACGCCACGCCTCTAATCCC
+AGCACTTTGGGAGGCCGAGGCAGGCGGATCATGAGGTCAGGAGATCGAGACCATCCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGAGTGACCTTTATATTATACAGAAGGTAAAGCAGAATGAACATGTGAGGAATCTAAAAAACA
+GATATAAAATAGAAACAACTGAAGGCTTATATAATTAGTCTATAAAGCTAGGAACCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CTGCCTAGTAATTTCTCGTAAGTGGAGTCTCTTTGTTCTGAGACGTTGCAAAACTCCATTCCA
+TCTCAAAGTTATTTTTAATGTTAAAATTTGTAAGAGTGAGCAACGGTATCCTAAATA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GTTCTAGGCCTTGTAGAAATAGACTGTAAGAGACATCTGTGACACAACTATATTCAGTATGAT
+GTAGGGTCTGTTACAATGGGATGAAGTGAATTTAGATTATTTCAAGACTAAACCTAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AATTGTGAACTCATTAGTACCATGAACCGAACAAAAACCTATTAAATATAGAACAAGACGACT
+TTCATGAAAAAATAAATATGAACAAATCAGTATTTTCAGTTGTTTGAAATATAGGTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AACCTTCAATTACTGTTTTATGGCCGGGTGCAGTGGCTCACGCCACGCCTCTAATCCCAGCAC
+TTTGGGAGGCCGAGGCAGGCGGATCATGAGGTCAGGAGATCGAGACCATCCTGGCTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ACATGGTGAAACTACGTCCCTACTAAAAATACAAAAAAAATTAGCTGGGCGCCGTGGTGGGCG
+CCTATAGTCCCAGCTACTTGGGAGGCTGATGCAGAAGAATGGCATGAACCCGGGAGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CGGAGCTTGCAGTGAGCCGAGACAGAGCCACTGCACTGTGGCCTGGGCAAAAGAGCGAGACTC
+TGTCTCAAAAAAAAAAAAAAGTACTAGTCGACGCGTGGCCAAGGGCGAATTCTGCAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TCGACGCCAGCTATTTAGGTGACACTATAGAATACTCAAGTCTATGCATCAAGCTTGGTACCG
+AGCTCGGCTCCACTAGTAACGGCCGCCAGTGTGCTGGAATTCGCCCTTCAGTGAACG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CCAAACAAGTAAGATTAGAATTACAATTAGAATCAGAAATGACAAAAAAGAAACATGAACTGT
+GAGATGCAATATAAAAACTAATGGTGAACAAAGCAAAGAATAAAAAATAAAAACGGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AAGATTAAAAGGAAAATGTGACTGTAAGTAGAGTGACCTTTATATTATACAGAAGGTAAAGCA
+GAATGAACATGTGAGGAATCTAAAAAACAGATATAAAATAGAAACAACTGAAGGCTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATATAATTAGTCTATAAAGCTAGGAACCACTGCCTAGTAATTTCTCGTAAGTGGAGTCTCTTT
+GTTCTGAGACGTTGCAAAACTCCATTCCATCTCAAAGTTATTTTTAATGTTAAAATT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TGTAAGAGTGAGCAACGGTATCCTAAATAGTTCTAGGCCTTGTAGAAATAGACTGTAAGAGAC
+ATCTGTGACACAACTATATTCAGTATGATGTAGGGTCTGTTACAATGGGATGAAGTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AATTTAGATTATTTCAAGACTAAACCTACAATTGTGAACTCATTAGTACCATGAACCGAACAA
+AAACCTATTAAATATAGAACAAGACGACTTTCATGAAAAAATAAATATGAACAAATC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGTATTTTCAGTTGTTTGAAATATAGGTTAACCTTCAATTACTGTTTTATGGCCGGGTGCAGT
+GGCTCACGCCACGCCTCTAATCCCAGCACTTTGGGAGGCCGAGGCAGGCGGATCATG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATGTCGCTATATAGGGCGAATTGGGCCCTCTAGATGCATGCTCGAGCGGCCGCCAGTGTGATG
+GATATCTGCAGAATTCGCCCTTCAGTGAACGCCAAACAAGTAAGATTAGAATTACAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTAGAATCAGAAATGACAAAAAAGAAACATGAACTGTGAGATGCAATATAAAAACTAATGGTG
+AACAAAGCAAAGAATAAAAAATAAAAACGGAAAGATTAAAAGGAAAATGTGACTGTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGTAGAGTGACCTTTATATTATACAGAAGGTAAAGCAGAATGAACATGTGAGGAATCTAAAAA
+ACAGATATAAAATAGAAACAACTGAAGGCTTATATAATTAGTCTATAAAGCTAGGAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CCACTGCTTAGTAATTTCTCGTAAGTGGAGTCTCTTTGTTCTGAGACGTTGCAAAACTCCATT
+CCATCTCAAAGTTATTTTTAATGTTAAAATTTGTAAGAGTGAGCAACGGTATCCTAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATAGTTCTAGGCCTTGTAGAAATAGACTGTAAGAGACATCTGTGACACAACTATATTCAGTAT
+GATGTAGGGTCTGTTACAATGGGATGAAGTGAATTTAGATTATTTCAAGACTAAACC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TACAATTGTGAACTCATTAGTACCATGAACCGAACAAAAACCTATTAAATATAGAACAAGACG
+ATTTTCATGAAAAAATAAATATGAACAAATCAGTATTTTCAGTTGTTTGAAATATAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GTTAACCTTCAATTACTGTTTTATGGCCGGGTGCAGTGGCTCACGCCACGCCTCTAATCCCAG
+CACTTTGGGAGGCCGAGGCACGCGGATCATGGGGTCAGGAGATCGAGACCATCCTGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATGACGACTATATAGGGCGAATTGGGCCCTCTAGATGCATGCTCGAGCGGCCGCCAGTGTGAT
+GGATATCTGCAGAATTCGCCCTTGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTGAGACAGAGTCTCGCTCTTTTGCCCAGGCCACAGTGCAGTGGCTCTGTCTCGGCTCACTG
+CAAGCTCCGCCTCCCGGGTTCATGCCATTCTTCTGCATCAGCCTCCCAAGTAGCTGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GACTATAGGCGCCCACCACGGCGCCCAGCTAATTTTTTTTTGTATTTTTAGTAGGGACGTAGT
+TTCACCATGTTAGCCAGGATGGTCTCGATCTCCTGACCTCATGATCCGCCTGCCTCG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GCCTCCCAAAGTGCTGGGATTAGAGGCGTGGCGTGAGCCACTGCACCCGGCCATAAAACAGTA
+ATTGAAGGTTAACCTATATTTCAAACAACTGAAAATACTGATTTGTTCATATTTATT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTTCATGAAAATCGTCTTGTTCTATATTTAATAGGTTTTTGTTCGGTTCATGGTACTAATGA
+GTTCACAATTGTAGGTTTAGTCTTGAAATAATCTAAATTCACTTCATCCCATTGTAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CAGACCCTACATCATACTGAATATAGTTGTGTCACAGATGTCTCTTACAGTCTATTTCTACAA
+GGCCTAGAACTATTTAGGATACCGTTGCTCACTCTTACAAATTTTAACATTAAAAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AACTTTGAGATGGAATGGAGTTTTGCAACGTCTCAGAACAAAGAGACTCCACTTACGAGAAAT
+TACTAAGCAGTGGTTCCTAGCTTTATAGACTAATTATATAAGCCTTCAGTTGTTTCT[] 
+ []
+
+[161]
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TGTCGCCAGCTATTTAGGTGACACTATAGAATACTCAAGCTATGCATCAAGCTTGGTACCGAG
+CTCGGATCCACTAGTAACGGCCGCCAGTGTGCTGGAATTCGCCCTTCAGTGAACGCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AAACAAGTAAGATTAGAATTACAATTAGAATCAGAAATGACAAAAAAGAAACATGAACTGTGA
+GATGCAATATAAAAACTAATGGTGAACAAAGCAAAGAATAAAAAATAAAAACGGAAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GATTAAAAGGAAAATGTGACTGTAAGTAGAGTGACCTTTATATTATACAGAAGGTAAAGCAGA
+ATGAACATGTGAGGAATCTAAAAAACAGATATAAAATAGAAACAACTGAAGGCTTAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATAATTAGTCTATAAAGCTAGGAACCACTGCTTAGTAATTTCTCGTAAGTGGAGTCTCTTTGT
+TCTGAGACGTTGCAAAACTCCATTCCATCTCAAAGTTATTTTTAATGTTAAAATTTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TAAGAGTGAGCAACGGTATCCTAAATAGTTCTAGGCCTTGTAGAAATAGACTGTAAGAGACAT
+CTGTGACACAACTATATTCAGTATGATGTAGGGTCTGTTACAATGGGATGAAGTGAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTAGATTATTTCAAGACTAAACCTACAATTGTGAACTCATTAGTACCATGAACCGAACAAAA
+ACCTATTAAATATAGAACAAGACGATTTTCATGAAAAAATAAATATGAACAAATCAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TATTTTCAGTTGTTTGAAATATAGGTTAACCTTCAATTACTGTTTTATGGCCGGGTGCAGTGG
+CTCACGCCACGCCTCTAATCCCAGCACTTTGGGAGGCCGAGGCAGCGGATCATGAGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TCAGGAGATCGAGACCATCCTGGCTAACATGGTGAAACTACGTCCCTACTAAAAATACAAAAA
+AAAATTAGCTGGGCGCCGTGGTGGGCGCCTATAGTCCCAGCTACTTGGGAGGCTGAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TGTCGCCAGCTATTTAGGTGACACTATAGAATACTCAAGCTATGCATCAAGCTTGGTACCGAG
+CTCGGATCCACTAGTAACGGCCGCCAGTGTGCTGGAATTCGCCCTTCAGTGAACGCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AAACAAGTAAGATTAGAATTACAATTAGAATCAGAAATGACAAAAAAGAAACATGAACTGTGA
+GATGCAATATAAAAACTAATGGTGAACAAAGCAAAGAATAAAAAATAAAAACGGAAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GATTAAAAGGAAAATGTGACTGTAAGTAGAGTGACCTTTATATTATACAGAAGGTAAAGCAGA
+ATGAACATGTGAGGAATCTAAAAAACAGATATAAAATAGAAACAACTGAAGGCTTAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATAATTAGTCTATAAAGCTAGGAACCACTGCTTAGTAATTTCTCGTAAGTGGAGTCTCTTTGT
+TCTGAGACGTTGCAAAACTCCATTCCATCTCAAAGTTATTTTTAATGTTAAAATTTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TAAGAGTGAGCAACGGTATCCTAAATAGTTCTAGGCCTTGTAGAAATAGACTGTAAGAGACAT
+CTGTGACACAACTATATTCAGTATGATGTAGGGTCTGTTACAATGGGATGAAGTGAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTAGATTATTTCAAGACTAAACCTACAATTGTGAACTCATTAGTACCATGAACCGAACAAAA
+ACCTATTAAATATAGAACAAGACGATTTTCATGAAAAAATAAATATGAACAAATCAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TATTTTCAGTTGTTTGAAATATAGGTTAACCTTCAATTACTGTTTTATGGCCGGGTGCAGTGG
+CTCACGCCACGCCTCTAATCCCAGCACTTTGGGAGGCCGAGGCAGCGGATCATGAGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TCAGGAGATCGAGACCATCCTGGCTAACATGGTGAAACTACGTCCCTACTAAAAATACAAAAA
+AAAATTAGCTGGGCGCCGTGGTGGGCGCCTATAGTCCCAGCTACTTGGGAGGCTGAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATGACGACTATATAGGGCGAATTGGGCCCTCTAGATGCATGCTCGAGCGGCCGCCAGTGTGAT
+GGATATCTGCAGAATTCGCCCTTGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTGAGACAGAGTCTCGCTCTTTTGCCCAGGCCACAGTGCAGTGGCTCTGTCTCGGCTCACTG
+CAAGCTCCGCCTCCCGGGTTCATGCCATTCTTCTGCATCAGCCTCCCAAGTAGCTGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GACTATAGGCGCCCACCACGGCGCCCAGCTAATTTTTTTTTGTATTTTTAGTAGGGACGTAGT
+TTCACCATGTTAGCCAGGATGGTCTCGATCTCCTGACCTCATGATCCGCCTGCCTCG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GCCTCCCAAAGTGCTGGGATTAGAGGCGTGGCGTGAGCCACTGCACCCGGCCATAAAACAGTA
+ATTGAAGGTTAACCTATATTTCAAACAACTGAAAATACTGATTTGTTCATATTTATT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTTCATGAAAATCGTCTTGTTCTATATTTAATAGGTTTTTGTTCGGTTCATGGTACTAATGA
+GTTCACAATTGTAGGTTTAGTCTTGAAATAATCTAAATTCACTTCATCCCATTGTAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CAGACCCTACATCATACTGAATATAGTTGTGTCACAGATGTCTCTTACAGTCTATTTCTACAA
+GGCCTAGAACTATTTAGGATACCGTTGCTCACTCTTACAAATTTTAACATTAAAAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AACTTTGAGATGGAATGGAGTTTTGCAACGTCTCAGAACAAAGAGACTCCACTTACGAGAAAT
+TACTAAGCAGTGGTTCCTAGCTTTATAGACTAATTATATAAGCCTTCAGTTGTTTCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATGTCGCTATATAGGGCGAATTGGGCCCTCTAGATGCATGCTCGAGCGGCCGCCAGTGTGATG
+GATATCTGCAGAATTCGCCCTTCAGTGAACGCCAAACAAGTAAGATTAGAATTACAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTAGAATCAGAAATGACAAAAAAGAAACATGAACTGTGAGATGCAATATAAAAACTAATGGTG
+AACAAAGCAAAGAATAAAAAATAAAAACGGAAAGATTAAAAGGAAAATGTGACTGTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGTAGAGTGACCTTTATATTATACAGAAGGTAAAGCAGAATGAACATGTGAGGAATCTAAAAA
+ACAGATATAAAATAGAAACAACTGAAGGCTTATATAATTAGTCTATAAAGCTAGGAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CCACTGCTTAGTAATTTCTCGTAAGTGGAGTCTCTTTGTTCTGAGACGTTGCAAAACTCCATT
+CCATCTCAAAGTTATTTTTAATGTTAAAATTTGTAAGAGTGAGCAACGGTATCCTAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATAGTTCTAGGCCTTGTAGAAATAGACTGTAAGAGACATCTGTGACACAACTATATTCAGTAT
+GATGTAGGGTCTGTTACAATGGGATGAAGTGAATTTAGATTATTTCAAGACTAAACC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TACAATTGTGAACTCATTAGTACCATGAACCGAACAAAAACCTATTAAATATAGAACAAGACG
+ATTTTCATGAAAAAATAAATATGAACAAATCAGTATTTTCAGTTGTTTGAAATATAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GTTAACCTTCAATTACTGTTTTATGGCCGGGTGCAGTGGCTCACGCCACGCCTCTAATCCCAG
+CACTTTGGGAGGCCGAGGCACGCGGATCATGGGGTCAGGAGATCGAGACCATCCTGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TCGACGCCAGCTATTTAGGTGACACTATAGAATACTCAAGTCTATGCATCAAGCTTGGTACCG
+AGCTCGGCTCCACTAGTAACGGCCGCCAGTGTGCTGGAATTCGCCCTTCAGTGAACG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CCAAACAAGTAAGATTAGAATTACAATTAGAATCAGAAATGACAAAAAAGAAACATGAACTGT
+GAGATGCAATATAAAAACTAATGGTGAACAAAGCAAAGAATAAAAAATAAAAACGGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AAGATTAAAAGGAAAATGTGACTGTAAGTAGAGTGACCTTTATATTATACAGAAGGTAAAGCA
+GAATGAACATGTGAGGAATCTAAAAAACAGATATAAAATAGAAACAACTGAAGGCTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATATAATTAGTCTATAAAGCTAGGAACCACTGCCTAGTAATTTCTCGTAAGTGGAGTCTCTTT
+GTTCTGAGACGTTGCAAAACTCCATTCCATCTCAAAGTTATTTTTAATGTTAAAATT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TGTAAGAGTGAGCAACGGTATCCTAAATAGTTCTAGGCCTTGTAGAAATAGACTGTAAGAGAC
+ATCTGTGACACAACTATATTCAGTATGATGTAGGGTCTGTTACAATGGGATGAAGTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AATTTAGATTATTTCAAGACTAAACCTACAATTGTGAACTCATTAGTACCATGAACCGAACAA
+AAACCTATTAAATATAGAACAAGACGACTTTCATGAAAAAATAAATATGAACAAATC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGTATTTTCAGTTGTTTGAAATATAGGTTAACCTTCAATTACTGTTTTATGGCCGGGTGCAGT
+GGCTCACGCCACGCCTCTAATCCCAGCACTTTGGGAGGCCGAGGCAGGCGGATCATG[] 
+ []
+
+[162]
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGAGTGACCTTTATATTATACAGAAGGTAAAGCAGAATGAACATGTGAGGAATCTAAAAAACA
+GATATAAAATAGAAACAACTGAAGGCTTATATAATTAGTCTATAAAGCTAGGAACCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CTGCCTAGTAATTTCTCGTAAGTGGAGTCTCTTTGTTCTGAGACGTTGCAAAACTCCATTCCA
+TCTCAAAGTTATTTTTAATGTTAAAATTTGTAAGAGTGAGCAACGGTATCCTAAATA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GTTCTAGGCCTTGTAGAAATAGACTGTAAGAGACATCTGTGACACAACTATATTCAGTATGAT
+GTAGGGTCTGTTACAATGGGATGAAGTGAATTTAGATTATTTCAAGACTAAACCTAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AATTGTGAACTCATTAGTACCATGAACCGAACAAAAACCTATTAAATATAGAACAAGACGACT
+TTCATGAAAAAATAAATATGAACAAATCAGTATTTTCAGTTGTTTGAAATATAGGTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AACCTTCAATTACTGTTTTATGGCCGGGTGCAGTGGCTCACGCCACGCCTCTAATCCCAGCAC
+TTTGGGAGGCCGAGGCAGGCGGATCATGAGGTCAGGAGATCGAGACCATCCTGGCTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ACATGGTGAAACTACGTCCCTACTAAAAATACAAAAAAAATTAGCTGGGCGCCGTGGTGGGCG
+CCTATAGTCCCAGCTACTTGGGAGGCTGATGCAGAAGAATGGCATGAACCCGGGAGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CGGAGCTTGCAGTGAGCCGAGACAGAGCCACTGCACTGTGGCCTGGGCAAAAGAGCGAGACTC
+TGTCTCAAAAAAAAAAAAAAGTACTAGTCGACGCGTGGCCAAGGGCGAATTCTGCAG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CAGACGCCTCTATAGGGCGAATCTGGGCCCTCAAGATGCATGCTCGAGCGGCCGCCAGTGTGA
+TGGATATCTGCAGAATTCGCCCTTCAGTGAACGCCAAACAAGTAAGATTAGAATTAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AATTAGAATCAGAAATGACAAAAAAGAAACATGAACTGTGAGATGCAATATAAAAACTAATGG
+TGAACAAAGCAAAGAATAAAAAATAAAAACGGAAAGATTAAAAGGAAAATGTGACTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TAAGTAGAGTGACCTTTATATTATACAGAAGGTAAAGCAGAATGAACATGTGAGGAATCTAAA
+AAACAGATATAAAATAGAAACAACTGAAGGCTTATATAATTAGTCTATAAAGCTAGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AACCACTGCTTAGTAATTTCTCGTAAGTGGAGTCTCTTTGTTCTGAGACGTTGCAAAACTCCA
+TTCCATCTCAAAGTTATTTTTAATGTTAAAATTTGTAAGAGTGAGCAACGGTATCCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AAATAGTTCTAGGCCTTGTAGAAATAGACTGTAAGAGACATCTGTGACACAACTATATTCAGT
+ATGATGTAGGGTCTGTTACAATGGGATGAAGTGAATTTAGATTATTTCAAGACTAAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CCTACAATTGTGAACTCATTAGTACCATGAACCGAACAAAAACCTATTAAATATAGAACAAGA
+CGATTTTCATGAAAAAATAAATATGAACAAATCAGTATTTTCAGTTGTTTGAAATAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGGTTAACCTTCAATTACTGTTTTATGGCCGGGTGCAGTGGCTCACGCCACGCCTCTAATCCC
+AGCACTTTGGGAGGCCGAGGCAGGCGGATCATGAGGTCAGGAGATCGAGACCATCCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATGTCGCTATATAGGGCGAATTGGGCCCTCTAGATGCATGCTCGAGCGGCCGCCAGTGTGATG
+GATATCTGCAGAATTCGCCCTTGGCCACGCGTCGACTAGTACTTTTTTTTTTCTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GTGGCATGAGTTGTTTTTGTTTTTAATTTGTTGTGCTGTTACTAAAGTTCTGAGGGCTGCAGT
+TAAAACATTCCAATTTCTCCCTTCCTTCCATCTTTCTTTATTGATTGATTCTCAAGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTTGCACAGAAAACTCCATGTGGGCTGGAACAGCAGATTTCAGCTACATATATGAACAAATC
+CTTTATTATTATTATAATTATTTTTTGCGTGAAAGTGTTACATATTCTTTCACTTGT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATGTACAGAGAGGTTTTTCTGAATATTTATTTTAAGGGTTAAATCACTTTTGCTTGTGTTTAT
+TACTGCTTGAGGTTGAGCCAAGGGCGAATTCCAGCACACTGGCGGCCGTTACTAGTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GATCCGAGCTCGGTACCAAGCTTGATGCATAGCTTGAGTATTCTATAGTGTCACCTAAATAGC
+TTGGCGTAATCATGGTCATAGCTGTTTCCTGTGTGAAATTGTTATCCGCTCACAAAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TCCACACAACATACGAGCCGGAAGCATAAAGTGTAAAGCCTGGGGTGCCTAATGAGTGAGCTA
+ACTCACATTAATTGCGTTGCGCTCACTGCCCGCTTTCCAGTCGGGAAACCTGTCGTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TCGAGCCAGCTATTTAGGTGACACTATAGAATACTCAAGCTATGCATCAAGCTTGGTACCGAG
+CTCGGATCCACTAGTAACGGCCGCCAGTGTGCTGGAATTCGCCCTTGGCTCAACCTC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AAGCAGTAATAAACACAAGCAAAAGTGATTTAACCCTTAAAATAAATATTCAGAAAAACCTCT
+CTGTACATACAAGTGAAAGAATATGTAACACTTTCACGCAAAAAATAATTATAATAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TAATAAAGGATTTGTTCATATATGTAGCTGAAATCTGCTGTTCCAGCCCACATGGAGTTTTCT
+GTGCAAAATCTTGAGAATCAATCAATAAAGAAAGATGGAAGGAAGGGAGAAATTGGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATGTTTTAACTGCAGCCCTCAGAACTTTAGTAACAGCACAACAAATTAAAAACAAAAACAACT
+CATGCCACAAAAGAAAAAAAAAAGTACTAGTCGACGCGTGGCCAAGGGCGAATTCTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CAGATATCCATCACACTGGCGGCCGCTCGAGCATGCATCTAGAGGGCCCAATTCGCCCTATAG
+TGAGTCGTATTACAATTCACTGGCCGTCGTTTTACAACGTCGTGACTGGGAAAACCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TGGCGTTACCCAAACTTAATCGCCTTGCAGCACATCCCCCTTTCGCCAGCTGGCGTAATAGCG
+AAGAGGCCCGCACCGATCGCCCTTCCCAACAGTTGCGCAGCCTGAATGGCGAATGGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATGACGCTACTATAGGGCGAATTGGGCCCTCTAGTATGCATGCTCGAGCGGCCGCCAGTGTGA
+TGGATATCTGCAGAATTCGCCCTTGGCTCAACCTCAAGCAGTAATAAACACAAGCAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AAGTGATTTAACCCTTAAAATAAATATTCAGAAAAACCTCTCTGTACATACAAGTGGAAGAAT
+ATGTAACACTTTCACGCAAAAAAATAATTATAATAATAATAAAGGATTTGTTCATAT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATGTAGCTGAAATCTGCTGTTCCAGCCCACATGGAGTTTTCTGTGCAAAATCTTGAGAATCAA
+TCAATAAAGAAAGATGGAAGGAAGGGAGAAATTGGAATGTTTTAACTGCAGCCCTCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GAACTTTAGTAACAGCACAACAAATTAAAAACAAAAACAACTCATGCCACAAAAAAAAAAAAA
+AGTACTAGTCGACCGCGTGGCCAAGGGCGAATTCCAGCACACTGGCGGCCGTTACTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGTCGCCAGCTATTTAGGTGACACTATAGAATACTCAAGCTATGCATCAAGCTTGGTACCGAG
+CTCGGATCCACTAGTAACGGCCGCCAGTGTGCTGGAATTCGCCCTTGGCCACGCGGT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CGACTAGTACTTTTTTTTTTTTTTGTGGCATGAGTTGTTTTTGTTTTTAATTTGTTGTGCTGT
+TACTAAAGTTCTGAGGGCTGCAGTTAAAACATTCCAATTTCTCCCTTCCTTCCATCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTCTTTATTGATTGATTCTCAAGATTTTGCACAGAAAACTCCATGTGGGCTGGAACAGCAGAT
+TTCAGCTACATATATGAACAAATCCTTTATTATTATTATAATTATTTTTTTGCGTGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AAGTGTTACATATTCTTCCACTTGTATGTACAGAGAGGTTTTTCTGAATATTTATTTTAAGGG
+TTAAATCACTTTTGCTTGTGTTTATTACTGCTTGAGGTTGAGCCAAGGGCGAATTCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GCAGATATCCATCACACTGGCGGCCGCTCGAGCATGCATCTAGAGGGCCCAATTCGCCCTATA
+GTGAGTCGTATTACAATTCACTGGCCGTCGTTTTACAACGTCGTGACTGGGAAAACC[] 
+ []
+
+[163]
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CTGGCGTTACCCAACTTAATCGCCTTGCAGCACATCCCCCTTTCGCCAGCTGGCGTAATAGCG
+AAGAGGCCCGCACCGATCGCCCTTCCCAACAGTTGCGCAGCCTGAATGGCGAATGGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CGCGCCCTGTAGCGGCGCATTAAGCGCGGCGGGTGTGGTGGTTACGCGCAGCGTGACCGCTAC
+ACTTGCCAGCGCCCTAGCGCCCGCTCCTTTCGCTTTCTTCCCTTCCTTTCTCGCCAC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CTGGACGACTACTATAGGGCGAATTGGGCCCTCTAGATGCATAGCTCGAGCGGCCGCCAGTGT
+GATGGATATCTGCAGAATTCGCCCTTGGCCACGCGTCGACTAGTACTTTTTTTTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTACTTTTGG
+TTGGGTTTATTACTGGTTGGGGGTGAGCCAAGGGGGAATTCCCCCCCACTGGGGGCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GTTTCTTGTGGATCCCAGCTCGGTACCCAACTTGGTGCATAACTTGGGTTTTTTTTTGTGGCC
+CCTAAATAGCTTGGGGTAATCCTGGGCATAGCTTTTTCCCGGGGGAAAATTTTATCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CCTTACAAATCCCCACAACATACGAGCCGGAAGCATAAAGTGTAAAACCCGGGGGGCCTAATG
+GGGGAGCCAACTCCCATTTATTGGGTTGGGCCTACCGGCCCCTTTTCCAGCGGGAAA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ACCGGCGGGCCCCCTGCTTTAAAGAATTCGCCCACCCCCCGGGGGGGGGGGGTTTGCGTTTTG
+GGGGCCTTTCCCCTTTCCCCGTTATGGACCCCTTGCGCCTGGTCGTTCGGGTGGGGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GAGGGGTATTAGCTCCCTCAAAGGGGGGGAATCCCGGTTTTCCCCCAAATCGGGGTTCCCCCA
+GGAAAAAAATTTGACCAAAGGCCCCCAAAAGGCCCGGACCCTAAAAGGGCCCCTTCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TGGGTTTTTTCCTAGGGTCTCCCCCCCTGACAGGTATACAAAAATCACCCTCCAGTCTAGGGG
+GGGAACCCCGCAGGGCTATATAGATCCCACGGGTTTTCCCCTGGAAATCCCCTTGCG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TGTCGCCAGCTATTTAGGTGACACTATAGAATACTCAAGCTATGCATCAAGCTTGGTACCGAG
+CTCGGATCCACTAGTAACGGCCGCCAGTGTGCTGGAATTCGCCCTTGGCTCAACCTC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AAGCAGTAATAAACACAAGCAAAAGTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAGTACTAGTCGACGCGTGGCCAAGGGCGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 ATTCTGCAAATATCCATCACACTGGCGGCCGCTCGAGCATGCATCTAGAGGGCCCAATTCGCC
+CTATAGTGAGTCGTATTACAATTCACTGGCCGTCGTTTTACAACGTCGTGACTGGGA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTGACGCTATATAGGGCGAATTGGGCCCTCTAGTATGCATGCTCGAGCGGCCGCCAGTGTGAT
+GGATATCTGCAGAATTCGCCCTTGGCCACGCGTCGACTAGTACTTTTTTTTTTTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTGCGTGAAAGTGTTACATATTCTTTCACTTGTTTGTACAGAGAGGTTTTTCTGAATATTTAT
+TTTAAGGGTTAAATAACTTTTGCTTGTGTTTATTACTGCTTGAGGTTGAGCCAAGGG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CGAATTCCAGCACACTGGCGGCCGTTACTAGTGGATCCGAGCTCGGTACCAAGCTTGATGCAT
+AGCTTGAGTATTCTATAGTGTCACCTAAATAGCTTGGCGTAATCATGGTCATAGCTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTCCTGTGTGAAATTGTTATCCGCTCACAATTCCACACAACATACGAGCCGGAAGCATAAAG
+TGTAAAGCCTGGGGTGCCTAATGAGTGAGCTAACTCACATTAATTGCGTTGCGCTCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CTGCCCGCTTTCCAGTCGGGAAACCTGTCGTGCCAGCTGCATTAATGAATCGGCCAACGCGCG
+GGGAGAGGCGGTTTGCGTATTGGGCGCTCTTCCGCTTCCTCGCTCACTGACTCGCTG[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CGCTCGGTCGTTCGGCTGCGGCGAGCGGTATCAGCTCACTCAAAGGCGGTAATACGGTTATCC
+ACAGAATCAGGGGATAACGCAGGAAAGAACATGTGAGCAAAAGGCCAGCAAAAGGCC[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 GGGAACCGTAAAAAGGCCGCGTTGCTGGCGTTTTTCCATAGGCTCCGCCCCCCTGACGAGCAT
+CACAAAAATCGACGCTCAAGTCAGAAGTGGCGAAACCCCGACAGGACTATAAAGATA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TGCATGCCACTTTTAGGTGACACTATAGAATACTCAAGCTATGCAACAAGCTTGGTACCGAGC
+TCGGATCCACTAGTAACGGCCGCCAGTGTGCTGGAATTCGCCCTTGGCTCAACCTCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 AGCAGTAATAAACACAAGCAAAAGTGATAAAACCCTTAAAATAAATATTCAGAAAAACCTTTT
+TGTACATACAAGTGAAAGAATATGTAACACTTTCACGCAAAAAAAAAAAAAAAAATA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 CTAGTCGACGCGTGGCCAAGGGCGAATTCTGCAGATATCCATCACACTGGCGGCCGCTCGAGC
+ATGCATCTAGAGGAGCCAATTCGCCCTATAGTGAGTCGTATTACAATTTTTTTTTTT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TTTTTTGTTACAACGTCGTGACTGGTAAAAACACGGCGTTACCCAACTTAATCGCCTTTTTTT
+TTTTTTTTTCCTTTCGCCAGCTGGTGTAATAACGAAAAAGAACCCCCCCCTCGCCCT[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 726--726
+[]\T1/pcr/m/n/6 TCCTAACAATTGCGCAGCCTGAATGGCGAATGGACGCCCCCTGTAGCGGCGCATTAATCGCGG
+CGGGTGTGGTGGTTACTCCCCAGCATGACCACTACACTTGCTAGCGCCCTAGTGCCC[] 
+ []
+
+[164] [165]
+File: figures/supplemental.sashimi.mouse.anti.png Graphic file (type QTm)
+ <use  "figures/supplemental.sashimi.mouse.anti.png" >
+File: figures/supplemental.sashimi.human.anti.png Graphic file (type QTm)
+
+<use  "figures/supplemental.sashimi.human.anti.png" >
+File: figures/supplemental.logFC.anti.png Graphic file (type QTm)
+
+<use  "figures/supplemental.logFC.anti.png" >
+File: figures/supplemental.sashimi-celltype.anti.png Graphic file (type QTm)
+
+<use  "figures/supplemental.sashimi-celltype.anti.png" >
+File: figures/supplemental.logFC-celltype.anti.png Graphic file (type QTm)
+
+<use  "figures/supplemental.logFC-celltype.anti.png" >
+Overfull \hbox (1.16151pt too wide) in paragraph at lines 820--820
+ []\T1/ptm/b/n/12 Chromosome| 
+ []
+
+
+Overfull \hbox (1.7026pt too wide) in paragraph at lines 820--820
+ []\T1/ptm/b/n/12 Strand| 
+ []
+
+File: figures/supplemental.mean.expression.hippocampus.png Graphic file (type Q
+Tm)
+<use  "figures/supplemental.mean.expression.hippocampus.png" >)
+(./data/appendix3.tex [166] [167] [168] [169] [170] [171] [172]
+APPENDIX C.
+[173
+
+] [174] [175]
+File: figures/mouse.sense.sashimi.compare.png Graphic file (type QTm)
+ <use  "figures/mouse.sense.sashimi.compare.png" >
+File: figures/mouse.sense.log2FC.comparison.png Graphic file (type QTm)
+
+<use  "figures/mouse.sense.log2FC.comparison.png" >
+File: figures/mouse.sense.sashimi.celltype.png Graphic file (type QTm)
+
+<use  "figures/mouse.sense.sashimi.celltype.png" >
+File: figures/mouse.sense.log2FC.celltype.png Graphic file (type QTm)
+
+<use  "figures/mouse.sense.log2FC.celltype.png" > [176] [177] [178] [179]
+[180]
+Overfull \hbox (29.89204pt too wide) in paragraph at lines 197--197
+[]\T1/pcr/m/n/10.95 ___________________________________________________________
+___________[] 
+ []
+
+
+Overfull \hbox (29.89204pt too wide) in paragraph at lines 197--197
+[]\T1/pcr/m/n/10.95 ***********************************************************
+***********[] 
+ []
+
+
+Overfull \hbox (23.32205pt too wide) in paragraph at lines 197--197
+[]  \T1/pcr/m/n/10.95 1 MKRAAAKHLI ERYYHQLTEG CGNEACTNEF CASCPTFLRM DNNAAAIKAL 
+ELYKINAKLC[] 
+ []
+
+
+Overfull \hbox (23.32205pt too wide) in paragraph at lines 197--197
+[] \T1/pcr/m/n/10.95 61 DPHPSKKGAS SAYLENSKGA SNNSEIKMNK KEGKDFKDVI YLTEEKVYEI 
+YEFCRESEDY[] 
+ []
+
+
+Overfull \hbox (23.32205pt too wide) in paragraph at lines 197--197
+[]\T1/pcr/m/n/10.95 121 SPLIRVIGRI FSSAEALVLS FRKVKQHTKE ELKSLQEKDE DKDEDEKEKA 
+ACSAAAMEED[] 
+ []
+
+
+Overfull \hbox (23.32205pt too wide) in paragraph at lines 197--197
+[]\T1/pcr/m/n/10.95 181 SEASSSRMGD SSQGDNNVQK LGPDDVTVDI DAIRRVYSSL LANEKLETAF 
+LNALVYLSPN[] 
+ []
+
+
+Overfull \hbox (23.32205pt too wide) in paragraph at lines 197--197
+[]\T1/pcr/m/n/10.95 241 VECDLTYHNV YTRDPNYLNL FIIVMENSNL HSPEYLEMAL PLFCKAMCKL 
+PLEAQGKLIR[] 
+ []
+
+
+Overfull \hbox (23.32205pt too wide) in paragraph at lines 197--197
+[]\T1/pcr/m/n/10.95 301 LWSKYSADQI RRMMETFQQL ITYKVISNEF NSRNLVNDDD AIVAASKCLK 
+MVYYANVVGG[] 
+ []
+
+
+Overfull \hbox (23.32205pt too wide) in paragraph at lines 197--197
+[]\T1/pcr/m/n/10.95 361 DVDTNHNEED DEEPIPESSE LTLQELLGDE RRNKKGPRVD PLETELGVKT 
+LDCRKPLISF[] 
+ []
+
+
+Overfull \hbox (23.32205pt too wide) in paragraph at lines 197--197
+[]\T1/pcr/m/n/10.95 421 EEFINEPLND VLEMDKDYTF FKVETENKFS FMTCPFILNA VTKNLGLYYD 
+NRIRMYSERR[] 
+ []
+
+
+Overfull \hbox (23.32205pt too wide) in paragraph at lines 197--197
+[]\T1/pcr/m/n/10.95 481 ITVLYSLVQG QQLNPYLRLK VRRDHIIDDA LVRLEMIAME NPADLKKQLY 
+VEFEGEQGVD[] 
+ []
+
+
+Overfull \hbox (23.32205pt too wide) in paragraph at lines 197--197
+[]\T1/pcr/m/n/10.95 541 EGGVSKEFFQ LVVEEIFNPD IGMFTYDEAT KLFWFNPSSF ETEGQFTLIG 
+IVLGLAIYNN[] 
+ []
+
+
+Overfull \hbox (23.32205pt too wide) in paragraph at lines 197--197
+[]\T1/pcr/m/n/10.95 601 CILDVHFPMV VYRKLMGKKG TFRDLGDSHP VLYQSLKDLL EYEGSVEDDM 
+MITFQISQTD[] 
+ []
+
+
+Overfull \hbox (23.32205pt too wide) in paragraph at lines 197--197
+[]\T1/pcr/m/n/10.95 661 LFGNPMMYDL KENGDKIPIT NENRKEFVNL YSDYILNKSV EKQFKAFRRG 
+FHMVTNESPL[] 
+ []
+
+
+Overfull \hbox (16.75206pt too wide) in paragraph at lines 197--197
+[]\T1/pcr/m/n/10.95 GAGCCCTCGC CCGGCAGGGT TGGCGCGCGC TGCCTGTCGG GATACTCGGT CCGC
+C-CACC 61[] 
+ []
+
+[181]
+Overfull \hbox (23.32205pt too wide) in paragraph at lines 197--197
+[] \T1/pcr/m/n/10.95 E  E  T   T  E  Y  D   G  G  Y   T  R  E   S  V  V  I   R 
+ -  -  762[] 
+ []
+
+
+Overfull \hbox (3.61208pt too wide) in paragraph at lines 197--197
+[]\T1/pcr/m/n/10.95 ___________________________________________________________
+_______[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 257--257
+[]\T1/pcr/m/n/6 TGCACGCAAGCTCGATAACCCTCACTAAAGGGACTAGTCCTGCAGGTTTAAACGAATTCGCCC
+TTTCTCCTGTTTCTGCTTTCTGAGTGTGAGATTAAAGGTGTTGTACCACCATGACCA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 257--257
+[]\T1/pcr/m/n/6 GCATCAAATTCATGAGAAAAAAAATTCTTTACCTTTCTAATCATCTAAGAAATGAAACAACAG
+TGAGATACTACTTCCTACCTGCTAGAATATATGAATGTTCATGTTGGTGAGGTTGTA[] 
+ []
+
+
+Overfull \hbox (1.9915pt too wide) in paragraph at lines 257--257
+[]\T1/pcr/m/n/6 AGCAAACAGAAATCTTGTACACAGTTGTTTGGAATGTAAATTAGATCGATTATGGAAAATAAC
+AGGTTCCTAAAAATTGCAATGACCTAGCAATTGTATTATAGAAATATATAGTGTGTT[] 
+ []
+
+[182]
+File: figures/informative_snps.png Graphic file (type QTm)
+ <use  "figures/informative_snps.png" > [183]
+File: figures/supplemental.temporal.sense.png Graphic file (type QTm)
+
+<use  "figures/supplemental.temporal.sense.png" >) (./data/appendix4.tex
+[184] [185]
+APPENDIX D.
+File: figures/embryos-collected.pdf Graphic file (type QTm)
+<use  "figures/embryos-collected.pdf" >
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 25.
+File: figures/blastocyst.pdf Graphic file (type QTm)
+ <use  "figures/blastocyst.pdf" >
+File: figures/icm.pdf Graphic file (type QTm)
+
+<use  "figures/icm.pdf" >
+File: figures/cell-dissociated.pdf Graphic file (type QTm)
+ <use  "figures/cell-dissociated.pdf" >
+File: figures/expansion.pdf Graphic file (type QTm)
+
+<use  "figures/expansion.pdf" >
+File: figures/timecourse-R_edit.pdf Graphic file (type QTm)
+ <use  "figures/timecourse-R_edit.pdf" >
+Overfull \hbox (3.62689pt too wide) in paragraph at lines 34--37
+ [][] 
+ []
+
+File: figures/dpd2.pdf Graphic file (type QTm)
+<use  "figures/dpd2.pdf" >
+File: figures/dpd13.pdf Graphic file (type QTm)
+ <use  "figures/dpd13.pdf" >
+File: figures/neuron-off.pdf Graphic file (type QTm)
+
+<use  "figures/neuron-off.pdf" >
+File: figures/neuron-on.pdf Graphic file (type QTm)
+ <use  "figures/neuron-on.pdf" >
+File: figures/plate-analysis-R_edit.pdf Graphic file (type QTm)
+
+<use  "figures/plate-analysis-R_edit.pdf" >
+Overfull \hbox (3.61122pt too wide) in paragraph at lines 61--64
+ [][] 
+ []
+
+File: figures/well-analysis-R_edit.pdf Graphic file (type QTm)
+<use  "figures/well-analysis-R_edit.pdf" >
+Overfull \hbox (3.61812pt too wide) in paragraph at lines 71--74
+ [][] 
+ []
+
+File: figures/plate-analysis2.pdf Graphic file (type QTm)
+<use  "figures/plate-analysis2.pdf" > [186
+
+]
+File: figures/plate-analysis3.pdf Graphic file (type QTm)
+
+<use  "figures/plate-analysis3.pdf" > [187]
+File: figures/plate-analysis4.pdf Graphic file (type QTm)
+
+<use  "figures/plate-analysis4.pdf" >) (./data/appendix5.tex [188] [189]
+[190] [191] [192] [193] [194]
+APPENDIX E.
+[195
+
+] [196]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 81.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 81.
+ [197]
+[198]
+File: figures/Ube3aYFP_ES_Genotyping.pdf Graphic file (type QTm)
+ <use  "figures/Ube3aYFP_ES_Genotyping.pdf" > [199] [200]
+File: figures/HTS01.pdf Graphic file (type QTm)
+
+<use  "figures/HTS01.pdf" >
+File: figures/HTS02.pdf Graphic file (type QTm)
+ <use  "figures/HTS02.pdf" > [201]
+File: figures/HTS03.pdf Graphic file (type QTm)
+
+<use  "figures/HTS03.pdf" >
+File: figures/HTS04.pdf Graphic file (type QTm)
+ <use  "figures/HTS04.pdf" >
+File: figures/HTS05.pdf Graphic file (type QTm)
+
+<use  "figures/HTS05.pdf" > [202]
+File: figures/HTS06.pdf Graphic file (type QTm)
+ <use  "figures/HTS06.pdf" > [203] [204]
+File: figures/HTS07.pdf Graphic file (type QTm)
+
+<use  "figures/HTS07.pdf" > [205]
+File: figures/HTS08.pdf Graphic file (type QTm)
+ <use  "figures/HTS08.pdf" > [206]
+File: figures/HTS09.pdf Graphic file (type QTm)
+
+<use  "figures/HTS09.pdf" > [207] [208]
+Overfull \hbox (12.41635pt too wide) in paragraph at lines 312--314
+\T1/ptm/b/n/12 NeuN-Overlap \T1/ptm/m/n/12 im-age pro-cess-ing method uses the 
+same pro-to-col for Nuclei-Overlap method;
+ []
+
+[209]
+File: figures/HTS10.pdf Graphic file (type QTm)
+ <use  "figures/HTS10.pdf" > [210] [211]
+File: figures/HTS11.pdf Graphic file (type QTm)
+ <use  "figures/HTS11.pdf" >
+[212]
+File: figures/HTS12.pdf Graphic file (type QTm)
+ <use  "figures/HTS12.pdf" > [213]
+File: figures/HTS13.pdf Graphic file (type QTm)
+ <use  "figures/HTS13.pdf" > [214]
+[215] [216] [217] [218] [219] [220]
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 577.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 577.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 577.
+
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 590.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 590.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 590.
+
+[221] [222] [223]
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 679.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 679.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 679.
+
+[224]
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 705.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 705.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 705.
+
+[225] [226] [227] [228]
+Overfull \hbox (1.99242pt too wide) in paragraph at lines 798--798
+[]\T1/pcr/m/n/12 cp -v ./Trimmomatic-0.36/adapters/* ~/rna-seq/refs/adapters/[]
+ 
+ []
+
+[229] [230] [231]
+Overfull \hbox (43.99725pt too wide) in paragraph at lines 907--908
+[]\T1/pcr/m/n/12 wget $ftp : / / igenome : G3nom3s4u @ ussd-[]ftp . illumina . 
+com / Homo _ sapiens /
+ []
+
+[232]
+Overfull \hbox (43.99725pt too wide) in paragraph at lines 909--910
+[]\T1/pcr/m/n/12 wget $ftp : / / igenome : G3nom3s4u @ ussd-[]ftp . illumina . 
+com / Mus _ musculus /
+ []
+
+
+Overfull \hbox (23.5924pt too wide) in paragraph at lines 938--938
+[]\T1/pcr/m/n/12 hisat2_extract_splice_sites.py ../annotation/Genes/gene.gtf > 
+\[] 
+ []
+
+
+Overfull \hbox (45.1924pt too wide) in paragraph at lines 938--938
+[]                               \T1/pcr/m/n/12 ./splice-exons/splicesites.hg19
+.tsv[] 
+ []
+
+
+Overfull \hbox (1.99242pt too wide) in paragraph at lines 938--938
+[]\T1/pcr/m/n/12 hisat2-build -p 8 --ss ./splice-exons/splicesites.hg19.tsv \[]
+ 
+ []
+
+
+Overfull \hbox (23.5924pt too wide) in paragraph at lines 938--938
+[]\T1/pcr/m/n/12 hisat2_extract_splice_sites.py ../annotation/Genes/gene.gtf > 
+\[] 
+ []
+
+
+Overfull \hbox (37.9924pt too wide) in paragraph at lines 938--938
+[]                               \T1/pcr/m/n/12 ./splice-exons/splicesites.mm9.
+tsv[] 
+ []
+
+[233]
+Overfull \hbox (47.47243pt too wide) in paragraph at lines 949--955
+\T1/pcr/m/n/12 wget $ftp : / / ftp . sra . ebi . ac . uk / vol1 / fastq / ERR31
+5 / ERR315477 / ERR315477 _
+ []
+
+
+Overfull \hbox (47.47243pt too wide) in paragraph at lines 949--955
+\T1/pcr/m/n/12 wget $ftp : / / ftp . sra . ebi . ac . uk / vol1 / fastq / ERR31
+5 / ERR315477 / ERR315477 _
+ []
+
+
+Overfull \hbox (47.47243pt too wide) in paragraph at lines 949--955
+\T1/pcr/m/n/12 wget $ftp : / / ftp . sra . ebi . ac . uk / vol1 / fastq / ERR31
+5 / ERR315455 / ERR315455 _
+ []
+
+
+Overfull \hbox (47.47243pt too wide) in paragraph at lines 949--955
+\T1/pcr/m/n/12 wget $ftp : / / ftp . sra . ebi . ac . uk / vol1 / fastq / ERR31
+5 / ERR315455 / ERR315455 _
+ []
+
+
+Overfull \hbox (47.47243pt too wide) in paragraph at lines 949--955
+\T1/pcr/m/n/12 wget $ftp : / / ftp . sra . ebi . ac . uk / vol1 / fastq / ERR31
+5 / ERR315432 / ERR315432 _
+ []
+
+
+Overfull \hbox (47.47243pt too wide) in paragraph at lines 949--955
+\T1/pcr/m/n/12 wget $ftp : / / ftp . sra . ebi . ac . uk / vol1 / fastq / ERR31
+5 / ERR315432 / ERR315432 _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 949--955
+
+ []
+
+[234]
+Overfull \hbox (61.87242pt too wide) in paragraph at lines 969--971
+\T1/pcr/m/n/12 wget $ftp : / / ftp . sra . ebi . ac . uk / vol1 / fastq / ERR31
+5 / ERR315${i} / ERR315${i} _
+ []
+
+
+Overfull \hbox (61.87242pt too wide) in paragraph at lines 969--971
+\T1/pcr/m/n/12 wget $ftp : / / ftp . sra . ebi . ac . uk / vol1 / fastq / ERR31
+5 / ERR315${i} / ERR315${i} _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 969--971
+
+ []
+
+[235]
+Overfull \hbox (1.99242pt too wide) in paragraph at lines 1012--1012
+[] \T1/pcr/m/n/12 $reads/ERR315${i}_1.fastq.gz $reads/ERR315${i}_2.fastq.gz \[]
+ 
+ []
+
+
+Overfull \hbox (30.7924pt too wide) in paragraph at lines 1012--1012
+[] \T1/pcr/m/n/12 ERR315${i}_pe1_trimmo.fastq.gz ERR315${i}_se1_trimmo.fastq.gz
+ \[] 
+ []
+
+
+Overfull \hbox (30.7924pt too wide) in paragraph at lines 1012--1012
+[] \T1/pcr/m/n/12 ERR315${i}_pe2_trimmo.fastq.gz ERR315${i}_se2_trimmo.fastq.gz
+ \[] 
+ []
+
+
+Overfull \hbox (45.1924pt too wide) in paragraph at lines 1012--1012
+[] \T1/pcr/m/n/12 ILLUMINACLIP:$adapter_file:2:30:10 LEADING:3 TRAILING:3 MINLE
+N:25[] 
+ []
+
+[236]
+Overfull \hbox (73.99239pt too wide) in paragraph at lines 1020--1020
+[]     \T1/pcr/m/n/12 ILLUMINACLIP:$adapter_file:2:30:10 LEADING:3 TRAILING:3 M
+INLEN:25[] 
+ []
+
+[237] [238] [239] [240] [241]
+File: figures/igv1.png Graphic file (type QTm)
+ <use  "figures/igv1.png" > [242]
+File: figures/igv2.png Graphic file (type QTm)
+
+<use  "figures/igv2.png" > [243]
+File: figures/igv3.png Graphic file (type QTm)
+ <use  "figures/igv3.png" >
+File: figures/igv4.png Graphic file (type QTm)
+
+<use  "figures/igv4.png" > [244]
+File: figures/igv5.png Graphic file (type QTm)
+ <use  "figures/igv5.png" >
+File: figures/igv6.png Graphic file (type QTm)
+
+<use  "figures/igv6.png" > [245]
+File: figures/igv7.png Graphic file (type QTm)
+ <use  "figures/igv7.png" >
+Overfull \hbox (66.79239pt too wide) in paragraph at lines 1274--1274
+[]\T1/pcr/m/n/12 bedtools merge -i isoforms.hg19.sorted.bed > isoforms.hg19_mer
+ged.bed[] 
+ []
+
+[246]
+Overfull \hbox (73.99239pt too wide) in paragraph at lines 1292--1292
+[]\T1/pcr/m/n/12 bcftools view var.raw.bcf | vcfutils.pl varFilter -D1333 > var
+.flt.vcf[] 
+ []
+
+
+Overfull \hbox (30.7924pt too wide) in paragraph at lines 1302--1302
+[]\T1/pcr/m/n/12 gffread -w annotation.file.fa -g /path/to/genome/fasta/chr7.fa
+ \[] 
+ []
+
+
+Overfull \hbox (66.79239pt too wide) in paragraph at lines 1302--1302
+[]\T1/pcr/m/n/12 GeneSeqer -s mouse -f -E est.files.fa -L comparison.files.fa >
+ output[] 
+ []
+
+[247]
+Overfull \hbox (1.99242pt too wide) in paragraph at lines 1334--1334
+[]\T1/pcr/m/n/12 awk -F "\t" '$7 == "+" { print $9 }' annotation.file.gtf | \[]
+ 
+ []
+
+
+Overfull \hbox (1.99242pt too wide) in paragraph at lines 1334--1334
+[]    \T1/pcr/m/n/12 awk -F "; " '$1 == "gene_id \"MSTRG.2451\""' > Ube3a.txt[]
+ 
+ []
+
+[248] [249]
+Overfull \hbox (52.3924pt too wide) in paragraph at lines 1414--1414
+[]\T1/pcr/m/n/12 bg_unstranded <- ballgown(samples=as.vector(pheno_unstranded$p
+ath),[] 
+ []
+
+[250]
+Overfull \hbox (30.7924pt too wide) in paragraph at lines 1414--1414
+[]\T1/pcr/m/n/12 plotMeans("MSTRG.2451",bg_unstranded, groupvar="type", legend=
+T)[] 
+ []
+
+
+Overfull \hbox (30.7924pt too wide) in paragraph at lines 1414--1414
+[]\T1/pcr/m/n/12 plotMeans("MSTRG.2448",bg_unstranded, groupvar="type", legend=
+T)[] 
+ []
+
+[251]
+Overfull \hbox (52.3924pt too wide) in paragraph at lines 1533--1533
+[]                               \T1/pcr/m/n/12 annot.ext="/path/to/annotation.
+gtf",[] 
+ []
+
+
+Overfull \hbox (1.99242pt too wide) in paragraph at lines 1533--1533
+[]                               \T1/pcr/m/n/12 GTF.featureType="transcript",[]
+ 
+ []
+
+
+Overfull \hbox (1.99242pt too wide) in paragraph at lines 1533--1533
+[]                               \T1/pcr/m/n/12 GTF.attrType="transcript_id",[]
+ 
+ []
+
+
+Overfull \hbox (45.1924pt too wide) in paragraph at lines 1533--1533
+[]                              \T1/pcr/m/n/12 annot.ext="/path/to/annotation.g
+tf",[] 
+ []
+
+[252]
+Overfull \hbox (16.39241pt too wide) in paragraph at lines 1533--1533
+[]                    \T1/pcr/m/n/12 group=rep(1:4, each=3),##depend on samples
+[] 
+ []
+
+
+Overfull \hbox (9.19241pt too wide) in paragraph at lines 1533--1533
+[]\T1/pcr/m/n/12 keep.t      <- rowSums(cpm(transcripts) > 1) >= 3  #n=12, 25%[
+] 
+ []
+
+
+Overfull \hbox (23.5924pt too wide) in paragraph at lines 1533--1533
+[]\T1/pcr/m/n/12 transcripts <- transcripts[keep.transcripts, ,keep.lib.sizes=F
+][] 
+ []
+
+
+Overfull \hbox (1.99242pt too wide) in paragraph at lines 1533--1533
+[]\T1/pcr/m/n/12 rownames(transcripts$samples) <- pheno_data$id #sample names[]
+ 
+ []
+
+[253]
+Overfull \hbox (9.19241pt too wide) in paragraph at lines 1533--1533
+[]\T1/pcr/m/n/12 transcripts <- estimateDisp(transcripts, design, robust=TRUE)[
+] 
+ []
+
+[254] [255]
+Overfull \hbox (16.39241pt too wide) in paragraph at lines 1573--1573
+[]                        \T1/pcr/m/n/12 aes(x=Sample, y=logFC, fill=GeneID)) +
+[] 
+ []
+
+
+Overfull \hbox (59.59239pt too wide) in paragraph at lines 1573--1573
+[]    \T1/pcr/m/n/12 scale_y_continuous(name="Expression: log2(FC)",limits=c(-6
+,1)) +[] 
+ []
+
+[256]
+Overfull \hbox (95.59238pt too wide) in paragraph at lines 1573--1573
+[]          \T1/pcr/m/n/12 axis.text.x=element_text(face="bold", colour="black"
+, size=16),[] 
+ []
+
+)) [257] (./tamuthesis.aux (./data/titlepage.aux) (./data/abstract.aux)
+(./data/dedication.aux) (./data/acknowledgements.aux) (./data/contributors.aux)
+(./data/nomenclature.aux) (./data/lists.aux) (./data/section1.aux)
+(./data/section2.aux) (./data/section3.aux) (./data/section4.aux)
+(./data/section5.aux) (./data/section6.aux) (./data/appendices.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 65 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 24818 strings out of 495708
+ 563855 string characters out of 3188823
+ 745126 words of memory out of 3000000
+ 27291 multiletter control sequences out of 15000+200000
+ 45849 words of font info for 59 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 57i,18n,86p,2129b,2518s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on tamuthesis.pdf (282 pages).
