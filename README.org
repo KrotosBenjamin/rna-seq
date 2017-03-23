@@ -1,19 +1,19 @@
 # Working directory for RNA-seq analysis
 # Creator: KJ Benjamin
-| Document Name                  | Location            | Purpose                              |
-|--------------------------------+---------------------+--------------------------------------|
-| README.org                     |                     | Master doc                           |
-|--------------------------------+---------------------+--------------------------------------|
-| Trimmomatics.jar               | /tools/Trimmomatics | Run Trimmomatics                     |
-| fastqc.sh                      | /tools/FastQC       | Run fastqc                           |
-| hisat2.sh                      | /tools/hisat2-2.0.4 | Run hisat2                           |
-| hisat2_extract_exons.py        | /tools/hisat2-2.0.4 | Extract exons with hisat2            |
-| hisat2_extract_splice_sites.py | /tools/hisat2-2.0.4 | Extract splice sites with hisat2     |
-| hisat2-build.sh                | /tools/hisat2-2.0.4 | Build hisat2 indexes                 |
-| stringtie.sh                   | /tools/stringtie    | Run stringtie and stringtie --merge  |
-|--------------------------------+---------------------+--------------------------------------|
-| tamuthesis.tex                 | /tamuthesis         | Main LaTeX document for thesis       |
-| tamuthesis.pdf                 | /tamuthesis         | PDF of Thesis                        |
-|--------------------------------+---------------------+--------------------------------------|
-|                                |                     |                                      |
-|                                |                     |                                      |
+| Document Name                  | Location                            | Purpose                             |
+|--------------------------------+-------------------------------------+-------------------------------------|
+| README.org                     |                                     | Master doc                          |
+|--------------------------------+-------------------------------------+-------------------------------------|
+| fastqc.sh                      | /tools/FastQC                       | Run fastqc                          |
+| Trimmomatics-0.36.jar          | /tools/trimmomatics-0.36            | Run Trimmomatics                    |
+| hisat2.sh                      | /tools/hisat2-2.0.4                 | Run hisat2                          |
+| hisat2_extract_exons.py        | /tools/hisat2-2.0.4                 | Extract exons with hisat2           |
+| hisat2_extract_splice_sites.py | /tools/hisat2-2.0.4                 | Extract splice sites with hisat2    |
+| hisat2-build.sh                | /tools/hisat2-2.0.4                 | Build hisat2 indexes                |
+| stringtie.sh                   | /tools/stringtie-1.3.3.Linux_x86_64 | Run stringtie and stringtie --merge |
+|--------------------------------+-------------------------------------+-------------------------------------|
+| tamuthesis.tex                 | /tamuthesis                         | Main LaTeX document for thesis      |
+| tamuthesis.pdf                 | /tamuthesis                         | PDF of Thesis                       |
+|--------------------------------+-------------------------------------+-------------------------------------|
+|                                |                                     |                                     |
+|                                |                                     |                                     |
