@@ -1,4 +1,0 @@
-\beamer@endinputifotherversion {3.26pt}
-\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
-\beamer@sectionintoc {2}{High throughput drug screening of mouse embryonic stem cell-derived neurons}{14}{0}{2}
-\beamer@sectionintoc {3}{Mouse embryonic stem cell-derived neuron high-throughput drug screen assay for Angelman syndrome}{17}{0}{3}
