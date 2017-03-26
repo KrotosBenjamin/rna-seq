@@ -35,5 +35,4 @@
 | plos2015.bst         | /tamuthesis/style | PLoS citation format                                           |
 | tamuconfig.sty       | /tamuthesis/style | TAMU specific style                                            |
 | README.md            | /tamuthesis/style | README file for style                                          |
-|                      |                   |                                                                |
 |----------------------+-------------------+----------------------------------------------------------------|
