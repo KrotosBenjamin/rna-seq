@@ -1,19 +1,35 @@
 # Working directory for RNA-seq analysis
 # Creator: KJ Benjamin
-| Document Name                  | Location                            | Purpose                             |
-|--------------------------------+-------------------------------------+-------------------------------------|
-| README.org                     |                                     | Master doc                          |
-|--------------------------------+-------------------------------------+-------------------------------------|
-| fastqc.sh                      | /tools/FastQC                       | Run fastqc                          |
-| Trimmomatics-0.36.jar          | /tools/trimmomatics-0.36            | Run Trimmomatics                    |
-| hisat2.sh                      | /tools/hisat2-2.0.4                 | Run hisat2                          |
-| hisat2_extract_exons.py        | /tools/hisat2-2.0.4                 | Extract exons with hisat2           |
-| hisat2_extract_splice_sites.py | /tools/hisat2-2.0.4                 | Extract splice sites with hisat2    |
-| hisat2-build.sh                | /tools/hisat2-2.0.4                 | Build hisat2 indexes                |
-| stringtie.sh                   | /tools/stringtie-1.3.3.Linux_x86_64 | Run stringtie and stringtie --merge |
-|--------------------------------+-------------------------------------+-------------------------------------|
-| tamuthesis.tex                 | /tamuthesis                         | Main LaTeX document for thesis      |
-| tamuthesis.pdf                 | /tamuthesis                         | PDF of Thesis                       |
-|--------------------------------+-------------------------------------+-------------------------------------|
-|                                |                                     |                                     |
-|                                |                                     |                                     |
+
+| Document Name        | Location         | Purpose                                                        |
+|----------------------+------------------+----------------------------------------------------------------|
+| README.org           |                  | Master doc                                                     |
+|----------------------+------------------+----------------------------------------------------------------|
+| README.txt           | /tamuthesis      | README file for tamuthesis                                     |
+| presentation.tex     | /tamuthesis      | LaTeX document for oral presentation                           |
+| presentation.pdf     | /tamuthesis      | PDF of oral presentation                                       |
+| tamuthesis.aux       | /tamuthesis      | AUX file for compiled LaTeX for tamuthesis                     |
+| tamuthesis.bbl       | /tamuthesis      | BibTex file for tamuthesis                                     |
+| tamuthesis.tex       | /tamuthesis      | Main LaTeX document for thesis                                 |
+| tamuthesis.pdf       | /tamuthesis      | PDF of Thesis                                                  |
+| abstract.tex         | /tamuthesis/data | Abstract for thesis                                            |
+| acknowledgements.tex | /tamuthesis/data | Acknowledgements for thesis                                    |
+| appendices.tex       | /tamuthesis/data | List of appendices in thesis                                   |
+| appendix1.tex        | /tamuthesis/data | Appendix 1 (protein interactions)                              |
+| appendix2.tex        | /tamuthesis/data | Appendix 2 (supplementary data chapter 2)                      |
+| appendix3.tex        | /tamuthesis/data | Appendix 3 (supplementary data chapter 3)                      |
+| appendix4.tex        | /tamuthesis/data | Appendix 4 (supplementary data chapter 5)                      |
+| appendix5.tex        | /tamuthesis/data | Appendix 5 (protocols used in dissertation)                    |
+| contributors.tex     | /tamuthesis/data | Contributor page listing funding and help                      |
+| dedication.tex       | /tamuthesis/data | Dedication page                                                |
+| lists.tex            | /tamuthesis/data | List of tables and figures to be added to TOC                  |
+| myReferences.bib     | /tamuthesis/data | BIB file for references                                        |
+| nomenclature.tex     | /tamuthesis/data | Nomenclature within Thesis                                     |
+| section1.tex         | /tamuthesis/data | Introduction                                                   |
+| section2.tex         | /tamuthesis/data | Chapter 2: Ube3a antisense characterization                    |
+| section3.tex         | /tamuthesis/data | Chapter 3: Ube3a mechanism                                     |
+| section4.tex         | /tamuthesis/data | Chapter 4: ES cell-derived neuronal culture protocol           |
+| section5.tex         | /tamuthesis/data | Chapter 5: HTS with ES cell-derived neurons (proof-of-concept) |
+| section6.tex         | /tamuthesis/data | Conclusion and Future studies                                  |
+| titlepage.tex        | /tamuthesis/data | Titlepage based on TAMU standards                              |
+|----------------------+------------------+----------------------------------------------------------------|
