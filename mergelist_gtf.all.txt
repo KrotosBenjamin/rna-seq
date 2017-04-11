@@ -1,0 +1,4 @@
+stranded/ba4.mc830/transcripts.chr15.gtf
+stranded/ba4.mc831/transcripts.chr15.gtf
+stranded/ba4.mc832/transcripts.chr15.gtf
+stranded/ba4.mc833/transcripts.chr15.gtf

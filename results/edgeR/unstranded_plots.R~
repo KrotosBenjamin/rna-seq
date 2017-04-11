@@ -1,0 +1,20 @@
+##Plot unstranded human data comparing tissues (cortex to heart, liver, and lung)
+##Clear workspace
+rm(list=ls(all=T))
+
+##Load libraries
+library(dplyr)
+library(ggplot2)
+library(devtools)
+
+pdf(file="tissue.comparison.hg19.pdf", useDingBats=FALSE)
+
+exons.unstranded <- read.table("unstranded_exon.data.tsv", sep="\t", header=TRUE)
+fc.exon <- ggplot(data=exons.unstranded, aes(x=Sample, y=logFC, fill=GeneID)) +
+    geom_bar(colour="black", width=0.8, stat="identity") +
+    geom_hline(aes(yintercept=0))
+
+fc.exon + scale_x_discrete(name="Tissue",limits=c("heart", "liver", "lung")) +
+    scale_y_continuous(name="Expression: log2(FC)",limits=c(-2,1)) + scale_fill_manual(values=c("grey10","grey20","grey30","grey")) + annotate("text",x=4,y=-1.07,label="***,0.028", size=5)+ annotate("text",x=3,y=.15,label="n.s.,1.0", size=5) + annotate("text",x=2,y=.15,label="n.s.,1.0", size=5) + annotate("text",x=1,y=-.21,label="n.s.,1.0", size=5)+ theme(legend.position="none",axis.text.x=element_text(face="bold",size=16),axis.title.y=element_text(face="bold",size=18),axis.text.y=element_text(size=16),panel.grid.minor=element_blank(),panel.grid.major=element_blank())
+
+dev.off()
